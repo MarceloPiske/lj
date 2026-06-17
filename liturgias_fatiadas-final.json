@@ -1,0 +1,2838 @@
+{
+  "liturgias_base": {
+    "universais": {
+      "nome_liturgia": "Elementos Universais",
+      "elementos": [
+        {
+          "id_elemento": "boas_vindas",
+          "titulo": "BOAS-VINDAS",
+          "rubrica_do_bloco": "Gera a tela inicial com as leituras do dia.",
+          "dialogo": [],
+          "html_customizado": ""
+        },
+        {
+          "id_elemento": "criancas",
+          "titulo": "MOMENTO DAS CRIANÇAS",
+          "rubrica_do_bloco": "Gera o slide com fundo infantil.",
+          "dialogo": [],
+          "html_customizado": "<textarea class='texto-livre' placeholder='Anotações para o Pastor (Opcional - Vai para o Word)'></textarea>"
+        },
+        {
+          "id_elemento": "mensagem",
+          "titulo": "MENSAGEM",
+          "rubrica_do_bloco": "Sermão ou Pregação.",
+          "dialogo": [],
+          "html_customizado": "<input type='text' class='input-tema' placeholder='Tema ou Frase (Para o Slide)' style='width: 100%; padding: 8px; margin-bottom: 8px; border: 1px solid #ccc; border-radius: 4px;'><textarea class='texto-livre' placeholder='Esboço/Texto do Sermão (Aparecerá apenas no Word)'></textarea>"
+        },
+        {
+          "id_elemento": "avisos",
+          "titulo": "AVISOS",
+          "rubrica_do_bloco": "Avisos paroquiais.",
+          "dialogo": [],
+          "html_customizado": "<textarea class='texto-livre' placeholder='Digite os avisos aqui (Gera os slides automaticamente)'></textarea>"
+        }
+      ]
+    },
+    "ordem_1": {
+      "nome_liturgia": "Ordem de Culto Principal I",
+      "elementos": [
+        {
+          "id_elemento": "hino_de_invocacao",
+          "titulo": "1. HINO DE INVOCAÇÃO",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "DE PÉ"
+            }
+          ]
+        },
+        {
+          "id_elemento": "invocacao",
+          "titulo": "2. INVOCAÇÃO",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "Em lembrança de seu batismo, todos poderão fazer o sinal da cruz ✝."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "O oficiante volta-se ao altar."
+            },
+            {
+              "orador": "O",
+              "texto": "Em nome do Pai e do ✝ Filho e do Espírito Santo."
+            },
+            {
+              "orador": "C",
+              "texto": "Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "exortacao_confessional",
+          "titulo": "3. EXORTAÇÃO E/OU ALOCUÇÃO CONFESSIONAL",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "Em preparação à Confissão dos Pecados, o oficiante pode proferir uma breve Alocução."
+            }
+          ]
+        },
+        {
+          "id_elemento": "confissao_dialogo_introdutorio",
+          "titulo": "4. CONFISSÃO E ABSOLVIÇÃO - DIÁLOGO INTRODUTÓRIO",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "O oficiante volta-se para a congregação."
+            },
+            {
+              "orador": "O",
+              "texto": "Deus é nosso refúgio e fortaleza."
+            },
+            {
+              "orador": "C",
+              "texto": "Socorro bem presente nas tribulações."
+            },
+            {
+              "orador": "O",
+              "texto": "Se dissermos que não temos pecado, a nós mesmos nos enganamos, e a verdade não está em nós."
+            },
+            {
+              "orador": "C",
+              "texto": "Mas se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar e nos purificar de toda injustiça."
+            },
+            {
+              "orador": "O",
+              "texto": "Confessemos, pois, os nossos pecados:"
+            }
+          ]
+        },
+        {
+          "id_elemento": "confissao_oracao",
+          "titulo": "CONFISSÃO DOS PECADOS (ORAÇÃO)",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "O oficiante volta-se para o altar."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "DE PÉ/AJOELHADO"
+            },
+            {
+              "orador": "T",
+              "texto": "Ó Deus de toda misericórdia, nós te confessamos que, por natureza, somos pecaminosos e impuros e que temos cometido pecado contra ti por pensamentos, palavras e ações, tanto pelo que fizemos como pelo que deixamos de fazer. Merecemos por isso a tua eterna condenação. Ó Deus, por amor de Jesus Cristo, não nos condenes. Tem misericórdia de nós. Dá-nos o teu perdão. Consola-nos com o teu Santo Espírito."
+            }
+          ]
+        },
+        {
+          "id_elemento": "absolvicao_opcao_1",
+          "titulo": "ABSOLVIÇÃO - OPÇÃO I",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "O oficiante volta-se para a congregação."
+            },
+            {
+              "orador": "O",
+              "texto": "Tendo, pois, confessado os vossos pecados, confiando no perdão de Deus e desejando o consolo do Espírito Santo, como ministro da Palavra, chamado e ordenado, anuncio-vos a graça de Deus e, em nome e por ordem de Jesus Cristo, perdoo todos os vossos pecados, em nome do Pai e do ✝ Filho e do Espírito Santo."
+            },
+            {
+              "orador": "C",
+              "texto": "Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "absolvicao_opcao_2",
+          "titulo": "ABSOLVIÇÃO - OPÇÃO II",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "O Deus de toda a misericórdia entregou o seu próprio Filho à morte, e por amor dele nos perdoou todos os pecados. E aos que nele confiam, Deus reconhece e declara filhos e herdeiros do seu reino e lhes concede o Espírito Santo."
+            },
+            {
+              "orador": "C",
+              "texto": "Amém."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "DE PÉ"
+            }
+          ]
+        },
+        {
+          "id_elemento": "introito",
+          "titulo": "5. INTROITO",
+          "rubrica_do_bloco": "O Introito poderá ser cantado ou lido responsivamente. A congregação dirá ou cantará o Gloria Patri. Um salmo ou hino apropriado pode substituir o Introito.",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "a: Antífona"
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "b: Salmo"
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "c: Gloria Patri"
+            },
+            {
+              "orador": "C",
+              "texto": "Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será, de eternidade a eternidade. Amém."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "d: Antífona"
+            }
+          ]
+        },
+        {
+          "id_elemento": "kyrie",
+          "titulo": "6. KYRIE",
+          "rubrica_do_bloco": "O hino nº 229 (Senhor Deus, Pai Celestial) pode ser usado como alternativa ao Kyrie.",
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "Kyrie eleison."
+            },
+            {
+              "orador": "C",
+              "texto": "Ó Senhor, misericórdia!"
+            },
+            {
+              "orador": "O",
+              "texto": "Christe eleison."
+            },
+            {
+              "orador": "C",
+              "texto": "Ó Cristo, misericórdia!"
+            },
+            {
+              "orador": "O",
+              "texto": "Kyrie eleison."
+            },
+            {
+              "orador": "C",
+              "texto": "Ó Senhor, misericórdia!"
+            }
+          ]
+        },
+        {
+          "id_elemento": "gloria_in_excelsis",
+          "titulo": "7. GLORIA IN EXCELSIS",
+          "rubrica_do_bloco": "Os hinos nº 230 (Louvor e glória ao Deus dos céus) ou nº 231 (Louvor e glória ao grande Deus) podem ser usados como alternativas. Porém, durante a Quaresma, o Gloria in Excelsis ou suas alternativas são omitidos.",
+          "dialogo": [
+            {
+              "orador": "C",
+              "texto": "Glória a Deus nas alturas, e paz na terra entre os homens, a quem ele quer bem. Ó Senhor Deus, Rei dos céus, Deus Pai todo-poderoso: a ti louvamos, bendizemos, adoramos, a ti glorificamos e rendemos graças por tua grande glória. Ó Senhor, Filho unigênito, Jesus Cristo! Ó Senhor Deus, Cordeiro de Deus, Filho do Pai, que tiras o pecado do mundo, tem misericórdia de nós. Tu, que tiras o pecado do mundo, aceita a nossa súplica de perdão. Tu, que estás sentado à direita do Pai, tem misericórdia de nós. Pois só tu és o Santo, só tu és o Senhor, só tu és o Altíssimo, Jesus Cristo, com o Espírito Santo, na glória de Deus Pai. Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "saudacao",
+          "titulo": "8. SAUDAÇÃO",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "O oficiante volta-se para a congregação."
+            },
+            {
+              "orador": "O",
+              "texto": "O Senhor esteja convosco."
+            },
+            {
+              "orador": "C",
+              "texto": "E contigo também."
+            }
+          ]
+        },
+        {
+          "id_elemento": "oracao_do_dia",
+          "titulo": "9. ORAÇÃO DO DIA",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "Oremos."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "O oficiante volta-se para o altar e faz a oração. Terminada a oração, a congregação cantará ou dirá:"
+            },
+            {
+              "orador": "C",
+              "texto": "Amém"
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "SENTADO"
+            }
+          ]
+        },
+        {
+          "id_elemento": "leitura_do_antigo_testamento",
+          "titulo": "10. LEITURA DO ANTIGO TESTAMENTO OU PRIMEIRA LEITURA",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "O oficiante volta-se para a congregação."
+            },
+            {
+              "orador": "O",
+              "texto": "A leitura do Antigo Testamento (ou Primeira Leitura) para o ___________ está registrada em _____________."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "Terminada a leitura, o oficiante poderá dizer:"
+            },
+            {
+              "orador": "O",
+              "texto": "Assim termina a leitura do Antigo Testamento (ou Primeira Leitura)."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "Ou"
+            },
+            {
+              "orador": "O",
+              "texto": "Esta é a Palavra do Senhor."
+            }
+          ]
+        },
+        {
+          "id_elemento": "leitura_da_epistola",
+          "titulo": "11. LEITURA DA EPÍSTOLA",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "A Epístola está registrada em ____________."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "Terminada a leitura, o oficiante poderá dizer:"
+            },
+            {
+              "orador": "O",
+              "texto": "Assim termina a Epístola."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "Ou"
+            },
+            {
+              "orador": "O",
+              "texto": "Esta é a Palavra do Senhor."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "DE PÉ"
+            }
+          ]
+        },
+        {
+          "id_elemento": "gradual",
+          "titulo": "12. GRADUAL OU HINO DO GRADUAL",
+          "rubrica_do_bloco": "O oficiante volta-se para o altar. O Gradual poderá ser cantado ou lido. Se o Gradual for falado, a congregação cantará ao final a Aleluia, exceto no período de Quaresma. Um salmo ou hino apropriado pode substituir o Gradual. No caso de um hino, a congregação poderá sentar.",
+          "dialogo": [
+            {
+              "orador": "C",
+              "texto": "Aleluia, Aleluia, Aleluia!"
+            }
+          ]
+        },
+        {
+          "id_elemento": "leitura_do_evangelho",
+          "titulo": "13. LEITURA DO EVANGELHO",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "O oficiante volta-se para a congregação."
+            },
+            {
+              "orador": "O",
+              "texto": "O Santo Evangelho está registrado em ________."
+            },
+            {
+              "orador": "C",
+              "texto": "Glória a ti, Senhor Jesus."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "Terminada a leitura, o oficiante poderá dizer:"
+            },
+            {
+              "orador": "O",
+              "texto": "Assim termina o Evangelho."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "Ou"
+            },
+            {
+              "orador": "O",
+              "texto": "Este é o Evangelho do Senhor."
+            },
+            {
+              "orador": "C",
+              "texto": "Glória a ti, ó Cristo Jesus."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "SENTADO"
+            }
+          ]
+        },
+        {
+          "id_elemento": "hino_do_dia",
+          "titulo": "14. HINO DO DIA",
+          "rubrica_do_bloco": "",
+          "dialogo": []
+        },
+        {
+          "id_elemento": "pregacao",
+          "titulo": "15. PREGAÇÃO",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "DE PÉ"
+            }
+          ]
+        },
+        {
+          "id_elemento": "credo_niceno",
+          "titulo": "16. CONFISSÃO DA FÉ - OPÇÃO A – CREDO NICENO",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "C",
+              "texto": "Creio em um só Deus, Pai todo-poderoso, Criador do céu e da terra, tanto das coisas visíveis como das invisíveis. E em um só Senhor Jesus Cristo, Filho unigênito de Deus, nascido do Pai antes de todos os mundos, Deus de Deus, Luz de Luz, verdadeiro Deus do verdadeiro Deus, gerado, não criado, de uma só substância com o Pai, por quem todas as coisas foram feitas; o qual por nós homens e pela nossa salvação desceu do céu e se encarnou pelo Espírito Santo na virgem Maria e foi feito homem; foi também crucificado por nós sob Pôncio Pilatos, padeceu e foi sepultado; e ao terceiro dia ressuscitou segundo as Escrituras, e subiu aos céus, e está sentado à direita do Pai e virá novamente em glória a julgar os vivos e os mortos, cujo reino não terá fim. E no Espírito Santo, Senhor e Doador da via, o qual procede do Pai e do Filho, que juntamente com o Pai e o Filho é adorado e glorificado; que falou pelos profetas. E numa única santa Igreja Cristã e Apostólica. Confesso um só Batismo para remissão dos pecados, e espero a ressurreição dos mortos e a vida ✝ do mundo vindouro. Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "credo_apostolico",
+          "titulo": "16. CONFISSÃO DA FÉ - OPÇÃO B – CREDO APOSTÓLICO",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "T",
+              "texto": "Creio em Deus Pai todo-poderoso, Criador do céu e da terra. E em Jesus Cristo, seu único Pilho, nosso Senhor, o qual foi concebido pelo Espírito Santo, nasceu da virgem Maria, padeceu sob Pôncio Pilatos, foi crucificado, morto e sepultado; desceu ao inferno, no terceiro dia ressuscitou dos mortos, subiu ao céu e está sentado à direita de Deus Pai todo-poderoso, donde há de vir a julgar os vivos e os mortos. Creio no Espírito Santo, na santa Igreja Cristã – a comunhão dos santos, na remissão dos pecados, na ressurreição da carne e na vida ✝ eterna. Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "credo_outras_opcoes",
+          "titulo": "16. CONFISSÃO DA FÉ - OPÇÕES C, D, E, F",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "Opção C – CREDO NICENO (cantado)"
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "Opção D – HINO DO CREDO, nº 232 ou 233 (Nós cremos todos num só Deus)"
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "Opção E – CREDO ATANASIANO"
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "Opção F – Explicação de Lutero dos Artigos do CREDO APOSTÓLICO"
+            }
+          ]
+        },
+        {
+          "id_elemento": "oracao_geral_da_igreja",
+          "titulo": "17. ORAÇÃO GERAL DA IGREJA",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "SENTADO"
+            }
+          ]
+        },
+        {
+          "id_elemento": "recolhimento_das_ofertas",
+          "titulo": "18. RECOLHIMENTO DAS OFERTAS",
+          "rubrica_do_bloco": "Durante o recolhimento das ofertas, o oficiante prepara o altar para a celebração do Sacramento. Não havendo celebração da Santa Ceia, segue: PAI-NOSSO – HINO – ORAÇÃO — BÊNÇÃO.",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "TERCEIRA PARTE – CELEBRAÇÃO DA SANTA CEIA"
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "DE PÉ"
+            }
+          ]
+        },
+        {
+          "id_elemento": "ofertorio",
+          "titulo": "19. OFERTÓRIO OU HINO DE SANTA CEIA",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "O oficiante volta-se para o altar."
+            },
+            {
+              "orador": "T",
+              "texto": "Cria em mim, ó Deus, um puro coração e renova em mim um espírito inabalável. Não me lances fora da tua presença, nem me retires o teu Espírito Santo. Torna a dar-me a alegria da tua salvação e mantém-me de espírito voluntário. Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "sursum_corda",
+          "titulo": "20. PREFÁCIO (SURSUM CORDA)",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "O oficiante volta-se para a congregação."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "Opção I"
+            },
+            {
+              "orador": "O",
+              "texto": "O Senhor esteja convosco."
+            },
+            {
+              "orador": "C",
+              "texto": "Ele está no meio de nós."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "Opção II"
+            },
+            {
+              "orador": "O",
+              "texto": "O Senhor esteja convosco."
+            },
+            {
+              "orador": "C",
+              "texto": "E contigo também."
+            },
+            {
+              "orador": "O",
+              "texto": "Elevai os corações."
+            },
+            {
+              "orador": "C",
+              "texto": "Ao Senhor os elevamos."
+            },
+            {
+              "orador": "O",
+              "texto": "Rendamos graças ao Senhor, nosso Deus."
+            },
+            {
+              "orador": "C",
+              "texto": "É digno e justo."
+            }
+          ]
+        },
+        {
+          "id_elemento": "vere_dignum",
+          "titulo": "20. PREFÁCIO (VERE DIGNUM)",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "Segue o Vere Dignum. O oficiante volta-se para o altar."
+            },
+            {
+              "orador": "O",
+              "texto": "É verdadeiramente digno, justo e do nosso dever, que em todos os tempos e em todos os lugares te demos graças, ó Senhor, santo Pai, onipotente, eterno Deus, mediante Jesus Cristo, nosso Senhor."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "Prefácio Próprio...*"
+            },
+            {
+              "orador": "O",
+              "texto": "Portanto, com os anjos e arcanjos e com toda a companhia celeste, louvamos e magnificamos o teu glorioso nome, exaltando-te sempre, dizendo:"
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "*Prefácios próprios conforme consta no livro de liturgias Culto Luterano."
+            }
+          ]
+        },
+        {
+          "id_elemento": "sanctus",
+          "titulo": "21. SANCTUS",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "C",
+              "texto": "Santo, santo, santo Senhor, Deus de força e poder: céus e terra cheios estão de tua glória. Hosana, Hosana, Hosana nas alturas. Bendito aquele que vem em nome do Senhor. Hosana nas alturas!"
+            }
+          ]
+        },
+        {
+          "id_elemento": "pai_nosso",
+          "titulo": "22. PAI-NOSSO",
+          "rubrica_do_bloco": "Pode ser falado ou cantado pelo oficiante, coro ou congregação. Os hinos nº 442 (Por amor do Mediador) ou nº 443 (Ó nosso Pai, que estás nos céus) podem ser usados como alternativas.",
+          "dialogo": [
+            {
+              "orador": "C",
+              "texto": "Pai nosso, que estás nos céus. Santificado seja o teu nome. Venha o teu reino. Seja feita a tua vontade, assim na terra como no céu. O pão nosso de cada dia nos dá hoje. E perdoa-nos as nossas dívidas, assim como nós também perdoamos aos nossos devedores. E não nos deixes cair em tentação. Mas livra-nos do mal. Pois teu é o reino e o poder e a glória, para sempre. Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "palavras_instituicao",
+          "titulo": "23. PALAVRAS DA INSTITUIÇÃO",
+          "rubrica_do_bloco": "As palavras da instituição poderão ser cantadas ou faladas pelo oficiante.",
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "Nosso Senhor Jesus Cristo, na noite em que foi traído, tomou o pão e, tendo dado graças, o partiu e o deu aos seus discípulos, dizendo: Tomai, comei, isto é meu corpo, que é dado por vós; fazei isto em memória minha. E semelhantemente também, depois da ceia, tomou o cálice e, tendo dado graças, o entregou, dizendo: Bebei todos deste; este cálice é o novo testamento no meu sangue que é derramado por vós para remissão dos pecados; fazei isto, quantas vezes o beberdes, em memória minha."
+            }
+          ]
+        },
+        {
+          "id_elemento": "pax_domini",
+          "titulo": "24. PAX DOMINI",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "O oficiante volta-se para a congregação."
+            },
+            {
+              "orador": "O",
+              "texto": "A paz do Senhor esteja convosco para sempre."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "Opção I"
+            },
+            {
+              "orador": "C",
+              "texto": "E contigo também."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "Ou"
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "Opção II"
+            },
+            {
+              "orador": "C",
+              "texto": "Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "agnus_dei",
+          "titulo": "25. AGNUS DEI",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "O oficiante volta-se para o altar."
+            },
+            {
+              "orador": "C",
+              "texto": "1. Ó Cordeiro de Deus, que tiras o pecado do mundo, tem misericórdia de nós.\n 2. Ó Cordeiro de Deus, que tiras o pecado do mundo, tem misericórdia de nós.\n 3. Ó Cordeiro de Deus, que tiras o pecado do mundo, dá-nos a paz. Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "distribuicao_santa_ceia",
+          "titulo": "26. A DISTRIBUIÇÃO DA SANTA CEIA",
+          "rubrica_do_bloco": "O oficiante e seus auxiliares são os primeiros a receber a Santa Ceia, o que pode ser feito já durante o Agnus Dei. Durante a distribuição, são ditas as palavras:",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "Opção I – Diante do altar:"
+            },
+            {
+              "orador": "O",
+              "texto": "Tomai, comei; isto é o verdadeiro corpo de nosso Senhor e Salvador Jesus Cristo, dado à morte pelos vossos pecados."
+            },
+            {
+              "orador": "O",
+              "texto": "Tomai, bebei; isto é o verdadeiro sangue de nosso Senhor e Salvador Jesus Cristo, derramado para remissão dos vossos pecados."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "Opção II – Distribuição processional:"
+            },
+            {
+              "orador": "O",
+              "texto": "O verdadeiro corpo de Cristo dado por ti."
+            },
+            {
+              "orador": "O",
+              "texto": "O verdadeiro sangue de Cristo derramado por ti."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "Ao despedir os comungantes, o oficiante dirá:"
+            },
+            {
+              "orador": "O",
+              "texto": "Que esta Ceia vos fortaleça e preserve na fé para a ✝ vida eterna."
+            },
+            {
+              "orador": "C",
+              "texto": "Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "acao_de_gracas_nunc_dimittis",
+          "titulo": "27. AÇÃO DE GRAÇAS OU NUNC DIMITTIS OU HINO APROPRIADO",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "O oficiante volta-se para a congregação."
+            },
+            {
+              "orador": "O",
+              "texto": "Todas as vezes que comerdes este pão e beberdes este cálice, anunciais a morte do Senhor até que ele venha. Demos graças ao Senhor e oremos:"
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "O oficiante volta-se para o altar."
+            },
+            {
+              "orador": "O",
+              "texto": "Onipotente Deus, nós te rendemos graças, porque nos reconfortaste por este dom da salvação. Suplicamos-te que concedas por tua graça que o mesmo nos fortaleça a fé em ti e nos dê ardente caridade para com o nosso próximo; mediante Jesus Cristo, teu Filho, nosso Senhor."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "Ao fim da oração, a congregação dirá ou cantará:"
+            },
+            {
+              "orador": "C",
+              "texto": "Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "nunc_dimittis_fragmento_culto_i",
+          "titulo": "NUNC DIMITTIS)",
+          "rubrica_do_bloco": "Lucas 2.29-32",
+          "dialogo": [
+            {
+              "orador": "C",
+              "texto": "Agora, Senhor, despedes em paz o teu servo, segundo a tua palavra, porque os meus olhos já viram tua salvação, a qual preparaste diante de todos os povos, luz para revelação aos gentios, e para glória do teu povo de Israel. Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é e para sempre será – de eternidade a eternidade. Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "bencao_culto_i",
+          "titulo": "28. BÊNÇÃO",
+          "rubrica_do_bloco": "O oficiante volta-se para a congregação e, erguendo a(s) mão(s), dirá ou cantará:",
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "O Senhor vos abençoe e vos guarde. O Senhor faça resplandecer o seu rosto sobre vós, e tenha misericórdia de vós. O Senhor sobre vós levante o seu rosto e vos ✝ dê a paz."
+            },
+            {
+              "orador": "C",
+              "texto": "Amém. Amém. Amém."
+            }
+          ]
+        }
+      ]
+    },
+    "ordem_2": {
+      "nome_liturgia": "Ordem do Culto Principal II",
+      "elementos": [
+        {
+          "id_elemento": "hino_de_invocacao",
+          "titulo": "1. HINO DE INVOCAÇÃO",
+          "rubrica_do_bloco": null,
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "DE PÉ"
+            }
+          ]
+        },
+        {
+          "id_elemento": "invocacao",
+          "titulo": "2. INVOCAÇÃO",
+          "rubrica_do_bloco": "Em lembrança de seu batismo, todos poderão fazer o sinal da cruz ✝.",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "O oficiante volta-se ao altar."
+            },
+            {
+              "orador": "O",
+              "texto": "Em nome do Pai e do ✝ Filho e do Espírito Santo."
+            },
+            {
+              "orador": "C",
+              "texto": "Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "alocucao_confessional",
+          "titulo": "3. ALOCUÇÃO CONFESSIONAL",
+          "rubrica_do_bloco": "Em preparação à Confissão dos Pecados, o oficiante pode proferir uma breve Alocução.",
+          "dialogo": []
+        },
+        {
+          "id_elemento": "confissao_absolvicao_intro",
+          "titulo": "4. CONFISSÃO E ABSOLVIÇÃO",
+          "rubrica_do_bloco": null,
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "O oficiante volta-se para a congregação."
+            },
+            {
+              "orador": "O",
+              "texto": "Amados no Senhor. De coração sincero nos acheguemos de Deus, nosso Pai, e lhe confessemos os nossos pecados, suplicando-lhe em nome de nosso Senhor Jesus Cristo que nos conceda o perdão."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "O oficiante volta-se para o altar."
+            },
+            {
+              "orador": "O",
+              "texto": "O nosso socorro está em o nome do Senhor."
+            },
+            {
+              "orador": "C",
+              "texto": "Que fez o céu e a terra."
+            },
+            {
+              "orador": "O",
+              "texto": "Dizia eu: Confessarei ao Senhor as minhas transgressões."
+            },
+            {
+              "orador": "C",
+              "texto": "E tu perdoaste a maldade do meu pecado."
+            }
+          ]
+        },
+        {
+          "id_elemento": "confissao_opcao_1",
+          "titulo": "CONFISSÃO E ABSOLVIÇÃO - OPÇÃO I",
+          "rubrica_do_bloco": "DE PÉ/AJOELHADO",
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "Onipotente Deus e misericordioso Pai, eu, pobre e miserável pecador, te confesso todos os meus pecados e iniquidades com que provoquei a tua ira, merecendo mui justamente o teu castigo temporal e eterno. Deploro de todo o coração estas minhas culpas e arrependo-me sinceramente. Suplico-te, mediante a tua profunda misericórdia e a santa, inocente e amarga paixão e morte de teu amado Filho Jesus Cristo, que tenhas piedade e misericórdia de mim, pobre pecador. Amém."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "O oficiante volta-se para a congregação."
+            },
+            {
+              "orador": "O",
+              "texto": "Diante de Deus vos pergunto: É esta a vossa sincera confissão, que vos arrependeis verdadeiramente de vossos pecados, que credes em Jesus Cristo, e que tendes o sincero e firme propósito de corrigir a vossa vida pecaminosa, pelo auxílio de Deus Espírito Santo? Se é, afirmai-o dizendo Sim."
+            },
+            {
+              "orador": "C",
+              "texto": "Sim."
+            },
+            {
+              "orador": "O",
+              "texto": "Em virtude desta vossa confissão, na qualidade de ministro da Palavra, chamado e ordenado, vos anuncio a graça de Deus, e da parte e por ordem de Jesus Cristo, meu Senhor, vos perdoo todos os vossos pecados, em nome do Pai e do ✝ Filho e do Espírito Santo."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "A congregação dirá ou cantará:"
+            },
+            {
+              "orador": "C",
+              "texto": "Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "confissao_opcao_2",
+          "titulo": "CONFISSÃO E ABSOLVIÇÃO - OPÇÃO II",
+          "rubrica_do_bloco": null,
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "Onipotente Deus, nosso Criador e Redentor, nós, pobres pecadores, te confessamos que somos por natureza pecaminosos e impuros e que temos cometido pecado contra ti por pensamentos, palavras e ações. Recorremos, portanto, ao refúgio de tua infinita compaixão, buscando e implorando a tua graça, por amor de nosso Senhor Jesus Cristo."
+            },
+            {
+              "orador": "T",
+              "texto": "Ó misericordioso Deus, que deste o teu Filho unigênito para que morresse por nós, tem compaixão de nós, e por amor de Jesus, nos concede a remissão de todos os nossos pecados e, pelo teu Santo Espírito, aumenta em nós o conhecimento verdadeiro de ti e de tua vontade e a reta obediência à tua Palavra, a fim de, por tua graça, alcançarmos a Vida Eterna, mediante Jesus Cristo, nosso Senhor. Amém."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "O oficiante, volta-se para a congregação."
+            },
+            {
+              "orador": "O",
+              "texto": "O Deus todo-poderoso, nosso Pai celestial, teve compaixão de nós e entregou o seu Filho unigênito, para que morresse por nós, e por amor de seu nome nos perdoou todos os nossos pecados. E aos que creem em seu nome, lhes deu o poder de serem feitos filhos de Deus e lhes prometeu o seu Espírito Santo. Quem crer e for batizado será salvo."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "Voltado para o altar, dirá:"
+            },
+            {
+              "orador": "O",
+              "texto": "Concede-o, ó Senhor, a todos nós."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "A congregação dirá ou cantará:"
+            },
+            {
+              "orador": "C",
+              "texto": "Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "introito",
+          "titulo": "5. INTROITO",
+          "rubrica_do_bloco": "DE PÉ. O Introito poderá ser cantado ou lido responsivamente e a congregação dirá ou cantará o Gloria Patri. Um salmo ou hino apropriado pode substituir o Introito.",
+          "dialogo": []
+        },
+        {
+          "id_elemento": "salmo",
+          "titulo": "5. SALMO",
+          "rubrica_do_bloco": "DE PÉ. Um salmo ou hino apropriado pode substituir o Introito.",
+          "dialogo": []
+        },
+        {
+          "id_elemento": "gloria_patri",
+          "titulo": "GLORIA PATRI",
+          "rubrica_do_bloco": null,
+          "dialogo": [
+            {
+              "orador": "T",
+              "texto": "Glória ao Pai e ao Filho e ao Santo Espírito, como era no princípio, agora é e por todo o sempre há de ser! Amém."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "A Antífona do Introito pode ser repetida após o Gloria Patri."
+            }
+          ]
+        },
+        {
+          "id_elemento": "kyrie",
+          "titulo": "6. KYRIE",
+          "rubrica_do_bloco": "O hino nº 229 (Senhor Deus, Pai celestial) pode ser usado como alternativa ao Kyrie.",
+          "dialogo": [
+            {
+              "orador": "C",
+              "texto": "Senhor, tem piedade de nós. Cristo, tem piedade de nós. Senhor, tem piedade de nós."
+            }
+          ]
+        },
+        {
+          "id_elemento": "gloria_in_excelsis",
+          "titulo": "7. GLORIA IN EXCELSIS",
+          "rubrica_do_bloco": "Os hinos nº 230 (Louvor e glória ao Deus dos céus) ou nº 231 (Louvor e glória ao grande Deus) podem ser usados como alternativas. Porém, durante a Quaresma, o Gloria in Excelsis ou suas alternativas são omitidos.",
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "Glória a Deus nas alturas!"
+            },
+            {
+              "orador": "C",
+              "texto": "E na terra paz, boa vontade para com os homens. Nós te louvamos, bendizemos, adoramos; nós te glorificamos e te damos graças por tua grande glória, ó Senhor Deus, Rei dos céus, Deus Pai onipotente. Ó Senhor, unigênito Filho, Jesus Cristo; ó Senhor Deus, Cordeiro de Deus, Filho do Pai, que tiras os pecados do mundo, tem compaixão de nós. Tu, que tiras os pecados do mundo, recebe a nossa deprecação. Tu, que estás sentado à mão direita de Deus Pai, tem compaixão de nós, porque só tu és santo, só tu és o Senhor. Só tu, ó Cristo, juntamente com o Espírito Santo, és o Altíssimo na glória de Deus Pai. Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "saudacao",
+          "titulo": "8. SAUDAÇÃO",
+          "rubrica_do_bloco": "O oficiante volta-se para a congregação.",
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "O Senhor seja convosco."
+            },
+            {
+              "orador": "C",
+              "texto": "E com o teu espírito."
+            }
+          ]
+        },
+        {
+          "id_elemento": "coleta",
+          "titulo": "9. COLETA",
+          "rubrica_do_bloco": "O oficiante anuncia:",
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "Oremos:"
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "O oficiante volta-se para o altar e faz a oração. Terminada a oração, a congregação cantará ou dirá:"
+            },
+            {
+              "orador": "C",
+              "texto": "Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "leitura_do_antigo_testamento",
+          "titulo": "10. LEITURA DO ANTIGO TESTAMENTO",
+          "rubrica_do_bloco": "O oficiante volta-se para a congregação.",
+          "dialogo": [
+            { "orador": "O", "texto": "A leitura do Antigo Testamento para o ___________ está registrada em _____________." },
+            { "orador": "Rubrica", "texto": "Terminada a leitura, o oficiante poderá dizer:" },
+            { "orador": "O", "texto": "Esta é a Palavra do Senhor." }
+          ]
+        },
+        {
+          "id_elemento": "gradual",
+          "titulo": "11. GRADUAL",
+          "rubrica_do_bloco": "O Gradual poderá ser cantado ou lido. Um salmo ou hino apropriado pode substituir o Gradual.",
+          "dialogo": []
+        },
+        {
+          "id_elemento": "leitura_da_epistola",
+          "titulo": "12. LEITURA DA EPÍSTOLA",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            { "orador": "O", "texto": "A Epístola está registrada em ____________." },
+            { "orador": "Rubrica", "texto": "Terminada a leitura, o oficiante poderá dizer:" },
+            { "orador": "O", "texto": "Esta é a Palavra do Senhor." }
+          ]
+        },
+        {
+          "id_elemento": "verso",
+          "titulo": "13. VERSO",
+          "rubrica_do_bloco": "DE PÉ",
+          "dialogo": []
+        },
+        {
+          "id_elemento": "aleluia_triplice",
+          "titulo": "14. ALELUIA TRÍPLICE",
+          "rubrica_do_bloco": "A congregação canta. Omite-se no período da Quaresma.",
+          "dialogo": [
+            { "orador": "C", "texto": "Aleluia, Aleluia, Aleluia!" }
+          ]
+        },
+        {
+          "id_elemento": "anuncio_evangelho",
+          "titulo": "15. ANÚNCIO DO EVANGELHO",
+          "rubrica_do_bloco": "O oficiante volta-se para a congregação.",
+          "dialogo": [
+            { "orador": "O", "texto": "O Santo Evangelho está registrado em ________." }
+          ]
+        },
+        {
+          "id_elemento": "aclamacao_inicial",
+          "titulo": "16. ACLAMAÇÃO INICIAL",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            { "orador": "C", "texto": "Glória a ti, Senhor Jesus." }
+          ]
+        },
+        {
+          "id_elemento": "leitura_evangelho",
+          "titulo": "17. LEITURA DO EVANGELHO",
+          "rubrica_do_bloco": "",
+          "dialogo": []
+        },
+        {
+          "id_elemento": "conclusao_evangelho",
+          "titulo": "18. CONCLUSÃO DO EVANGELHO",
+          "rubrica_do_bloco": "Terminada a leitura, o oficiante dirá:",
+          "dialogo": [
+            { "orador": "O", "texto": "Este é o Evangelho do Senhor." }
+          ]
+        },
+        {
+          "id_elemento": "aclamacao_final",
+          "titulo": "19. ACLAMAÇÃO FINAL",
+          "rubrica_do_bloco": "SENTADO",
+          "dialogo": [
+            { "orador": "C", "texto": "Glória a ti, ó Cristo Jesus." }
+          ]
+        },
+        {
+          "id_elemento": "credo_niceno",
+          "titulo": "14. CONFISSÃO DE FÉ - OPÇÃO I (CREDO NICENO)",
+          "rubrica_do_bloco": null,
+          "dialogo": [
+            {
+              "orador": "T",
+              "texto": "Creio em um só Deus, Pai todo-poderoso, Criador do céu e da terra, tanto das coisas visíveis como das invisíveis. E em um só Senhor Jesus Cristo, Filho unigênito de Deus, nascido do Pai antes de todos os mundos, Deus de Deus, Luz de Luz, verdadeiro Deus do verdadeiro Deus, gerado, não criado, de uma só substância com o Pai, por quem todas as coisas foram feitas; o qual por nós homens e pela nossa salvação desceu do céu e se encarnou pelo Espírito Santo na virgem Maria e foi feito homem; foi também crucificado por nós sob Pôncio Pilatos, padeceu e foi sepultado; e ao terceiro dia ressuscitou segundo as Escrituras, e subiu aos céus, e está sentado à direita do Pai, e virá novamente em glória a julgar os vivos e os mortos, cujo Reino não terá fim. E no Espírito Santo, Senhor e Doador da vida, o qual procede do Pai e do Filho, que juntamente com o Pai e o Filho é adorado e glorificado; que falou pelos profetas. E numa única santa Igreja Cristã e Apostólica. Confesso um só Batismo para remissão dos pecados, e espero a ressurreição dos mortos e a vida ✝ do mundo vindouro. Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "credo_apostolico",
+          "titulo": "14. CONFISSÃO DE FÉ - OPÇÃO II (CREDO APOSTÓLICO)",
+          "rubrica_do_bloco": null,
+          "dialogo": [
+            {
+              "orador": "T",
+              "texto": "Creio em Deus Pai todo-poderoso, Criador do céu e da terra. E em Jesus Cristo, seu único Filho, nosso Senhor, o qual foi concebido pelo Espírito Santo, nasceu da virgem Maria, padeceu sob Pôncio Pilatos, foi crucificado, morto e sepultado; desceu ao inferno; no terceiro dia ressuscitou dos mortos, subiu ao céu e está sentado à direita de Deus Pai todo-poderoso, donde há de vir a julgar os vivos e os mortos. Creio no Espírito Santo, na Santa Igreja Cristã — a comunhão dos santos, na remissão dos pecados, na ressurreição da carne e na vida ✝ eterna. Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "hino_pulpito",
+          "titulo": "15. HINO",
+          "rubrica_do_bloco": "SENTADO",
+          "dialogo": []
+        },
+        {
+          "id_elemento": "pregacao",
+          "titulo": "16. PREGAÇÃO",
+          "rubrica_do_bloco": null,
+          "dialogo": []
+        },
+        {
+          "id_elemento": "ofertorio",
+          "titulo": "17. OFERTÓRIO",
+          "rubrica_do_bloco": "DE PÉ",
+          "dialogo": [
+            {
+              "orador": "C",
+              "texto": "Cria em mim, ó Deus, um puro coração e renova em mim espírito reto. Não me lances fora da tua presença e não retires de mim o teu Espírito Santo. Torna a dar-me a alegria da tua salvação e sustém-me com um voluntário espírito. Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "recolhimento_ofertas",
+          "titulo": "18. RECOLHIMENTO DAS OFERTAS",
+          "rubrica_do_bloco": null,
+          "dialogo": []
+        },
+        {
+          "id_elemento": "oracao_geral",
+          "titulo": "19. ORAÇÃO GERAL",
+          "rubrica_do_bloco": "Não havendo celebração da Santa Ceia, segue: PAI-NOSSO – HINO – ORAÇÃO — BÊNÇÃO.",
+          "dialogo": []
+        },
+        {
+          "id_elemento": "hino_pre_comunhao",
+          "titulo": "20. HINO",
+          "rubrica_do_bloco": null,
+          "dialogo": []
+        },
+        {
+          "id_elemento": "sursum_corda",
+          "titulo": "21. PREFÁCIO - SURSUM CORDA",
+          "rubrica_do_bloco": "O oficiante volta-se para a congregação.",
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "O Senhor seja convosco."
+            },
+            {
+              "orador": "C",
+              "texto": "E com o teu espírito."
+            },
+            {
+              "orador": "O",
+              "texto": "Levantai os vossos corações."
+            },
+            {
+              "orador": "C",
+              "texto": "Levantemo-los ao Senhor."
+            },
+            {
+              "orador": "O",
+              "texto": "Demos graças ao Senhor nosso Deus."
+            },
+            {
+              "orador": "C",
+              "texto": "Assim fazê-lo é digno e justo."
+            }
+          ]
+        },
+        {
+          "id_elemento": "vere_dignum",
+          "titulo": "21. PREFÁCIO - VERE DIGNUM",
+          "rubrica_do_bloco": "Segue o Vere Dignum. O oficiante volta-se para o altar.",
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "É verdadeiramente digno, justo e do nosso dever, que em todos os tempos e em todos os lugares te demos graças, ó Senhor, santo Pai, onipotente, eterno Deus, mediante Jesus Cristo, nosso Senhor. Prefácio Próprio...* Portanto com os anjos e arcanjos e com toda a companhia celeste louvamos e magnificamos o teu glorioso nome, exaltando-te sempre, dizendo:"
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "*Prefácios próprios conforme consta no livro de liturgias Culto Luterano."
+            }
+          ]
+        },
+        {
+          "id_elemento": "sanctus",
+          "titulo": "22. SANCTUS",
+          "rubrica_do_bloco": null,
+          "dialogo": [
+            {
+              "orador": "C",
+              "texto": "Santo, santo, santo é o Senhor Deus dos Exércitos. Os céus e a terra estão cheios de sua glória. Hosana, Hosana, Hosana nas alturas! Bendito, bendito, bendito aquele que vem em nome do Senhor! Hosana, Hosana, Hosana nas alturas!"
+            }
+          ]
+        },
+        {
+          "id_elemento": "pai_nosso",
+          "titulo": "23. PAI-NOSSO",
+          "rubrica_do_bloco": "Pode ser falado ou cantado pelo oficiante, coro ou congregação. Os hinos nº 442 (Por amor do Mediador) ou nº 443 (Ó nosso Pai, que estás nos céus) podem ser usados como alternativas.",
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "Pai nosso, que estás nos céus. Santificado seja o teu nome. Venha o teu reino. Seja feita a tua vontade, assim na terra como no céu. O pão nosso de cada dia nos dá hoje. E perdoa-nos as nossas dívidas, assim como nós também perdoamos aos nossos devedores. E não nos deixes cair in tentação. Mas livra-nos do mal."
+            },
+            {
+              "orador": "C",
+              "texto": "Pois teu é o reino, e o poder, e a glória, para sempre. Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "palavras_da_instituicao",
+          "titulo": "24. PALAVRAS DA INSTITUIÇÃO",
+          "rubrica_do_bloco": null,
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "Nosso Senhor Jesus Cristo, na noite em que foi traído, tomou o pão, e, tendo dado graças, o partiu e o deu aos seus discípulos, dizendo: Tomai, comei, isto é o meu ✝ corpo, que é dado por vós. Fazei isto em memória minha. E semelhantemente também, depois da ceia, tomou o cálice e, tendo dado graças, o entregou, dizendo: Bebei todos deste; este cálice é o Novo Testamento no meu ✝ sangue, que é derramado por vós para remissão dos pecados. Fazei isto, quantas vezes o beberdes, em memória minha."
+            }
+          ]
+        },
+        {
+          "id_elemento": "pax_domini",
+          "titulo": "25. PAX DOMINI",
+          "rubrica_do_bloco": "O oficiante volta-se para a congregação.",
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "A paz do Senhor seja convosco para sempre!"
+            },
+            {
+              "orador": "C",
+              "texto": "Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "agnus_dei",
+          "titulo": "26. AGNUS DEI",
+          "rubrica_do_bloco": null,
+          "dialogo": [
+            {
+              "orador": "C",
+              "texto": "1. Cordeiro divino, morto pelo pecador, sê compassivo. \n2. Cordeiro divino, morto pelo pecador, sê compassivo. \n3. Cordeiro divino, morto pelo pecador, a paz concede. Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "distribuicao",
+          "titulo": "27. DISTRIBUIÇÃO",
+          "rubrica_do_bloco": "O oficiante e seus auxiliares são os primeiros a receber a Santa Ceia, o que pode ser feito já durante o Agnus Dei. Durante a distribuição, são ditas as palavras:",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "Opção I – Diante do altar:"
+            },
+            {
+              "orador": "O",
+              "texto": "Tomai, comei; isto é o verdadeiro corpo de nosso Senhor e Salvador Jesus Cristo, dado à morte pelos vossos pecados. Tomai, bebei; isto é o verdadeiro sangue de nosso Senhor e Salvador Jesus Cristo, derramado para remissão dos vossos pecados."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "Opção II – Distribuição processional:"
+            },
+            {
+              "orador": "O",
+              "texto": "O verdadeiro corpo de Cristo dado por ti. O verdadeiro sangue de Cristo derramado por ti."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "Ao despedir os comungantes, o oficiante dirá:"
+            },
+            {
+              "orador": "O",
+              "texto": "Que esta Ceia vos fortaleça e preserve na fé para a ✝ vida eterna."
+            },
+            {
+              "orador": "C",
+              "texto": "Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "nunc_dimittis",
+          "titulo": "28. NUNC DIMITTIS",
+          "rubrica_do_bloco": "DE PÉ. O oficiante volta-se para o altar.",
+          "dialogo": [
+            {
+              "orador": "T",
+              "texto": "Senhor, agora despedes em paz o teu servo, segundo a tua palavra, pois os meus olhos viram a tua salvação, a qual preparaste perante a face de todos os povos, luz para alumiar as gentes e para glória de teu povo Israel. Glória ao Pai e ao Filho e ao Santo Espírito, como era no princípio, agora é e por todo o sempre há de ser. Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "acao_de_gracas",
+          "titulo": "29. AÇÃO DE GRAÇAS",
+          "rubrica_do_bloco": "O oficiante volta-se para a congregação.",
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "Todas as vezes que comerdes este pão e beberdes este cálice:"
+            },
+            {
+              "orador": "C",
+              "texto": "Anunciais a morte do Senhor até que ele venha."
+            },
+            {
+              "orador": "O",
+              "texto": "Demos graças ao Senhor e oremos:"
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "O oficiante volta-se para o altar."
+            },
+            {
+              "orador": "O",
+              "texto": "Onipotente Deus, nós te rendemos graças, porque nos reconfortaste por este dom da salvação. Suplicamos-te que concedas por tua graça que o mesmo nos fortaleça a fé in ti e nos dê ardente caridade para com o nosso próximo; mediante Jesus Cristo, teu Filho, nosso Senhor."
+            },
+            {
+              "orador": "C",
+              "texto": "Amém."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "Poderá ser cantado um hino de pós-comunhão. Poderá, então, ser dita ou cantada:"
+            }
+          ]
+        },
+        {
+          "id_elemento": "saudacao_final",
+          "titulo": "30. SAUDAÇÃO",
+          "rubrica_do_bloco": "O oficiante volta-se para a congregação.",
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "O Senhor seja convosco."
+            },
+            {
+              "orador": "C",
+              "texto": "E com o teu espírito."
+            }
+          ]
+        },
+        {
+          "id_elemento": "benedicamus",
+          "titulo": "31. BENEDICAMUS",
+          "rubrica_do_bloco": "Pode ser dito ou cantado:",
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "Bendigamos ao Senhor."
+            },
+            {
+              "orador": "C",
+              "texto": "Demos graças a Deus."
+            }
+          ]
+        },
+        {
+          "id_elemento": "bencao_pagina_22",
+          "titulo": "32. BÊNÇÃO",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "O oficiante volta-se para a congregação e, erguendo a(s) mão(s), dirá ou cantará:"
+            },
+            {
+              "orador": "O",
+              "texto": "O Senhor vos abençoe e vos guarde. O Senhor faça resplandecer o seu rosto sobre vós, e tenha misericórdia de vós. O Senhor sobre vós levante o seu rosto e vos ✝ dê a paz."
+            },
+            {
+              "orador": "C",
+              "texto": "Amém. Amém. Amém."
+            }
+          ]
+        }
+      ]
+    },
+    "ordem_2_contemporanea": {
+      "nome_liturgia": "Ordem do Culto Principal II - Contemporânea",
+      "elementos": [
+        {
+          "id_elemento": "saudacao_e_hino",
+          "titulo": "1. SAUDAÇÃO E HINO",
+          "rubrica_do_bloco": "DE PÉ",
+          "dialogo": []
+        },
+        {
+          "id_elemento": "invocacao",
+          "titulo": "2. INVOCAÇÃO",
+          "rubrica_do_bloco": "Em lembrança de seu batismo, todos poderão fazer o sinal da cruz ✝. O oficiante volta-se ao altar.",
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "Em nome do Pai e do ✝ Filho e do Espírito Santo."
+            },
+            {
+              "orador": "C",
+              "texto": "Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "confissao_e_absolvicao",
+          "titulo": "3. CONFISSÃO E ABSOLVIÇÃO",
+          "rubrica_do_bloco": "Em preparação à confissão dos pecados, o oficiante pode proferir uma breve alocução, que pode começar ou concluir com as palavras que seguem.",
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "Meus queridos irmãos, vamos nos dirigir a Deus, nosso Pai, confessar a ele os nossos pecados e pedir que, em nome de nosso Senhor Jesus Cristo, ele nos perdoe."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "O oficiante volta-se para o altar."
+            },
+            {
+              "orador": "O",
+              "texto": "O nosso socorro vem do Senhor,"
+            },
+            {
+              "orador": "C",
+              "texto": "que fez o céu e a terra."
+            },
+            {
+              "orador": "O",
+              "texto": "Venho confessar tudo a ti, Senhor,"
+            },
+            {
+              "orador": "C",
+              "texto": "e tu perdoaste todos os meus pecados."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "DE PÉ/AJOELHADO"
+            },
+            {
+              "orador": "T",
+              "texto": "Todo-poderoso Deus e Pai bondoso, eu, pobre e infeliz pecador, te confesso todos os meus pecados e as minhas maldades com que provoquei a tua ira, merecendo com justiça ser castigado, já nesta vida e na eternidade. Lamento muito estas minhas culpas e arrependo-me sinceramente. Peço que, em tua grande misericórdia, e por causa do santo e inocente sofrimento e morte de Jesus Cristo, teu amado Filho, tenhas compaixão de mim, pobre pecador. Amém."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "O oficiante, volta-se para a congregação."
+            },
+            {
+              "orador": "O",
+              "texto": "Diante de Deus eu pergunto: É esta a sincera confissão de vocês, que estão de fato arrependidos de seus pecados, creem em Jesus Cristo e têm a sincera e firme intenção de corrigir a sua vida pecaminosa, com a ajuda de Deus Espírito Santo? Se isto é verdade, confirmem dizendo \"sim\"."
+            },
+            {
+              "orador": "C",
+              "texto": "Sim!"
+            },
+            {
+              "orador": "O",
+              "texto": "Tendo ouvido a confissão que fizeram, como ministro da Palavra de Deus, chamado e ordenado, anuncio a graça de Deus para vocês. E por ordem de Jesus Cristo e em nome dele, lhes perdoo todos os pecados, em nome do Pai e do ✝ Filho e do Espírito Santo."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "A congregação dirá ou cantará:"
+            },
+            {
+              "orador": "C",
+              "texto": "Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "introito_salmo_entrada",
+          "titulo": "4. INTROITO OU SALMO DE ENTRADA",
+          "rubrica_do_bloco": "DE PÉ. O Introito poderá ser cantado ou lido responsivamente. A congregação dirá ou cantará o Gloria Patri. Um salmo ou hino apropriado pode substituir o Introito.",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "a: Antífona\nb: Salmo\nc: Gloria Patri"
+            },
+            {
+              "orador": "T",
+              "texto": "Glória ao Pai e ao Filho e ao Santo Espírito, como era no princípio, agora é e por todo o sempre será. Amém."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "d: Antífona"
+            }
+          ]
+        },
+        {
+          "id_elemento": "kyrie",
+          "titulo": "5. KYRIE",
+          "rubrica_do_bloco": "O hino nº 229 (Senhor Deus, Pai celestial) pode ser usado como alternativa ao Kyrie.",
+          "dialogo": [
+            {
+              "orador": "T",
+              "texto": "Senhor, tem piedade de nós. Cristo, tem piedade de nós. Senhor, tem piedade de nós."
+            }
+          ]
+        },
+        {
+          "id_elemento": "gloria_in_excelsis",
+          "titulo": "6. GLORIA IN EXCELSIS",
+          "rubrica_do_bloco": "Os hinos nº 230 (Louvor e glória ao Deus dos céus) ou nº 231 (Louvor e glória ao grande Deus) podem ser usados como alternativas. Porém, durante a Quaresma, o Gloria in Excelsis ou suas alternativas são omitidos.",
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "Glória a Deus nas alturas!"
+            },
+            {
+              "orador": "C",
+              "texto": "E paz na terra para as pessoas, a quem Deus quer bem! Nós te louvamos, bendizemos, adoramos; nós te glorificamos e te agradecemos por tua grande glória, ó Senhor Deus, Rei dos céus, Deus Pai, o Poderoso. Ó Senhor, Filho único do Pai, Jesus Cristo; ó Senhor Deus, Cordeiro de Deus, Filho do Pai, que tiras o pecado do mundo, tem compaixão de nós. Tu que tiras o pecado do mundo, escuta a nossa petição. Tu, que estás sentado à direita de Deus Pai, tem compaixão de nós, porque só tu és santo, só tu és o Senhor. Só tu, ó Cristo, juntamente com o Espírito Santo, és o Altíssimo na glória de Deus Pai. Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "saudacao_liturgica",
+          "titulo": "7. SAUDAÇÃO",
+          "rubrica_do_bloco": "O oficiante volta-se para a congregação.",
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "O Senhor esteja com vocês."
+            },
+            {
+              "orador": "C",
+              "texto": "E com você também."
+            }
+          ]
+        },
+        {
+          "id_elemento": "oracao_do_dia",
+          "titulo": "8. ORAÇÃO DO DIA (COLETA)",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "Oremos:"
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "O oficiante volta-se para o altar e faz a oração. Terminada a oração, a congregação cantará ou dirá:"
+            },
+            {
+              "orador": "C",
+              "texto": "Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "primeira_leitura",
+          "titulo": "9. LEITURA DO ANTIGO TESTAMENTO OU PRIMEIRA LEITURA",
+          "rubrica_do_bloco": "SENTADO. O oficiante volta-se para a congregação.",
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "A leitura do Antigo Testamento (ou Primeira Leitura) para o ___________ está registrada em _____________."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "Terminada a leitura, o oficiante poderá dizer:"
+            },
+            {
+              "orador": "O",
+              "texto": "Assim termina a leitura do Antigo Testamento (ou Primeira Leitura)."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "Ou"
+            },
+            {
+              "orador": "O",
+              "texto": "Esta é a Palavra do Senhor."
+            }
+          ]
+        },
+        {
+          "id_elemento": "segunda_leitura",
+          "titulo": "10. LEITURA DA EPÍSTOLA OU SEGUNDA LEITURA",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "A Epístola (Segunda Leitura) está registrada em ____________."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "Terminada a leitura, o oficiante poderá dizer:"
+            },
+            {
+              "orador": "O",
+              "texto": "Assim termina a Epístola (Segunda Leitura)."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "Ou"
+            },
+            {
+              "orador": "O",
+              "texto": "Esta é a Palavra do Senhor."
+            }
+          ]
+        },
+        {
+          "id_elemento": "gradual",
+          "titulo": "11. GRADUAL OU HINO DO GRADUAL",
+          "rubrica_do_bloco": "DE PÉ. O oficiante volta-se para o altar. O Gradual poderá ser cantado ou lido. Se o Gradual for falado, a congregação cantará ao final a Aleluia, exceto no período de Quaresma. Um salmo ou hino apropriado pode substituir o Gradual. No caso de um hino, a congregação poderá sentar. Após o canto ou leitura do Gradual:",
+          "dialogo": [
+            {
+              "orador": "C",
+              "texto": "Aleluia, Aleluia, Aleluia!"
+            }
+          ]
+        },
+        {
+          "id_elemento": "leitura_evangelho",
+          "titulo": "12. LEITURA DO EVANGELHO",
+          "rubrica_do_bloco": "DE PÉ. O oficiante volta-se para a congregação.",
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "O santo Evangelho está registrado em _______________."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "A congregação cantará ou dirá:"
+            },
+            {
+              "orador": "C",
+              "texto": "Glórias a ti, Senhor!"
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "Terminada a leitura, o oficiante poderá dizer:"
+            },
+            {
+              "orador": "O",
+              "texto": "Assim termina o Evangelho"
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "Ou"
+            },
+            {
+              "orador": "O",
+              "texto": "Este é o Evangelho do Senhor."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "A congregação cantará ou dirá:"
+            },
+            {
+              "orador": "C",
+              "texto": "Glórias a ti, ó Cristo!"
+            }
+          ]
+        },
+        {
+          "id_elemento": "credo_niceno_opcao_a",
+          "titulo": "13. CONFISSÃO DE FÉ - OPÇÃO A: CREDO NICENO",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "T",
+              "texto": "Creio em um só Deus, Pai todo-poderoso, Criador do céu e da terra, tanto das coisas visíveis como das invisíveis. E em um só Senhor Jesus Cristo, Filho unigênito de Deus, nascido do Pai antes de todos os mundos, Deus de Deus, Luz de Luz, verdadeiro Deus do verdadeiro Deus, gerado, não criado, de uma só substância com o Pai, por quem todas as coisas foram feitas; o qual por nós homens e pela nossa salvação desceu do céu e se encarnou pelo Espírito Santo na virgem Maria e foi feito homem; foi também crucificado por nós sob Pôncio Pilatos, padeceu e foi sepultado; e ao terceiro dia ressuscitou segundo as Escrituras, e subiu aos céus, e está sentado à direita do Pai e virá novamente em glória a julgar os vivos e os mortos, cujo reino não terá fim. E no Espírito Santo, Senhor e Doador da vida, o qual procede do Pai e do Filho, que juntamente com o Pai e o Filho é adorado e glorificado; que falou pelos profetas. E numa única santa Igreja Cristã e Apostólica. Confesso um só Batismo para remissão dos pecados, e espero a ressurreição dos mortos e a vida ✝ do mundo vindouro. Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "credo_apostolico_opcao_b",
+          "titulo": "13. CONFISSÃO DE FÉ - OPÇÃO B: CREDO APOSTÓLICO",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "T",
+              "texto": "Creio em Deus Pai todo-poderoso, Criador do céu e da terra. E em Jesus Cristo, seu único Filho, nosso Senhor, o qual foi concebido pelo Espírito Santo, nasceu da virgem Maria, padeceu sob Pôncio Pilatos, foi crucificado, morto e sepultado; desceu ao inferno; no terceiro dia ressuscitou dos mortos, subiu ao céu e está sentado à direita de Deus Pai todo-poderoso, donde há de vir a julgar os vivos e os mortos. Creio no Espírito Santo, na Santa Igreja Cristã — a comunhão dos santos, na remissão dos pecados, na ressurreição da carne e na vida ✝ eterna. Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "credo_niceno_cantado_opcao_c",
+          "titulo": "13. CONFISSÃO DE FÉ - OPÇÃO C: CREDO NICENO (CANTADO)",
+          "rubrica_do_bloco": "Opção C – CREDO NICENO (cantado)",
+          "dialogo": []
+        },
+        {
+          "id_elemento": "hino_do_credo_opcao_d",
+          "titulo": "13. CONFISSÃO DE FÉ - OPÇÃO D: HINO DO CREDO",
+          "rubrica_do_bloco": "Opção D – HINO DO CREDO, nº 232 ou 233 (Nós cremos todos num só Deus)",
+          "dialogo": []
+        },
+        {
+          "id_elemento": "credo_atanasiano_opcao_e",
+          "titulo": "13. CONFISSÃO DE FÉ - OPÇÃO E: CREDO ATANASIANO",
+          "rubrica_do_bloco": "Opção E – CREDO ATANASIANO",
+          "dialogo": []
+        },
+        {
+          "id_elemento": "explicacao_lutero_opcao_f",
+          "titulo": "13. CONFISSÃO DE FÉ - OPÇÃO F: EXPLICAÇÃO DO CREDO",
+          "rubrica_do_bloco": "Opção F – Explicação de Lutero dos Artigos do CREDO APOSTÓLICO",
+          "dialogo": []
+        },
+        {
+          "id_elemento": "hino_do_dia",
+          "titulo": "14. HINO DO DIA",
+          "rubrica_do_bloco": "SENTADO",
+          "dialogo": []
+        },
+        {
+          "id_elemento": "pregacao",
+          "titulo": "15. PREGAÇÃO",
+          "rubrica_do_bloco": "",
+          "dialogo": []
+        },
+        {
+          "id_elemento": "ofertorio",
+          "titulo": "16. OFERTÓRIO",
+          "rubrica_do_bloco": "DE PÉ",
+          "dialogo": [
+            {
+              "orador": "C",
+              "texto": "Cria em mim, ó Deus, um puro coração e renova em mim espírito reto. Não me afastes nunca da tua presença e não retires de mim o teu Espírito Santo. Dá-me de novo a alegria da tua salvação e mantém-me com um voluntário espírito. Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "recolhimento_ofertas",
+          "titulo": "17. RECOLHIMENTO DAS OFERTAS",
+          "rubrica_do_bloco": "SENTADO",
+          "dialogo": []
+        },
+        {
+          "id_elemento": "oracao_geral",
+          "titulo": "18. ORAÇÃO GERAL",
+          "rubrica_do_bloco": "DE PÉ. Não havendo celebração da Santa Ceia, segue: PAI-NOSSO – HINO – ORAÇÃO — BÊNÇÃO.",
+          "dialogo": []
+        },
+        {
+          "id_elemento": "hino_preparacao_altar",
+          "titulo": "19. HINO",
+          "rubrica_do_bloco": "Durante o hino, o oficiante prepara o altar para a celebração do Sacramento.",
+          "dialogo": []
+        },
+        {
+          "id_elemento": "sursum_corda",
+          "titulo": "20. PREFÁCIO - SURSUM CORDA",
+          "rubrica_do_bloco": "DE PÉ. O oficiante volta-se para a congregação.",
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "O Senhor esteja com vocês."
+            },
+            {
+              "orador": "C",
+              "texto": "E com você também."
+            },
+            {
+              "orador": "O",
+              "texto": "Elevem o coração."
+            },
+            {
+              "orador": "C",
+              "texto": "Já o temos com Deus, o Senhor."
+            },
+            {
+              "orador": "O",
+              "texto": "Vamos dar graças ao Senhor, nosso Deus."
+            },
+            {
+              "orador": "C",
+              "texto": "Fazemos isto, pois é digno e justo."
+            }
+          ]
+        },
+        {
+          "id_elemento": "vere_dignum",
+          "titulo": "20. PREFÁCIO - VERE DIGNUM",
+          "rubrica_do_bloco": "Segue o Vere Dignum. O oficiante volta-se para o altar.",
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "É verdadeiramente digno, justo e do nosso dever, que em todos os tempos e em todos os lugares te demos graças, ó Senhor, santo Pai, poderoso, eterno Deus, mediante Jesus Cristo, nosso Senhor. Prefácio Próprio...* Portanto com os anjos e arcanjos e com toda a companhia celeste louvamos e engrandecemos o teu glorioso nome, exaltando-te sempre, dizendo:"
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "*Prefácios próprios conforme consta no livro de liturgias Culto Luterano."
+            }
+          ]
+        },
+        {
+          "id_elemento": "sanctus",
+          "titulo": "21. SANCTUS",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "C",
+              "texto": "Santo, santo, santo é o Senhor Deus, Poderoso. Os céus e a terra estão cheios de sua glória. Hosana, Hosana, Hosana nas alturas! Bendito, bendito, bendito aquele que vem em nome do Senhor! Hosana, Hosana, Hosana nas alturas!"
+            }
+          ]
+        },
+        {
+          "id_elemento": "pai_nosso",
+          "titulo": "22. PAI-NOSSO",
+          "rubrica_do_bloco": "Os hinos nº 442 (Por amor do Mediador) ou nº 443 (Ó nosso Pai, que estás nos céus) podem ser usados como alternativas.",
+          "dialogo": [
+            {
+              "orador": "C",
+              "texto": "Pai nosso, que estás nos céus. Santificado seja o teu nome. Venha o teu reino. Seja feita a tua vontade, assim na terra como no céu. O pão nosso de cada dia nos dá hoje. E perdoa-nos as nossas dívidas, assim como nós também perdoamos aos nossos devedores. E não nos deixes cair in tentação. Mas livra-nos do mal. Pois teu é o reino, e o poder, e a glória, para sempre. Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "palavras_instituicao",
+          "titulo": "23. PALAVRAS DA INSTITUIÇÃO",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "Nosso Senhor Jesus Cristo, na noite em que foi traído, pegou o pão e deu graças a Deus. Depois partiu o pão e o deu aos discípulos, dizendo:\nPeguem e comam; isto é o meu ✝ corpo, que é entregue por vocês. Façam isto em memória de mim.\nAssim também, depois do jantar, ele pegou o cálice de vinho e agradeceu a Deus. Depois passou o cálice aos discípulos, dizendo:\nBebam todos vocês, porque este cálice é a nova aliança feita por Deus com o seu povo através do meu ✝ sangue, que é derramado por vocês para o perdão dos pecados. Cada vez que vocês beberem deste cálice, façam isto em memória de mim."
+            }
+          ]
+        },
+        {
+          "id_elemento": "pax_domini",
+          "titulo": "24. PAX DOMINI",
+          "rubrica_do_bloco": "O oficiante volta-se para a congregação.",
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "A paz do Senhor esteja com vocês para sempre."
+            },
+            {
+              "orador": "C",
+              "texto": "Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "agnus_dei",
+          "titulo": "25. AGNUS DEI",
+          "rubrica_do_bloco": "O oficiante volta-se para o altar.",
+          "dialogo": [
+            {
+              "orador": "C",
+              "texto": "1. Ó Cordeiro de Deus, que tiras o pecado do mundo, tem misericórdia de nós.\n 2. Ó Cordeiro de Deus, que tiras o pecado do mundo, tem misericórdia de nós.\n 3. Ó Cordeiro de Deus, que tiras o pecado do mundo, dá-nos a paz. Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "distribuicao",
+          "titulo": "26. A DISTRIBUIÇÃO",
+          "rubrica_do_bloco": "O oficiante e seus auxiliares são os primeiros a receber a Santa Ceia, o que pode ser feito já durante o Agnus Dei. Durante a distribuição, são ditas as palavras:",
+          "dialogo": []
+        },
+        {
+          "id_elemento": "distribuicao_opcao_i",
+          "titulo": "26. A DISTRIBUIÇÃO - OPÇÃO I",
+          "rubrica_do_bloco": "Opção I – Diante do altar:",
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "Peguem, comam; isto é o verdadeiro corpo de nosso Senhor e Salvador Jesus Cristo, dado à morte pelos pecados de vocês.\nPeguem, bebam; isto é o verdadeiro sangue de nosso Senhor e Salvador Jesus Cristo, derramado para o perdão dos pecados de vocês."
+            }
+          ]
+        },
+        {
+          "id_elemento": "distribuicao_opcao_ii",
+          "titulo": "26. A DISTRIBUIÇÃO - OPÇÃO II",
+          "rubrica_do_bloco": "Opção II – Distribuição processional:",
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "O verdadeiro corpo de Cristo dado por você.\nO verdadeiro sangue de Cristo derramado por você."
+            }
+          ]
+        },
+        {
+          "id_elemento": "despedida_comungantes",
+          "titulo": "26. A DISTRIBUIÇÃO - DESPEDIDA",
+          "rubrica_do_bloco": "Ao despedir os comungantes, o oficiante dirá:",
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "Que esta Ceia fortaleça e preserve vocês na fé para a ✝ vida eterna."
+            },
+            {
+              "orador": "C",
+              "texto": "Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "nunc_dimittis",
+          "titulo": "27. NUNC DIMITTIS",
+          "rubrica_do_bloco": "DE PÉ. O oficiante volta-se para o altar.",
+          "dialogo": [
+            {
+              "orador": "T",
+              "texto": "Senhor, agora despedes em paz o teu servo, segundo a tua palavra. Pois com meus olhos já vi a tua salvação, que preparaste na presença de todos os povos: luz que mostra o caminho aos gentios e que dá glória ao teu povo Israel. Glória ao Pai e ao Filho e ao Santo Espírito, como era no princípio, agora é e por todo o sempre será. Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "acao_de_gracas",
+          "titulo": "28. AÇÃO DE GRAÇAS",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "O oficiante volta-se para a congregação."
+            },
+            {
+              "orador": "O",
+              "texto": "Cada vez que vocês comem deste pão e bebem deste cálice:"
+            },
+            {
+              "orador": "C",
+              "texto": "estão anunciando a morte do Senhor, até que ele venha."
+            },
+            {
+              "orador": "O",
+              "texto": "Demos graças ao Senhor e oremos:"
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "O oficiante volta-se para o altar."
+            },
+            {
+              "orador": "O",
+              "texto": "Deus Todo-Poderoso, nós te agradecemos, porque nos reconfortaste por meio deste dom da salvação. Suplicamos-te que concedas por tua graça que o mesmo nos fortaleça a fé em ti e nos faça ter muito amor ao nosso próximo, mediante Jesus Cristo, teu Filho, nosso Senhor."
+            },
+            {
+              "orador": "C",
+              "texto": "Amém."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "Poderá ser cantado um hino de pós-comunhão. Poderá, então, ser dita ou cantada:"
+            }
+          ]
+        },
+        {
+          "id_elemento": "saudacao",
+          "titulo": "29. SAUDAÇÃO",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "O oficiante volta-se para a congregação."
+            },
+            {
+              "orador": "O",
+              "texto": "O Senhor esteja com vocês."
+            },
+            {
+              "orador": "C",
+              "texto": "E com você também."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "Pode ser dito ou cantado:"
+            }
+          ]
+        },
+        {
+          "id_elemento": "benedicamus",
+          "titulo": "30. BENEDICAMUS",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "Louvemos ao Senhor."
+            },
+            {
+              "orador": "C",
+              "texto": "Demos graças a Deus"
+            }
+          ]
+        },
+        {
+          "id_elemento": "bencao",
+          "titulo": "31. BÊNÇÃO",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "O oficiante volta-se para a congregação e, erguendo a(s) mão(s), dirá ou cantará:"
+            },
+            {
+              "orador": "O",
+              "texto": "O Senhor os abençoe e os guarde. O Senhor os trate com bondade e misericórdia. O Senhor olhe para vocês com amor e lhes ✝ dê a paz."
+            },
+            {
+              "orador": "C",
+              "texto": "Amém. Amém. Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "hino_32",
+          "titulo": "32. HINO",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "Ordem do Culto Principal II, em Linguagem Contemporânea. Textos da Liturgia Cristã; adapt. Comissão de Culto, 2015. Músicas: The Lutheran Hymnal, 1941, alt. Textos: Domínio Público. Adaptação dos textos: © Copyright da Igreja Evangélica Luterana do Brasil (admin. Editora Concórdia), 2015. Músicas: © Copyright de Concordia Publishing House, 1941 – usado com permissão"
+            }
+          ]
+        }
+      ]
+    },
+    "matinas": {
+      "nome_liturgia": "Ordem das Matinas",
+      "elementos": [
+        
+        {
+          "id_elemento": "matinas_hino_1",
+          "titulo": "ORDEM DAS MATINAS - 1. HINO",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "Um hino de invocação ao Espírito Santo ou outro hino poderá ser cantado. Então serão cantados os versículos que seguem."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "DE PÉ"
+            }
+          ]
+        },
+        {
+          "id_elemento": "matinas_versiculos",
+          "titulo": "2. VERSÍCULOS",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "Abre, Senhor, os meus lábios."
+            },
+            {
+              "orador": "C",
+              "texto": "E a minha boca manifestará o teu louvor."
+            },
+            {
+              "orador": "O",
+              "texto": "Apressa-te, ó Deus, em me livrar."
+            },
+            {
+              "orador": "C",
+              "texto": "Apressa-te em ajudar-me, ó Senhor."
+            }
+          ]
+        },
+        {
+          "id_elemento": "gloria_patri",
+          "titulo": "3. GLORIA PATRI",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "Durante a Quaresma, a Aleluia não será cantada."
+            },
+            {
+              "orador": "C",
+              "texto": "Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém. Aleluia!"
+            }
+          ]
+        },
+        {
+          "id_elemento": "matinas_invitatorio",
+          "titulo": "4. INVITATÓRIO",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "Vinde, adoremos o Senhor."
+            },
+            {
+              "orador": "C",
+              "texto": "Que ele nos criou."
+            }
+          ]
+        },
+        {
+          "id_elemento": "venite",
+          "titulo": "VENITE",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "C",
+              "texto": "Vinde, cantemos ao Senhor com júbilo, celebremos o Rochedo da nossa salvação. Saiamos ao seu encontro, com ações de graças, vitoriemo-lo com salmos. Porque o Senhor é o Deus supremo, e o grande Rei acima de todos os deuses. Nas suas mãos estão as profundezas da terra, e as alturas dos montes lhe pertencem. Dele é o mar, pois ele o fez; obra de suas mãos, os continentes. Vinde, adoremos e prostremo-nos; ajoelhemos diante do Senhor que nos criou. Ele é o nosso Deus, e nós, povo de seu pasto, e ovelhas de sua mão. Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "SENTADO"
+            }
+          ]
+        },
+        {
+          "id_elemento": "matinas_hino_5",
+          "titulo": "5. HINO",
+          "rubrica_do_bloco": "",
+          "dialogo": []
+        },
+        {
+          "id_elemento": "matinas_salmodia",
+          "titulo": "6. SALMODIA",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "Um ou mais salmos podem ser cantados ou recitados, cada um concluindo com o Gloria Patri."
+            }
+          ]
+        },
+        {
+          "id_elemento": "matinas_leituras",
+          "titulo": "7. LEITURAS BÍBLICAS",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "Uma ou mais leituras bíblicas poderão ser feitas. Ao final da(s) leitura(s), será cantado como segue:"
+            },
+            {
+              "orador": "O",
+              "texto": "Ó Senhor, tem compaixão de nós."
+            },
+            {
+              "orador": "C",
+              "texto": "Graças te damos, Senhor."
+            }
+          ]
+        },
+        {
+          "id_elemento": "matinas_hino_8",
+          "titulo": "8. HINO",
+          "rubrica_do_bloco": "",
+          "dialogo": []
+        },
+        {
+          "id_elemento": "matinas_pregacao",
+          "titulo": "9. PREGAÇÃO",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "Uma mensagem poderá ser proferida."
+            }
+          ]
+        },
+        {
+          "id_elemento": "matinas_ofertas",
+          "titulo": "10. RECOLHIMENTO DAS OFERTAS",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "DE PÉ"
+            }
+          ]
+        },
+        {
+          "id_elemento": "cantico_opcao_1_te_deum",
+          "titulo": "11. CÂNTICO - OPÇÃO I - TE DEUM LAUDAMUS",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "C",
+              "texto": "A ti, ó Deus, louvamos, e por Senhor nosso confessamos. A ti, ó eterno Pai, adora toda a terra. A ti clamam todos os anjos, os céus e todas as suas potestades; a ti os querubins e os serafins continuamente bradam. Santo, santo, santo, Senhor Deus dos Exércitos; os céus e a terra estão cheios da majestade da tua glória. A ti louva o glorioso coro dos apóstolos. A ti louva a santa congregação dos profetas. A ti louva o nobre exército dos mártires. A ti reconhece, por toda a terra, a santa Igreja: como o Pai de infinita majestade; como adorável, verdadeiro e único Filho; e como o Espírito Santo, o Consolador. Tu és o Rei da Glória, ó Cristo. Tu és do Pai o sempiterno Filho. Tu, quando tomaste sobre ti livrar o homem, te humilhaste a nascer duma virgem. Tu, quando venceste o aguilhão da morte, abriste a todos os fiéis o reino celeste. Tu, à direita de Deus, estás sentado na glória do Pai. Cremos que virás ser nosso Juiz. Portanto, te suplicamos, socorras a teus servos, aos quais com teu precioso sangue redimiste. Faze com que sejam contados entre os santos teus na glória eterna. *Ó Senhor, salva teu povo e abençoa tua herança. Governa e exalta teu povo eternamente. Dia após dia a ti louvamos; e glorificamos teu nome pelos séculos dos séculos. Ó Senhor, tem misericórdia de nós, tem misericórdia. Ó Senhor, seja sobre nós tua misericórdia, pois em ti está toda a nossa confiança. Em ti, Senhor, tenho confiado, não me deixes jamais ser enganado."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "* As versões mais antigas do Te Deum omitem os versos 8 e 9"
+            }
+          ]
+        },
+        {
+          "id_elemento": "cantico_opcao_2_benedictus",
+          "titulo": "11. CÂNTICO - OPÇÃO II - BENEDICTUS",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "C",
+              "texto": "Bendito seja o Senhor Deus de Israel, porque visitou e redimiu o seu povo, e nos suscitou plena e poderosa salvação na casa de Davi, seu servo, como prometera, desde a antiguidade, por boca dos seus santos profetas, para nos libertar dos nossos inimigos e da mão de todos os que nos odeiam; para usar de misericórdia com os nossos pais e lembrar-se da sua santa aliança e do juramento que fez ao nosso pai Abraão, de conceder-nos que, livres da mão de inimigos, o adorássemos sem temor, em santidade e justiça perante ele, todos os nossos dias. Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "matinas_oracoes",
+          "titulo": "12. ORAÇÕES",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "DE PÉ/AJOELHADO. Serão cantadas ou ditas as orações que seguem."
+            }
+          ]
+        },
+        {
+          "id_elemento": "kyrie",
+          "titulo": "KYRIE",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "T",
+              "texto": "Senhor, tem piedade de nós. Cristo, tem piedade de nós. Senhor, tem piedade de nós."
+            }
+          ]
+        },
+        {
+          "id_elemento": "pai_nosso",
+          "titulo": "PAI-NOSSO",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "T",
+              "texto": "Pai nosso, que estás nos céus. Santificado seja o teu nome. Venha o teu reino. Seja feita a tua vontade, assim na terra como no céu. O pão nosso de cada dia nos dá hoje. E perdoa-nos as nossas dívidas, assim como nós também perdoamos aos nossos devedores. E não nos deixes cair em tentação. Mas livra-nos do mal. Pois teu é o reino, e o poder, e a glória, para sempre. Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "matinas_saudacao",
+          "titulo": "SAUDAÇÃO",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "O Senhor esteja convosco."
+            },
+            {
+              "orador": "C",
+              "texto": "E contigo também."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "A Coleta do Dia e/ou outras coletas e/ou orações podem ser aqui inseridas."
+            }
+          ]
+        },
+        {
+          "id_elemento": "matinas_oracao_pela_graca",
+          "titulo": "ORAÇÃO PELA GRAÇA",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "Oremos. Ó Senhor, nosso Pai celestial, onipotente e sempiterno Deus, que nos trouxe em segurança até o começo deste dia, defende-nos hoje com teu grande poder, não permitindo cairmos em pecado nem nos expondo descuidosos a qualquer perigo. Concede que nossos pensamentos e ações, ordenados por tua providência, sejam retos a teus olhos; mediante Jesus Cristo, nosso Senhor."
+            },
+            {
+              "orador": "C",
+              "texto": "Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "matinas_benedicamus",
+          "titulo": "13. BENEDICAMUS",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "DE PÉ"
+            },
+            {
+              "orador": "O",
+              "texto": "Bendigamos ao Senhor."
+            },
+            {
+              "orador": "C",
+              "texto": "Demos graças a Deus."
+            }
+          ]
+        },
+        {
+          "id_elemento": "matinas_bencao",
+          "titulo": "14. BÊNÇÃO",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "A graça do Senhor Jesus ✝ Cristo e o amor de Deus e a comunhão do Espírito Santo sejam com todos vós."
+            },
+            {
+              "orador": "C",
+              "texto": "Amém."
+            }
+          ]
+        }
+      ]
+    },
+    "vesperas": {
+      "nome_liturgia": "Ordem das Vésperas",
+      "elementos": [
+        
+        {
+          "id_elemento": "vesperas_hino_1",
+          "titulo": "1. HINO",
+          "rubrica_do_bloco": "Um hino de invocação ao Espírito Santo ou outro hino poderá ser cantado. Então serão cantados os versículos que se seguem.",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "DE PÉ"
+            }
+          ]
+        },
+        {
+          "id_elemento": "vesperas_versiculos",
+          "titulo": "2. VERSÍCULOS",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "Abre, Senhor, os meus lábios."
+            },
+            {
+              "orador": "C",
+              "texto": "E a minha boca manifestará o teu louvor."
+            },
+            {
+              "orador": "O",
+              "texto": "Apressa-te, ó Deus, em me livrar."
+            },
+            {
+              "orador": "C",
+              "texto": "Apressa-te em ajudar-me, ó Senhor."
+            }
+          ]
+        },
+        {
+          "id_elemento": "vesperas_gloria_patri",
+          "titulo": "3. GLORIA PATRI",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "Durante a Quaresma, a Aleluia não será cantada."
+            },
+            {
+              "orador": "C",
+              "texto": "Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém. Aleluia!"
+            }
+          ]
+        },
+        {
+          "id_elemento": "vesperas_salmodia",
+          "titulo": "4. SALMODIA",
+          "rubrica_do_bloco": "Um ou mais salmos podem ser cantados ou recitados, cada um concluindo com o Gloria Patri.",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "SENTADO"
+            }
+          ]
+        },
+        {
+          "id_elemento": "vesperas_leituras_biblicas",
+          "titulo": "5. LEITURAS BÍBLICAS",
+          "rubrica_do_bloco": "Uma ou mais leituras bíblicas poderão ser feitas. Ao final da(s) leitura(s), será cantado como segue:",
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "Ó Senhor, tem compaixão de nós."
+            },
+            {
+              "orador": "C",
+              "texto": "Graças te damos, Senhor."
+            }
+          ]
+        },
+        {
+          "id_elemento": "vesperas_hino_2",
+          "titulo": "6. HINO",
+          "rubrica_do_bloco": "Poderá ser cantado um hino.",
+          "dialogo": []
+        },
+        {
+          "id_elemento": "vesperas_pregacao",
+          "titulo": "7. PREGAÇÃO",
+          "rubrica_do_bloco": "Momento da pregação da Palavra.",
+          "dialogo": []
+        },
+        {
+          "id_elemento": "vesperas_ofertas",
+          "titulo": "8. RECOLHIMENTO DAS OFERTAS",
+          "rubrica_do_bloco": "Recolhem-se as ofertas de gratidão.",
+          "dialogo": []
+        },
+        {
+          "id_elemento": "vesperas_hino_3",
+          "titulo": "9. HINO",
+          "rubrica_do_bloco": "Poderá ser cantado um hino.",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "DE PÉ"
+            }
+          ]
+        },
+        {
+          "id_elemento": "vesperas_cantico",
+          "titulo": "10. CÂNTICO",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "Suba à tua presença a minha oração como incenso."
+            },
+            {
+              "orador": "C",
+              "texto": "E seja o erguer de minhas mãos como oferenda vespertina."
+            }
+          ]
+        },
+        {
+          "id_elemento": "vesperas_magnificat",
+          "titulo": "OPÇÃO I – MAGNIFICAT",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "C",
+              "texto": "A minha alma engrandece ao Senhor, e o meu espírito se alegrou em Deus, meu Salvador, porque ele contemplou na humildade da sua serva. Pois desde agora todas as gerações me considerarão bem-aventurada, porque o Poderoso me fez grandes coisas. Santo é o seu nome. A sua misericórdia vai de geração em geração sobre os que o temem. Agiu com o seu braço valorosamente; dispersou os que no coração alimentavam pensamentos soberbos. Derrubou dos seus tronos os poderosos e exaltou os humildes. Encheu de bens os famintos e despediu vazios os ricos. Amparou a Israel, seu servo, a fim de lembrar-se da sua misericórdia, a favor de Abraão e de sua descendência para sempre, como prometera aos nossos pais. Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é e para sempre será – de eternidade a eternidade. Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "vesperas_nunc_dimittis",
+          "titulo": "OPÇÃO II – NUNC DIMITTIS",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "C",
+              "texto": "Agora, Senhor, despedes em paz o teu servo, segundo a tua palavra, porque os meus olhos já viram tua salvação, a qual preparaste diante de todos os povos, luz para revelação aos gentios, e para glória do teu povo Israel. Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "vesperas_kyrie",
+          "titulo": "KYRIE",
+          "rubrica_do_bloco": "Serão cantadas ou ditas as orações que seguem.",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "DE PÉ/AJOELHADO"
+            },
+            {
+              "orador": "C",
+              "texto": "Senhor, tem piedade de nós. Cristo, tem piedade de nós. Senhor, tem piedade de nós."
+            }
+          ]
+        },
+        {
+          "id_elemento": "vesperas_pai_nosso",
+          "titulo": "PAI-NOSSO",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "C",
+              "texto": "Pai nosso, que estás nos céus. Santificado seja o teu nome. Venha o teu reino. Seja feita a tua vontade, assim na terra como no céu. O pão nosso de cada dia nos dá hoje. E perdoa-nos as nossas dívidas, assim como nós também perdoamos aos nossos devedores. E não nos deixes cair em tentação. Mas livra-nos do mal. Pois teu é o reino, e o poder, e a glória, para sempre. Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "vesperas_saudacao",
+          "titulo": "SAUDAÇÃO",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "O Senhor esteja convosco."
+            },
+            {
+              "orador": "C",
+              "texto": "E contigo também."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "A Coleta do Dia e/ou outras coletas e/ou orações podem ser aqui inseridas."
+            }
+          ]
+        },
+        {
+          "id_elemento": "vesperas_oracao_pela_paz",
+          "titulo": "ORAÇÃO PELA PAZ",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "O Senhor dará força ao seu povo."
+            },
+            {
+              "orador": "C",
+              "texto": "O Senhor abençoará o seu povo com paz."
+            },
+            {
+              "orador": "T",
+              "texto": "Ó Deus, de quem procedem os desejos santos, todos os bons conselhos e obras justas, dá aos teus servos aquela paz que o mundo não lhes pode dar; para que nossos corações se determinem a cumprir os teus mandamentos, e que, sendo nós por ti amparados contra o temor de nossos inimigos, possamos viver em paz e tranquilidade; mediante os méritos de Jesus Cristo, nosso Salvador. Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "benedicamus",
+          "titulo": "12. BENEDICAMUS",
+          "rubrica_do_bloco": "DE PÉ",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "DE PÉ"
+            },
+            {
+              "orador": "O",
+              "texto": "Bendigamos ao Senhor."
+            },
+            {
+              "orador": "C",
+              "texto": "Demos graças a Deus."
+            }
+          ]
+        },
+        {
+          "id_elemento": "bencao",
+          "titulo": "13. BÊNÇÃO",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "A graça do Senhor Jesus ✝ Cristo e o amor de Deus e a comunhão do Espírito Santo sejam com todos vós."
+            },
+            {
+              "orador": "C",
+              "texto": "Amém."
+            }
+          ]
+        }
+      ]
+    },
+    "manha": {
+      "nome_liturgia": "Devoção da Manhã",
+      "elementos": [
+        {
+          "id_elemento": "devocao_manha_invocacao",
+          "titulo": "DEVOÇÃO DA MANHÃ - 1. INVOCAÇÃO",
+          "rubrica_do_bloco": "Pode ser usada em pequenos grupos, reuniões na Igreja ou em família. Todos podem ficar em pé ou sentados em círculo.",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "Pode ser usada em pequenos grupos, reuniões na Igreja ou em família. Todos podem ficar em pé ou sentados em círculo."
+            },
+            {
+              "orador": "O",
+              "texto": "Ó Senhor, põe as palavras certas na minha boca,"
+            },
+            {
+              "orador": "C",
+              "texto": "e eu te louvarei."
+            }
+          ]
+        },
+        {
+          "id_elemento": "devocao_manha_salmodia",
+          "titulo": "DEVOÇÃO DA MANHÃ - 2. SALMODIA",
+          "rubrica_do_bloco": "A Salmodia caracteriza-se pela leitura ou canto de salmos e cânticos. Após cada salmo, recomenda-se cantar ou falar o Gloria Patri.",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "A Salmodia caracteriza-se pela leitura ou canto de salmos e cânticos. Após cada salmo, recomenda-se cantar ou falar o Gloria Patri."
+            },
+            {
+              "orador": "T",
+              "texto": "Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "devocao_manha_hino",
+          "titulo": "DEVOÇÃO DA MANHÃ - 3. HINO",
+          "rubrica_do_bloco": "",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "Hino"
+            }
+          ]
+        },
+        {
+          "id_elemento": "devocao_manha_leituras",
+          "titulo": "DEVOÇÃO DA MANHÃ - 4. LEITURAS",
+          "rubrica_do_bloco": "Seguem uma ou mais leituras. Terminada a leitura, o oficiante dirá:",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "Seguem uma ou mais leituras. Terminada a leitura, o oficiante dirá:"
+            },
+            {
+              "orador": "O",
+              "texto": "Antigamente, por meio dos profetas, Deus falou muitas vezes e de muitas maneiras aos nossos antepassados,"
+            },
+            {
+              "orador": "C",
+              "texto": "mas nestes últimos tempos ele nos falou por meio do seu Filho."
+            }
+          ]
+        },
+        {
+          "id_elemento": "devocao_manha_cantico_cordeiro",
+          "titulo": "DEVOÇÃO DA MANHÃ - CÂNTICO AO CORDEIRO",
+          "rubrica_do_bloco": "A leitura bíblica é concluída com o cântico ao Cordeiro ou outro hino que enalteça a obra de Jesus como Redentor:",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "A leitura bíblica é concluída com o cântico ao Cordeiro ou outro hino que enalteça a obra de Jesus como Redentor:"
+            },
+            {
+              "orador": "T",
+              "texto": "1. Digno és, ó Cordeiro, de todo o louvor, graças nós rendemos por teu amor.\n2. Tua seja a glória e o domínio também, para todo o sempre. Amém. Amém.\n3. Teus são os poderes e os tronos também, hoje e para sempre. Amém. Amém.\n4. Glória nas alturas, na terra também, glórias, Aleluia! Amém. Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "oracoes_pai_nosso",
+          "titulo": "5. ORAÇÕES",
+          "rubrica_do_bloco": "Seguem uma ou mais orações, acrescidas do Pai-Nosso.",
+          "dialogo": [
+            {
+              "orador": "T",
+              "texto": "Pai nosso, que estás nos céus. Santificado seja o teu nome. Venha o teu reino. Seja feita a tua vontade, assim na terra como no céu. O pão nosso de cada dia nos dá hoje. E perdoa-nos as nossas dívidas, assim como nós também perdoamos aos nossos devedores. E não nos deixes cair em tentação. Mas livra-nos do mal. Pois teu é o reino, e o poder, e a glória, para sempre. Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "bencao",
+          "titulo": "6. BÊNÇÃO",
+          "rubrica_do_bloco": null,
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "Louvemos todos ao Senhor."
+            },
+            {
+              "orador": "C",
+              "texto": "Demos graças a Deus."
+            },
+            {
+              "orador": "O",
+              "texto": "O Senhor esteja com todos."
+            },
+            {
+              "orador": "C",
+              "texto": "O Senhor nos acompanhe em todas as nossas palavras e ações."
+            },
+            {
+              "orador": "T",
+              "texto": "O Senhor nos abençoe e nos guarde. O Senhor faça resplandecer o seu rosto sobre nós e tenha misericórdia de nós. O Senhor sobre nós levante o seu rosto e nos ✝ dê a paz. Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "hino_tuya_es_la_gloria",
+          "titulo": "7. HINO",
+          "rubrica_do_bloco": null,
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "*Tuya es la gloria\nLetra: atrib. Edward Miller, 1971; trad. Anônimo\nMúsica: atrib. Edward Miller, 1971; arr. Cantai Louvor, 1987\nPublicado em Toda la Gloria a Jesus, 1971."
+            }
+          ]
+        }
+      ]
+    },
+    "noite": {
+      "nome_liturgia": "Devoção da Noite",
+      "elementos": [
+        {
+          "id_elemento": "devocao_da_noite_introducao",
+          "titulo": "DEVOÇÃO DA NOITE",
+          "rubrica_do_bloco": "Pode ser usada em pequenos grupos, reuniões na Igreja ou em família. Todos podem ficar em pé ou sentados em círculo.",
+          "dialogo": []
+        },
+        {
+          "id_elemento": "cerimonial_das_luzes",
+          "titulo": "1. CERIMONIAL DAS LUZES",
+          "rubrica_do_bloco": "A Oração da Noite pode começar com o lucenário.",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "Uma ou mais velas podem ser colocadas no candelabro, de forma que todos as vejam."
+            },
+            {
+              "orador": "O",
+              "texto": "Jesus Cristo é a luz do mundo,"
+            },
+            {
+              "orador": "C",
+              "texto": "luz que escuridão alguma pode apagar."
+            },
+            {
+              "orador": "O",
+              "texto": "Fica conosco, Senhor, pois já é noite,"
+            },
+            {
+              "orador": "C",
+              "texto": "e o dia já está acabando."
+            },
+            {
+              "orador": "O",
+              "texto": "Que a tua luz afaste toda escuridão,"
+            },
+            {
+              "orador": "C",
+              "texto": "e ilumine o teu povo."
+            }
+          ]
+        },
+        {
+          "id_elemento": "devocao_noite_hino",
+          "titulo": "2. HINO",
+          "rubrica_do_bloco": null,
+          "dialogo": []
+        },
+        {
+          "id_elemento": "sursum_corda",
+          "titulo": "3. AÇÃO DE GRAÇAS",
+          "rubrica_do_bloco": null,
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "O Senhor esteja com vocês."
+            },
+            {
+              "orador": "C",
+              "texto": "E também com você."
+            },
+            {
+              "orador": "O",
+              "texto": "Demos graças ao Senhor nosso Deus."
+            },
+            {
+              "orador": "C",
+              "texto": "É justo e correto louvar e agradecer ao Senhor."
+            }
+          ]
+        },
+        {
+          "id_elemento": "devocao_noite_oracao",
+          "titulo": "4. ORAÇÃO",
+          "rubrica_do_bloco": null,
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "Bendito és tu, Senhor, nosso Deus, Rei do universo, que conduziste em segurança o teu povo, protegendo-o durante o dia com uma coluna de nuvens e durante a noite com uma coluna de fogo. Ilumina os nossos caminhos com a luz de Cristo. Que a tua Palavra seja lâmpada para os nossos pés e luz para os nossos caminhos. Tu és misericordioso e amas tudo que criaste e nós, tuas criaturas, te glorificamos e adoramos, Deus Pai, ✝ Filho e Espírito Santo."
+            },
+            {
+              "orador": "C",
+              "texto": "Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "devocao_noite_leituras",
+          "titulo": "5. LEITURAS",
+          "rubrica_do_bloco": "Seguem uma ou mais leituras.",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "Terminada a leitura, o oficiante dirá:"
+            },
+            {
+              "orador": "O",
+              "texto": "Antigamente, por meio dos profetas, Deus falou muitas vezes e de muitas maneiras aos nossos antepassados,"
+            },
+            {
+              "orador": "C",
+              "texto": "mas nestes últimos tempos ele nos falou por meio do seu Filho."
+            }
+          ]
+        },
+        {
+          "id_elemento": "devocao_noite_cantico_cordeiro",
+          "titulo": "DEVOÇÃO DA NOITE - CÂNTICO AO CORDEIRO",
+          "rubrica_do_bloco": "A leitura bíblica é concluída com o cântico ao Cordeiro ou outro hino que enalteça a obra de Jesus como Redentor:",
+          "dialogo": [
+            {
+              "orador": "T",
+              "texto": "1. Digno és, ó Cordeiro, de todo o louvor, graças nós rendemos por teu amor.\n2. Tua seja a glória e o domínio também, para todo o sempre. Amém. Amém.\n3. Teus são os poderes e os tronos também, hoje e para sempre. Amém. Amém.\n4. Glória nas alturas, na terra também, glórias, Aleluia! Amém. Amém."
+            },
+            {
+              "orador": "Rubrica",
+              "texto": "*Tuya es la gloria. Letra: atrib. Edward Miller, 1971; trad. Anônimo. Música: atrib. Edward Miller, 1971; arr. Cantai Louvor, 1987. Publicado em Toda la Gloria a Jesus, 1971."
+            }
+          ]
+        },
+        {
+          "id_elemento": "oracoes_pai_nosso",
+          "titulo": "6. ORAÇÕES",
+          "rubrica_do_bloco": "Seguem uma ou mais orações, acrescidas do Pai-Nosso.",
+          "dialogo": [
+            {
+              "orador": "T",
+              "texto": "Pai nosso, que estás nos céus. Santificado seja o teu nome. Venha o teu reino. Seja feita a tua vontade, assim na terra como no céu. O pão nosso de cada dia nos dá hoje. E perdoa-nos as nossas dívidas, assim como nós também perdoamos aos nossos devedores. E não nos deixes cair em tentação. Mas livra-nos do mal. Pois teu é o reino, e o poder, e a glória, para sempre. Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "bencao",
+          "titulo": "7. BÊNÇÃO",
+          "rubrica_do_bloco": null,
+          "dialogo": [
+            {
+              "orador": "O",
+              "texto": "Louvemos todos ao Senhor."
+            },
+            {
+              "orador": "C",
+              "texto": "Demos graças a Deus."
+            },
+            {
+              "orador": "O",
+              "texto": "O Senhor esteja com todos."
+            },
+            {
+              "orador": "C",
+              "texto": "O Senhor nos acompanhe em todas as nossas palavras e ações."
+            },
+            {
+              "orador": "T",
+              "texto": "A graça do Senhor Jesus ✝ Cristo e o amor de Deus e a comunhão do Espírito Santo sejam com todos nós. Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "devocao_noite_hino_final",
+          "titulo": "8. HINO",
+          "rubrica_do_bloco": null,
+          "dialogo": []
+        }
+      ]
+    }
+  }
+}
