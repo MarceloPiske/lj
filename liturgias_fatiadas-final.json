@@ -1050,7 +1050,7 @@
           "titulo": "16. ACLAMAÇÃO INICIAL",
           "rubrica_do_bloco": "",
           "dialogo": [
-            { "orador": "C", "texto": "Glória a ti, Senhor Jesus." }
+            { "orador": "C", "texto": "Glória a ti, Senhor." }
           ]
         },
         {
@@ -1072,7 +1072,7 @@
           "titulo": "19. ACLAMAÇÃO FINAL",
           "rubrica_do_bloco": "SENTADO",
           "dialogo": [
-            { "orador": "C", "texto": "Glória a ti, ó Cristo Jesus." }
+            { "orador": "C", "texto": "Glória a ti, ó Cristo." }
           ]
         },
         {
