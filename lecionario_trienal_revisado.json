@@ -3520,10 +3520,7 @@
       },
       "comum": {
         "oracao_do_dia": "",
-        "gradual": {
-          "referencia": "Séries A e B: Romanos 11.33,36. Série C: Isaías 52.7a; Romanos 10.18b",
-          "texto": "Séries A e B: Como são grandes as riquezas de Deus! Como são profundos o seu conhecimento e a sua sabedoria! Quem pode explicar as suas decisões? Quem pode entender os seus planos? Pois todas as coisas foram criadas por ele, e tudo existe por meio dele e para ele. Glória a Deus para sempre! Amém! Série C: Como é bonito ver um mensageiro correndo pelas montanhas, Trazendo notícias de paz, boas notícias de salvação! A voz deles se espalhou pelo mundo inteiro; As suas palavras alcançaram a terra toda."
-        }
+        "gradual": ""
       },
       "series": {
         "A": {
@@ -3532,6 +3529,10 @@
             "referencia": "Salmo 86.11-15; antífona Salmo 86.6",
             "texto": "Escuta, ó Senhor, a minha oração e ouve os meus gritos pedindo socorro! Ó Senhor Deus, ensina-me o que queres que eu faça, e eu te obedecerei fielmente! Ensina-me a te servir com toda a devoção. Senhor, meu Deus, eu te louvarei com todo o coração e anunciarei a tua grandeza para sempre. Como é grande o teu amor por mim! Tu não deixaste que eu fosse levado para o fundo do mundo dos mortos. Ó Deus, estou sendo atacado por gente orgulhosa. Um bando de pessoas violentas está querendo me matar, pessoas que não querem saber de ti. Mas tu, Senhor, és Deus de compaixão e de amor; és sempre paciente, bondoso e fiel. Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém."
           },
+          "gradual": {
+          "referencia": "Romanos 11.33,36;",
+          "texto": "Como são grandes as riquezas de Deus! Como são profundos o seu conhecimento e a sua sabedoria! Quem pode explicar as suas decisões? Quem pode entender os seus planos? Pois todas as coisas foram criadas por ele, e tudo existe por meio dele e para ele. Glória a Deus para sempre! Amém!"
+        },
           "verso": {
             "referencia": "Mateus 13.35b",
             "texto": "Aleluia. Usarei parábolas quando falar com esse povo e explicarei coisas desconhecidas desde a criação do mundo. Aleluia."
@@ -3549,6 +3550,10 @@
             "referencia": "Salmo 147.7-11; antífona Salmo 145.16",
             "texto": "Quando os alimenta, o Senhor Deus é generoso; ele satisfaz a todos os seres vivos. Cantem hinos de louvor ao Senhor; toquem músicas na lira em louvor ao nosso Deus. Ele cobre de nuvens o céu, manda cair chuva na terra e faz crescer grama nas montanhas. Ele dá de comer aos animais e alimenta os filhotes dos corvos quando eles pedem. O que agrada a Deus não são cavalos fortes nem soldados corajosos, mas, sim, as pessoas que o temem e põem a sua esperança no seu amor. Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém."
           },
+          "gradual": {
+          "referencia": "Romanos 11.33,36;",
+          "texto": "Como são grandes as riquezas de Deus! Como são profundos o seu conhecimento e a sua sabedoria! Quem pode explicar as suas decisões? Quem pode entender os seus planos? Pois todas as coisas foram criadas por ele, e tudo existe por meio dele e para ele. Glória a Deus para sempre! Amém!"
+        },
           "verso": {
             "referencia": "Salmo 78.25",
             "texto": "Aleluia. As pessoas comeram o pão dos anjos. Deus lhes deu comida com fartura. Aleluia."
@@ -3566,6 +3571,10 @@
             "referencia": "Salmo 119.57-60,64; antífona Salmo 119.105",
             "texto": "A tua palavra é lâmpada para guiar os meus passos, é luz que ilumina o meu caminho. Tu, ó Senhor Deus, és tudo o que eu tenho; prometo obedecer às tuas leis. De todo o coração, eu te peço: tem misericórdia de mim, como prometeste. Tenho pensado na minha maneira de agir e prometo seguir os teus ensinamentos. Com toda a pressa e sem demora, procuro obedecer aos teus mandamentos. Ó Senhor Deus, a terra está cheia do teu amor; ensina-me os teus mandamentos. Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém."
           },
+          "gradual": {
+          "referencia": "Isaías 52.7a; Romanos 10.18b",
+          "texto": "Como é bonito ver um mensageiro correndo pelas montanhas,Trazendo notícias de paz, boas notícias de salvação!A voz deles se espalhou pelo mundo inteiro;As suas palavras alcançaram a terra toda."
+        },
           "verso": {
             "referencia": "Colossenses 2.6b-7a",
             "texto": "Aleluia. Já que vocês receberam Cristo Jesus como Senhor, vivam unidos com ele. Estejam enraizados nele, construam a sua vida sobre ele. Aleluia."
@@ -3580,73 +3589,6 @@
       }
     },
     {
-      "nome_dia": "PRÓPRIO 12 (DOMINGO ENTRE 24 E 30 DE JULHO)",
-      "metadados": {
-        "cor": "Verde",
-        "prefacio": ""
-      },
-      "comum": {
-        "oracao_do_dia": "",
-        "gradual": {
-          "referencia": "Séries A e B: Romanos 11.33, 36; Série C: Isaías 52.7a; Romanos 10.18b",
-          "texto": "Como são grandes as riquezas de Deus! Como são profundos o seu conhecimento e a sua sabedoria! Quem pode explicar as suas decisões? Quem pode entender os seus planos? Pois todas as coisas foram criadas por ele, e tudo existe por meio dele e para ele. Glória a Deus para sempre! Amém!"
-        }
-      },
-      "series": {
-        "A": {
-          "oracao_do_dia": "Ó Deus, dirige e governa nossos corações e mentes pelo teu Espírito Santo de tal maneira que, mesmo cientes do teu juízo final, possamos ser encorajados à santidade de viver aqui e habitar contigo em perfeita alegria na vida futura; através de Jesus Cristo, teu Filho, nosso Senhor, que vive e reina contigo e o Espírito Santo, um só Deus, agora e sempre.",
-          "introito": {
-            "referencia": "Salmo 105.1-6",
-            "texto": "Agradeçam a Deus, o Senhor, anunciem a sua grandeza e contem às nações as coisas que ele fez. Cantem a Deus, cantem louvores a ele, falem dos seus atos maravilhosos."
-          },
-          "verso": {
-            "referencia": "Mateus 13.35b",
-            "texto": "Aleluia. Usarei parábolas quando falar com esse povo e explicarei coisas desconhecidas desde a criação do mundo. Aleluia."
-          },
-          "leituras": {
-            "salmo": "Salmo 119.57-64",
-            "primeira_leitura": "Isaías 44.6-8",
-            "segunda_leitura": "Romanos 8.18-27",
-            "evangelho": "Mateus 13.24-30, 36-43"
-          }
-        },
-        "B": {
-          "oracao_do_dia": "Pai celestial, apesar de não merecermos a tua bondade, ainda assim atendes todas as nossas necessidades do corpo e da alma. Concede-nos teu Espírito Santo a fim de podermos reconhecer os teus dons, dar graças por todos os teus benefícios e te servir com obediência voluntária; através de Jesus Cristo, teu Filho, nosso Senhor, que vive e reina contigo e o Espírito Santo, um só Deus, agora e sempre.",
-          "introito": {
-            "referencia": "Salmo 145.1-3, 6-7",
-            "texto": "Eles falarão da tua glória e da tua majestade, e eu meditarei nas coisas maravilhosas que fazes. Meu Deus e meu Rei, eu anunciarei a tua grandeza e sempre serei grato a ti."
-          },
-          "verso": {
-            "referencia": "Salmo 78.25",
-            "texto": "Aleluia. [As pessoas] comeram o pão dos anjos. Deus lhes deu comida com fartura. Aleluia."
-          },
-          "leituras": {
-            "salmo": "Salmo 23",
-            "primeira_leitura": "Jeremias 23.1-6",
-            "segunda_leitura": "Efésios 2.11-22",
-            "evangelho": "Marcos 6.30-44"
-          }
-        },
-        "C": {
-          "oracao_do_dia": "Ó Senhor, concede-nos o Espírito para ouvirmos tua Palavra e sabermos a única coisa necessária, para que pela tua Palavra e Espírito possamos viver de acordo com a tua vontade; através de Jesus Cristo, teu Filho, nosso Senhor, que vive e reina contigo e o Espírito Santo, um só Deus, agora e sempre.",
-          "introito": {
-            "referencia": "Salmo 119.145-149",
-            "texto": "Se me chamarem no dia da aflição, eu os livrarei, e vocês me louvarão. De todo o coração, eu clamo a ti; responde-me, ó Senhor, e obedecerei aos teus mandamentos!"
-          },
-          "verso": {
-            "referencia": "Colossenses 2.6b-7a",
-            "texto": "Aleluia. Já que vocês [receberam] Cristo Jesus como Senhor, vivam unidos com ele. Estejam enraizados nele, construam a sua vida sobre ele. Aleluia."
-          },
-          "leituras": {
-            "salmo": "Salmo 27.7-14",
-            "primeira_leitura": "Gênesis 18.1-10a",
-            "segunda_leitura": "Colossenses 1.21-29",
-            "evangelho": "Lucas 10.38-42"
-          }
-        }
-      }
-    },
-    {
       "nome_dia": "PRÓPRIO 12",
       "metadados": {
         "cor": "Verde",
@@ -3654,10 +3596,7 @@
       },
       "comum": {
         "oracao_do_dia": "",
-        "gradual": {
-          "referencia": "Séries A e B: Romanos 11.33,36; Série C: Isaías 52.7a; Romanos 10.18b",
-          "texto": "Séries A e B: Como são grandes as riquezas de Deus! Como são profundos o seu conhecimento e a sua sabedoria! Quem pode explicar as suas decisões? Quem pode entender os seus planos? Pois todas as coisas foram criadas por ele, e tudo existe por meio dele e para ele. Glória a Deus para sempre! Amém! Série C: Como é bonito ver um mensageiro correndo pelas montanhas, trazendo notícias de paz, boas notícias de salvação! A voz deles se espalhou pelo mundo inteiro; as suas palavras alcançaram a terra toda."
-        }
+        "gradual": ""
       },
       "series": {
         "A": {
@@ -3666,6 +3605,10 @@
             "referencia": "Salmo 105.2-6; antífona Salmo 105.1",
             "texto": "Agradeçam a Deus, o Senhor, anunciem a sua grandeza. E contem às nações as coisas que ele fez. Cantem a Deus, cantem louvores a ele, falem dos seus atos maravilhosos. Tenham orgulho daquilo que o Santo Deus tem feito. Que fique alegre o coração de todos os que adoram a Deus, o Senhor! Procurem a ajuda do Senhor; estejam sempre na sua presença. Vocês, descendentes de Abraão, servo de Deus, vocês, descendentes de Jacó, o escolhido de Deus, lembrem de tudo o que Deus tem feito, lembrem dos seus grandes e maravilhosos milagres e de como tem condenado os nossos inimigos! Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém."
           },
+          "gradual": {
+          "referencia": "Romanos 11.33,36;",
+          "texto": "Como são grandes as riquezas de Deus! Como são profundos o seu conhecimento e a sua sabedoria! Quem pode explicar as suas decisões? Quem pode entender os seus planos? Pois todas as coisas foram criadas por ele, e tudo existe por meio dele e para ele. Glória a Deus para sempre! Amém!"
+        },
           "verso": {
             "referencia": "Mateus 13.35b",
             "texto": "Aleluia. Usarei parábolas quando falar com esse povo e explicarei coisas desconhecidas desde a criação do mundo. Aleluia."
@@ -3683,6 +3626,10 @@
             "referencia": "Salmo 145.1-3,6-7; antífona Salmo 145.5",
             "texto": "Eles falarão da tua glória e da tua majestade, e eu meditarei nas coisas maravilhosas que fazes. Meu Deus e meu Rei, eu anunciarei a tua grandeza e sempre serei grato a ti. Todos os dias te darei graças e sempre te louvarei. O Senhor Deus é grande e merece receber altos louvores. Quem pode compreender a sua grandeza? Falarão dos teus atos poderosos, e eu anunciarei a tua grandeza. Falarão da tua imensa bondade e cantarão com alegria a respeito da tua fidelidade. Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém."
           },
+          "gradual": {
+          "referencia": "Romanos 11.33,36;",
+          "texto": "Como são grandes as riquezas de Deus! Como são profundos o seu conhecimento e a sua sabedoria! Quem pode explicar as suas decisões? Quem pode entender os seus planos? Pois todas as coisas foram criadas por ele, e tudo existe por meio dele e para ele. Glória a Deus para sempre! Amém!"
+        },
           "verso": {
             "referencia": "Marcos 6.50c",
             "texto": "Aleluia. Coragem, sou eu! Não tenham medo! Aleluia."
@@ -3700,6 +3647,10 @@
             "referencia": "Salmo 119.145-149; antífona Salmo 50.15",
             "texto": "Se me chamarem no dia da aflição, eu os livrarei, e vocês me louvarão. De todo o coração, eu clamo a ti; responde-me, ó Senhor, e obedecerei aos teus mandamentos! Eu clamo pedindo socorro; livra-me dos meus inimigos e eu seguirei as tuas ordens. Antes do nascer do sol, eu clamo pedindo ajuda, pois a minha esperança está na tua promessa. Eu fico acordado a noite inteira para meditar na tua palavra. Ouve-me, ó Senhor Deus, por causa do teu amor! Conserva-me vivo, de acordo com a tua justa vontade. Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém."
           },
+          "gradual": {
+          "referencia": "Isaías 52.7a; Romanos 10.18b",
+          "texto": "Como é bonito ver um mensageiro correndo pelas montanhas,Trazendo notícias de paz, boas notícias de salvação!A voz deles se espalhou pelo mundo inteiro;As suas palavras alcançaram a terra toda."
+        },
           "verso": {
             "referencia": "Lucas 11.9",
             "texto": "Aleluia. Por isso eu digo: peçam e vocês receberão; procurem e vocês acharão; batam, e a porta será aberta para vocês. Aleluia."
