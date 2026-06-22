@@ -1076,7 +1076,7 @@
           ]
         },
         {
-          "id_elemento": "credo_niceno",
+          "id_elemento": "credo_opcao_1",
           "titulo": "14. CONFISSÃO DE FÉ - OPÇÃO I (CREDO NICENO)",
           "rubrica_do_bloco": null,
           "dialogo": [
@@ -1087,7 +1087,7 @@
           ]
         },
         {
-          "id_elemento": "credo_apostolico",
+          "id_elemento": "credo_opcao_2",
           "titulo": "14. CONFISSÃO DE FÉ - OPÇÃO II (CREDO APOSTÓLICO)",
           "rubrica_do_bloco": null,
           "dialogo": [
@@ -1248,18 +1248,10 @@
           ]
         },
         {
-          "id_elemento": "distribuicao",
+          "id_elemento": "distribuicao_opcao_2",
           "titulo": "27. DISTRIBUIÇÃO",
           "rubrica_do_bloco": "O oficiante e seus auxiliares são os primeiros a receber a Santa Ceia, o que pode ser feito já durante o Agnus Dei. Durante a distribuição, são ditas as palavras:",
           "dialogo": [
-            {
-              "orador": "Rubrica",
-              "texto": "Opção I – Diante do altar:"
-            },
-            {
-              "orador": "O",
-              "texto": "Tomai, comei; isto é o verdadeiro corpo de nosso Senhor e Salvador Jesus Cristo, dado à morte pelos vossos pecados. Tomai, bebei; isto é o verdadeiro sangue de nosso Senhor e Salvador Jesus Cristo, derramado para remissão dos vossos pecados."
-            },
             {
               "orador": "Rubrica",
               "texto": "Opção II – Distribuição processional:"
@@ -1279,6 +1271,21 @@
             {
               "orador": "C",
               "texto": "Amém."
+            }
+          ]
+        },
+        {
+          "id_elemento": "distribuicao_opcao_1",
+          "titulo": "27. DISTRIBUIÇÃO",
+          "rubrica_do_bloco": "O oficiante e seus auxiliares são os primeiros a receber a Santa Ceia, o que pode ser feito já durante o Agnus Dei. Durante a distribuição, são ditas as palavras:",
+          "dialogo": [
+            {
+              "orador": "Rubrica",
+              "texto": "Opção I – Diante do altar:"
+            },
+            {
+              "orador": "O",
+              "texto": "Tomai, comei; isto é o verdadeiro corpo de nosso Senhor e Salvador Jesus Cristo, dado à morte pelos vossos pecados. Tomai, bebei; isto é o verdadeiro sangue de nosso Senhor e Salvador Jesus Cristo, derramado para remissão dos vossos pecados."
             }
           ]
         },
