@@ -1843,74 +1843,7 @@
       }
     },
     {
-      "nome_dia": "A RESSURREIÇÃO DO SENHOR - AURORA DE PÁSCOA",
-      "metadados": {
-        "cor": "Branca ou Dourada",
-        "prefacio": "Páscoa"
-      },
-      "comum": {
-        "oracao_do_dia": "Todo-poderoso Deus, que através de teu único Filho Jesus Cristo venceste a morte e abriste para nós o portão da vida eterna, oramos com humildade para que possamos viver diante de ti em justiça e pureza para sempre; através do mesmo Jesus Cristo, nosso Senhor, que vive e reina contigo e o Espírito Santo, um só Deus, agora e sempre.",
-        "gradual": {
-          "referencia": "Mateus 28.7; Hebreus 2.7; Salmo 8.6",
-          "texto": "[Cristo] foi ressuscitado [dos mortos]. Tu[, ó Pai,] lhe deste a glória e a honra de um rei. Tu lhe deste poder sobre tudo o que criaste; Tu puseste todas as coisas debaixo do domínio dele."
-        }
-      },
-      "series": {
-        "A": {
-          "oracao_do_dia": "",
-          "introito": {
-            "referencia": "Êxodo 15.1b,2a,6,13,17-18",
-            "texto": "Cantarei ao Senhor porque ele conquistou uma vitória maravilhosa..."
-          },
-          "verso": {
-            "referencia": "2 Timóteo 1.10b",
-            "texto": "Aleluia. [Cristo Jesus] acabou com o poder da morte e, por meio do evangelho, revelou a vida que dura para sempre. Aleluia."
-          },
-          "leituras": {
-            "salmo": "Salmo 118.15-29",
-            "primeira_leitura": "Êxodo 14.10-15.1",
-            "segunda_leitura": "1 Coríntios 15.1-11",
-            "evangelho": "João 20.1-18"
-          }
-        },
-        "B": {
-          "oracao_do_dia": "",
-          "introito": {
-            "referencia": "Êxodo 15.1b,2a,6,13,17-18",
-            "texto": "Cantarei ao Senhor porque ele conquistou uma vitória maravilhosa..."
-          },
-          "verso": {
-            "referencia": "2 Timóteo 1.10b",
-            "texto": "Aleluia. [Cristo Jesus] acabou com o poder da morte e, por meio do evangelho, revelou a vida que dura para sempre. Aleluia."
-          },
-          "leituras": {
-            "salmo": "Salmo 118.15-29",
-            "primeira_leitura": "Êxodo 15.1-11",
-            "segunda_leitura": "1 Coríntios 5.6b-8",
-            "evangelho": "João 20.1-18"
-          }
-        },
-        "C": {
-          "oracao_do_dia": "",
-          "introito": {
-            "referencia": "Êxodo 15.1b,2a,6,13,17-18",
-            "texto": "Cantarei ao Senhor porque ele conquistou uma vitória maravilhosa..."
-          },
-          "verso": {
-            "referencia": "2 Timóteo 1.10b",
-            "texto": "Aleluia. [Cristo Jesus] acabou com o poder da morte e, por meio do evangelho, revelou a vida que dura para sempre. Aleluia."
-          },
-          "leituras": {
-            "salmo": "Salmo 118.15-29",
-            "primeira_leitura": "Jó 19.23-27",
-            "segunda_leitura": "1 Coríntios 15.51-57",
-            "evangelho": "João 20.1-18"
-          }
-        }
-      }
-    },
-    {
-      "nome_dia": "A RESSURREIÇÃO DO SENHOR",
+      "nome_dia": "A RESSURREIÇÃO DO SENHOR, AURORA DE PÁSCOA",
       "metadados": {
         "cor": "Branca ou Dourada",
         "prefacio": "Páscoa"
@@ -1958,7 +1891,7 @@
       }
     },
     {
-      "nome_dia": "DOMINGO DE PÁSCOA",
+      "nome_dia": "A RESSURREIÇÃO DO SENHOR, DOMINGO DE PÁSCOA",
       "metadados": {
         "cor": "Branca ou Dourada",
         "prefacio": "Páscoa"
@@ -2006,7 +1939,7 @@
       }
     },
     {
-      "nome_dia": "NOITE DE PÁSCOA OU SEGUNDA-FEIRA DE PÁSCOA",
+      "nome_dia": "A RESSURREIÇÃO DO SENHOR, NOITE DE PÁSCOA OU SEGUNDA-FEIRA DE PÁSCOA",
       "metadados": {
         "cor": "Branca ou Dourada",
         "prefacio": "Páscoa"
@@ -2070,7 +2003,7 @@
       }
     },
     {
-      "nome_dia": "TERÇA-FEIRA DE PÁSCOA",
+      "nome_dia": "A RESSURREIÇÃO DO SENHOR,TERÇA-FEIRA DE PÁSCOA",
       "metadados": {
         "cor": "Branca ou Dourada",
         "prefacio": "Páscoa"
@@ -2118,7 +2051,7 @@
       }
     },
     {
-      "nome_dia": "QUARTA-FEIRA DE PÁSCOA",
+      "nome_dia": "A RESSURREIÇÃO DO SENHOR, QUARTA-FEIRA DE PÁSCOA",
       "metadados": {
         "cor": "Branca ou Dourada",
         "prefacio": "Páscoa"
