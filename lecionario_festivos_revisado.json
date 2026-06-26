@@ -1,0 +1,1048 @@
+{
+  "dias_festivos_especiais": [
+    {
+      "nome_dia": "ANDRÉ, APÓSTOLO",
+      "data_calendario": "30 de novembro",
+      "metadados": {
+        "cor": "Vermelha",
+        "prefacio": "Apóstolos e Evangelistas"
+      },
+      "liturgia": {
+        "oracao_do_dia": "Todo-poderoso Deus, pela tua graça o apóstolo André atendeu ao chamado de teu Filho para ser um discípulo. Concede-nos também seguir de coração e vida ao mesmo Senhor Jesus Cristo, que vive e reina contigo e o Espírito Santo, um só Deus, agora e sempre.",
+        "introito": {
+          "referencia": "Salmo 89.1,5,15-16; antífona João 15.27",
+          "texto": "Vocês também falarão a meu respeito Porque estão comigo desde o começo. Ó Senhor Deus, eu sempre cantarei a respeito do teu amor E anunciarei a tua fidelidade a todas as gerações. Ó Senhor, os céus cantam as maravilhas que fazes, E, reunidos, os anjos cantam a tua fidelidade. Feliz o povo que te adora com canções E que vive na luz da tua presença! Por causa de ti, eles se alegram o dia todo E te louvam porque és bondoso. Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém. Vocês também falarão a meu respeito Porque estão comigo desde o começo."
+        },
+        "gradual": {
+          "referencia": "Romanos 10.15b; Isaías 52.7b; Romanos 10.18b",
+          "texto": "Como é bonito ver os mensageiros trazendo boas notícias! Trazendo notícias de paz, boas notícias de salvação! A voz deles se espalhou pelo mundo inteiro; As suas palavras alcançaram a terra toda."
+        },
+        "verso": {
+          "referencia": "João 1.39a",
+          "texto": "Aleluia. Venham ver! – disse Jesus. Então eles foram, viram onde Jesus estava morando e ficaram com ele o resto daquele dia. Aleluia."
+        },
+        "leituras": {
+          "salmo": "Salmo 139.1-12 (antífona vers. 17)",
+          "primeira_leitura": "Ezequiel 3.16-21",
+          "segunda_leitura": "Romanos 10.8b-18",
+          "evangelho": "João 1.35-42"
+        }
+      }
+    },
+    {
+      "nome_dia": "TOMÉ, APÓSTOLO",
+      "data_calendario": "21 de dezembro",
+      "metadados": {
+        "cor": "Vermelha",
+        "prefacio": "Apóstolos e Evangelistas"
+      },
+      "liturgia": {
+        "oracao_do_dia": "Todo-poderoso e eterno Deus, que fortaleceste ao teu apóstolo Tomé com fé firme e certa na ressurreição de teu Filho, concede-nos tal fé em Jesus Cristo, nosso Senhor e nosso Deus, para que nunca sejamos achados em falta na sua presença; através do mesmo Jesus Cristo, que vive e reina contigo e o Espírito Santo, um só Deus, agora e sempre.",
+        "introito": {
+          "referencia": "Salmo 89.1,5,15-16; antífona Salmo 31.14",
+          "texto": "A minha confiança está em ti, ó Senhor; Tu és o meu Deus. Ó Senhor Deus, eu sempre cantarei a respeito do teu amor E anunciarei a tua fidelidade a todas as gerações. Ó Senhor, os céus cantam as maravilhas que fazes, E, reunidos, os anjos cantam a tua fidelidade. Feliz o povo que te adora com canções E que vive na luz da tua presença! Por causa de ti, eles se alegram o dia todo E te louvam porque és bondoso. Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém. A minha confiança está em ti, ó Senhor; Tu és o meu Deus."
+        },
+        "gradual": {
+          "referencia": "Romanos 10.15b; Isaías 52.7b; Romanos 10.18b",
+          "texto": "Como é bonito ver os mensageiros trazendo boas notícias! Trazendo notícias de paz, boas notícias de salvação! A voz deles se espalhou pelo mundo inteiro; As suas palavras alcançaram a terra toda."
+        },
+        "verso": {
+          "referencia": "João 20.29b",
+          "texto": "Aleluia. Felizes são os que não viram, mas assim mesmo creram! Aleluia."
+        },
+        "leituras": {
+          "salmo": "Salmo 136.1-4 (antífona vers. 26)",
+          "primeira_leitura": "Juízes 6.36-40",
+          "segunda_leitura": "Efésios 4.7,11-16",
+          "evangelho": "João 20.24-29"
+        }
+      }
+    },
+    {
+      "nome_dia": "ESTÊVÃO, MÁRTIR",
+      "data_calendario": "26 de dezembro",
+      "metadados": {
+        "cor": "Vermelha",
+        "prefacio": "Dia de todos os santos"
+      },
+      "liturgia": {
+        "oracao_do_dia": "Pai celestial, em meio aos nossos sofrimentos por causa de Cristo concede-nos a graça de seguir o exemplo de Estêvão, o primeiro mártir, para que também nós possamos olhar para aquele que sofreu e foi crucificado em nosso favor e orar por aqueles que nos fazem o mal; através de Jesus Cristo, nosso Senhor, que vive e reina contigo e o Espírito Santo, um só Deus, agora e sempre.",
+        "introito": {
+          "referencia": "Salmo 31.1,3,5; antífona Apocalipse 7.14b",
+          "texto": "Estes são os que atravessaram sãos e salvos a grande perseguição. São as pessoas que lavaram as suas roupas no sangue do Cordeiro, e elas ficaram brancas. Ó Senhor Deus, em ti eu busco proteção; livra-me da vergonha de ser derrotado. Tu és justo; eu te peço que me ajudes. Tu és a minha rocha e a minha fortaleza; Guia-me e orienta-me como prometeste. Nas tuas mãos entrego a minha vida. Tu me salvarás, ó Senhor, porque tu és Deus fiel. Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém. Estes são os que atravessaram sãos e salvos a grande perseguição. São as pessoas que lavaram as suas roupas no sangue do Cordeiro, e elas ficaram brancas."
+        },
+        "gradual": {
+          "referencia": "Salmo 34.9,19",
+          "texto": "Que todos os que se dedicam a Deus o temam, Pois aqueles que o temem não têm falta de nada! Os bons passam por muitas aflições, Mas o Senhor os livra de todas elas."
+        },
+        "verso": {
+          "referencia": "Salmo 116.15",
+          "texto": "Aleluia. O Senhor Deus sente pesar quando vê morrerem os que são fiéis a ele. Aleluia."
+        },
+        "leituras": {
+          "salmo": "Salmo 119.137-144 (antífona vers. 142)",
+          "primeira_leitura": "2 Crônicas 24.17-22",
+          "segunda_leitura": "Atos 6.8-7.2a,51-60",
+          "evangelho": "Mateus 23.34-39"
+        }
+      }
+    },
+    {
+      "nome_dia": "JOÃO, APÓSTOLO E EVANGELISTA",
+      "data_calendario": "27 de dezembro",
+      "metadados": {
+        "cor": "Vermelha",
+        "prefacio": "Apóstolos e Evangelistas"
+      },
+      "liturgia": {
+        "oracao_do_dia": "Misericordioso Senhor, lança os raios brilhantes da tua luz sobre a tua Igreja, a fim de que nós, sendo instruídos na doutrina de teu abençoado apóstolo e evangelista João, possamos chegar à luz da vida eterna; pois tu vives e reinas com o Pai e o Espírito Santo, um só Deus, agora e sempre.",
+        "introito": {
+          "referencia": "Salmo 92.1-5; antífona João 20.31",
+          "texto": "Estes foram escritos para que vocês creiam que Jesus é o Messias, o Filho de Deus. E para que, crendo, tenham vida por meio dele. Ó Senhor Deus, como é bom dar-te graças! Como é bom cantar hinos em tua honra, ó Altíssimo! Como é bom anunciar de manhã o teu amor E de noite, a tua fidelidade, Com a música de uma harpa de dez cordas E ao som da lira! Ó Senhor Deus, os teus feitos poderosos me tornam feliz! Eu canto de alegria pelas coisas que fazes. Que grandes coisas tens feito, ó Senhor ! Como é difícil entender os teus pensamentos! Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém. Estes foram escritos para que vocês creiam que Jesus é o Messias, o Filho de Deus. E para que, crendo, tenham vida por meio dele."
+        },
+        "gradual": {
+          "referencia": "Salmo 119.105,103; 45.1a,c",
+          "texto": "A tua palavra é lâmpada para guiar os meus passos, É luz que ilumina o meu caminho. Como são doces as tuas palavras! São mais doces do que o mel. Lindas palavras enchem o meu coração. A minha língua é como a pena de um bom escritor."
+        },
+        "verso": {
+          "referencia": "João 21.24a,c",
+          "texto": "Aleluia. Este é o discípulo que falou destas coisas. E nós sabemos que o que ele disse é verdade. Aleluia."
+        },
+        "leituras": {
+          "salmo": "Salmo 11 (antífona vers. 4a)",
+          "primeira_leitura": "Apocalipse 1.1.-6",
+          "segunda_leitura": "1 João 1.1-2.2",
+          "evangelho": "João 21.20-25"
+        }
+      }
+    },
+    {
+      "nome_dia": "CRIANÇAS INOCENTES, MÁRTIRES",
+      "data_calendario": "28 de dezembro",
+      "metadados": {
+        "cor": "Vermelha",
+        "prefacio": "Dia de todos os santos"
+      },
+      "liturgia": {
+        "oracao_do_dia": "Todo-poderoso Deus, os mártires inocentes de Belém anunciaram o louvor a ti não ao falar, mas morrendo. Faze morrer em nós tudo que está em conflito com a tua vontade, para que nossas vidas sejam testemunhas da fé que professamos com os nossos lábios; através de Jesus Cristo, nosso Senhor, que vive e reina contigo e o Espírito Santo, um só Deus, agora e sempre.",
+        "introito": {
+          "referencia": "Salmo 31.1,3,5; antífona Apocalipse 7.14b",
+          "texto": "Estes são os que atravessaram sãos e salvos a grande perseguição. São as pessoas que lavaram as suas roupas no sangue do Cordeiro, e elas ficaram brancas. Ó Senhor Deus, em ti eu busco proteção; livra-me da vergonha de ser derrotado. Tu és justo; eu te peço que me ajudes. Tu és a minha rocha e a minha fortaleza; Guia-me e orienta-me como prometeste. Nas tuas mãos entrego a minha vida. Tu me salvarás, ó Senhor, porque tu és Deus fiel. Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém. Estes são os que atravessaram sãos e salvos a grande perseguição. São as pessoas que lavaram as suas roupas no sangue do Cordeiro, e elas ficaram brancas."
+        },
+        "gradual": {
+          "referencia": "Salmo 71.4a,5a,6a,b,8",
+          "texto": "Ó meu Deus, livra-me dos maus, Ó Senhor, meu Deus, em ti ponho a minha esperança. Toda a minha vida tenho me apoiado em ti; Desde o meu nascimento tu tens me protegido. O dia inteiro, eu te louvo E anuncio a tua glória."
+        },
+        "verso": {
+          "referencia": "Salmo 116.15",
+          "texto": "Aleluia. O Senhor Deus sente pesar quando vê morrerem os que são fiéis a ele. Aleluia."
+        },
+        "leituras": {
+          "salmo": "Salmo 54 (antífona vers. 4)",
+          "primeira_leitura": "Jeremias 31.15-17",
+          "segunda_leitura": "Apocalipse 14.1-5",
+          "evangelho": "Mateus 2.13-18"
+        }
+      }
+    },
+    {
+      "nome_dia": "VÉSPERA DE ANO-NOVO",
+      "data_calendario": "31 de dezembro",
+      "metadados": {
+        "cor": "Branca",
+        "prefacio": "Natal"
+      },
+      "liturgia": {
+        "oracao_do_dia": "Deus eterno, entregamos à tua misericórdia e perdão o ano que agora termina e confiamos à tua bênção e amor os dias que estão por vir. No novo ano, habita entre nós com o teu Espírito Santo para que sempre confiemos no nome salvador de nosso Senhor Jesus Cristo, que vive e reina contigo e com o Espírito Santo, um só Deus, agora e sempre.",
+        "introito": {
+          "referencia": "Salmo 98.1-3; antífona Salmo 124.8",
+          "texto": "O nosso socorro vem do Senhor Deus, que fez o céu e a terra. Cantem uma nova canção a Deus, o Senhor, pois ele tem feito coisas maravilhosas. Com a sua força e com o seu santo poder, ele se tornou vitorioso. O Senhor anunciou a sua vitória; Ele fez com que as nações conhecessem o seu poder salvador. Com amor e fidelidade, ele cumpriu a sua promessa ao povo de Israel. Até nos lugares mais distantes do mundo todos viram a vitória do nosso Deus. Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém. O nosso socorro vem do Senhor Deus, que fez o céu e a terra."
+        },
+        "gradual": {
+          "referencia": "Salmo 90.12,14",
+          "texto": "Faze com que saibamos como são poucos os dias da nossa vida para que tenhamos um coração sábio. Alimenta-nos de manhã com o teu amor, até ficarmos satisfeitos, para que cantemos e nos alegremos a vida inteira."
+        },
+        "verso": {
+          "referencia": "Salmo 103.17a",
+          "texto": "Aleluia. Mas o amor de Deus, o Senhor, por aqueles que o temem dura para sempre. Aleluia."
+        },
+        "leituras": {
+          "salmo": "Salmo 90.1-12 (antífona vers. 17)",
+          "primeira_leitura": "Isaías 30. (8-14) 15-17",
+          "segunda_leitura": "Romanos 8.31b-39",
+          "evangelho": "Lucas 12.35-40"
+        }
+      }
+    },
+    {
+      "nome_dia": "CIRCUNCISÃO E NOME DE JESUS",
+      "data_calendario": "1º de janeiro",
+      "metadados": {
+        "cor": "Branca",
+        "prefacio": "Natal"
+      },
+      "liturgia": {
+        "oracao_do_dia": "Senhor Deus, fizeste com que teu amado Filho, nosso Salvador, estivesse sujeito à lei, e levaste-o a derramar seu sangue por nós. Concede-nos a verdadeira circuncisão do Espírito para que nossos corações possam ser purificados de todos os pecados; através de Jesus Cristo, nosso Senhor, que vive e reina contigo e o Espírito Santo, um só Deus, agora e sempre.",
+        "introito": {
+          "referencia": "Salmo 40.6-8; antífona Salmo 40.16",
+          "texto": "Que fiquem alegres e contentes todos os que te adoram!\nE que os que são gratos pela tua ajuda digam sempre: Como o Senhor é grande!\nTu não queres animais oferecidos em sacrifício, nem ofertas de cereais.\nNão pediste que animais fossem queimados inteiros no altar,\nNem exigiste sacrifícios oferecidos para tirar pecados.\nPelo contrário, tu me deste ouvidos para ouvir,\nE por isso respondi: Aqui estou;\nAs tuas instruções para mim estão no Livro da Lei.\nEu tenho prazer em fazer a tua vontade, ó meu Deus!\nGuardo a tua lei no meu coração.\nGlória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém.\nQue fiquem alegres e contentes todos os que te adoram!\nE que os que são gratos pela tua ajuda digam sempre: Como o Senhor é grande!"
+        },
+        "gradual": {
+          "referencia": "Hebreus 8.10; 10.17",
+          "texto": "Quando esse tempo chegar, diz o Senhor,\nFarei com o povo de Israel esta aliança:\nEu porei as minhas leis na mente deles\nE no coração deles as escreverei.\nEu serei o Deus deles, e eles serão o meu povo.\nNão lembrarei mais dos seus pecados nem das suas maldades."
+        },
+        "verso": {
+          "referencia": "Mateus 1.21",
+          "texto": "Aleluia. Ela terá um menino, e você porá nele o nome de Jesus, pois ele salvará o seu povo dos pecados deles. Aleluia."
+        },
+        "leituras": {
+          "salmo": "Salmo 8 (antífona vers. 9)",
+          "primeira_leitura": "Números 6.22-27",
+          "segunda_leitura": "Gálatas 3.23-29",
+          "evangelho": "Lucas 2.21"
+        }
+      }
+    },
+    {
+      "nome_dia": "A CONFISSÃO DE PEDRO",
+      "data_calendario": "18 de janeiro",
+      "metadados": {
+        "cor": "Branca",
+        "prefacio": "Apóstolos e Evangelistas"
+      },
+      "liturgia": {
+        "oracao_do_dia": "Pai celestial, tu revelaste ao apóstolo Pedro a abençoada verdade de que teu Filho Jesus é o Cristo. Fortalece-nos pela proclamação desta verdade para que nós também possamos confessar com alegria que não há salvação em nenhum outro; através do mesmo Jesus Cristo, nosso Senhor, que vive e reina contigo e o Espírito Santo, um só Deus, agora e sempre.",
+        "introito": {
+          "referencia": "Salmo 89.1,5,15-16; antífona Salmo 119.46",
+          "texto": "Anunciarei aos reis as tuas ordens [, ó Senhor ,] E não ficarei envergonhado. Ó Senhor Deus, eu sempre cantarei a respeito do teu amor E anunciarei a tua fidelidade a todas as gerações. Ó Senhor , os céus cantam as maravilhas que fazes, E, reunidos, os anjos cantam a tua fidelidade. Feliz o povo que te adora com canções E que vive na luz da tua presença! Por causa de ti, eles se alegram o dia todo E te louvam porque és bondoso. Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém. Anunciarei aos reis as tuas ordens [, ó Senhor ,] E não ficarei envergonhado."
+        },
+        "gradual": {
+          "referencia": "2 Coríntios 4.5a,13c; 1 Pedro 4.11b; Salmo 113.3",
+          "texto": "Pois nós não anunciamos a nós mesmos; Nós anunciamos Jesus Cristo como o Senhor. Pois assim nós... também falamos porque cremos, [Como] quem prega... a palavra de Deus. Desde o nascer até o pôr-do-sol, Que o nome do Senhor seja louvado!"
+        },
+        "verso": {
+          "referencia": "Marcos 8.35",
+          "texto": "Aleluia. Pois quem põe os seus próprios interesses em primeiro lugar nunca terá a vida verdadeira; mas quem esquece a si mesmo por minha causa e por causa do evangelho terá a vida verdadeira. Aleluia."
+        },
+        "leituras": {
+          "salmo": "Salmo 118.19-29 (antífona vers. 26)",
+          "primeira_leitura": "Atos 4.8-13",
+          "segunda_leitura": "2 Pedro 1.1-15",
+          "evangelho": "Marcos 8.27-35 (36-9.1)"
+        }
+      }
+    },
+    {
+      "nome_dia": "TIMÓTEO, PASTOR E CONFESSOR",
+      "data_calendario": "24 de janeiro",
+      "metadados": {
+        "cor": "Vermelha",
+        "prefacio": "Apóstolos e Evangelistas"
+      },
+      "liturgia": {
+        "oracao_do_dia": "Senhor Jesus Cristo, que sempre dás à tua Igreja na terra pastores fiéis como Timóteo, para guiar e alimentar o teu rebanho, faze com que todos os pastores sejam diligentes em pregar a tua santa Palavra e administrar teus meios da graça, e concede ao teu povo sabedoria para seguir no caminho que leva à vida eterna; pois tu vives e reinas com o Pai e o Espírito Santo, um só Deus, agora e sempre.",
+        "introito": {
+          "referencia": "Salmo 89.1,5,15-16; antífona 1 Timóteo 6.12a,b",
+          "texto": "Corra a boa corrida da fé e ganhe a vida eterna. Pois foi para essa vida que Deus o chamou. Ó Senhor Deus, eu sempre cantarei a respeito do teu amor E anunciarei a tua fidelidade a todas as gerações. Ó Senhor, os céus cantam as maravilhas que fazes, E, reunidos, os anjos cantam a tua fidelidade. Feliz o povo que te adora com canções E que vive na luz da tua presença! Por causa de ti, eles se alegram o dia todo E te louvam porque és bondoso. Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém. Corra a boa corrida da fé e ganhe a vida eterna. Pois foi para essa vida que Deus o chamou."
+        },
+        "gradual": {
+          "referencia": "Ezequiel 34.11,12b; Jeremias 23.4a,b",
+          "texto": "Eu mesmo procurarei e buscarei as minhas ovelhas; Eu buscarei as minhas ovelhas e as trarei de volta de todos os lugares por onde foram espalhadas. Eu lhes darei líderes que cuidarão deles. Não ficarão mais com medo, nem apavorados."
+        },
+        "verso": {
+          "referencia": "1 Timóteo 1.15",
+          "texto": "Aleluia. O ensinamento verdadeiro e que deve ser crido e aceito de todo o coração é este: Cristo Jesus veio ao mundo para salvar os pecadores, dos quais eu sou o pior. Aleluia."
+        },
+        "leituras": {
+          "salmo": "Salmo 71.15-24 (antífona vers. 6)",
+          "primeira_leitura": "Atos 16.1-5",
+          "segunda_leitura": "1 Timóteo 6.11-16",
+          "evangelho": "Mateus 24.42-47"
+        }
+      }
+    },
+    {
+      "nome_dia": "A CONVERSÃO DE PAULO",
+      "data_calendario": "25 de janeiro",
+      "metadados": {
+        "cor": "Branca",
+        "prefacio": "Apóstolos e Evangelistas"
+      },
+      "liturgia": {
+        "oracao_do_dia": "Todo-poderoso Deus, que mudaste o coração daquele que perseguia a Igreja e pela sua pregação fizeste a luz do Evangelho brilhar em todo mundo, concede que sempre nos alegremos na luz salvadora de teu Evangelho e, seguindo o exemplo do apóstolo Paulo, propaguemos o mesmo por todos os lugares da terra; através de Jesus Cristo, teu Filho, nosso Senhor, que vive e reina contigo e o Espírito Santo, um só Deus, agora e sempre.",
+        "introito": {
+          "referencia": "Salmo 89.1,5,15-16; antífona Salmo 119.46",
+          "texto": "Anunciarei aos reis as tuas ordens, ó Senhor, e não ficarei envergonhado. Ó Senhor Deus, eu sempre cantarei a respeito do teu amor e anunciarei a tua fidelidade a todas as gerações. Ó Senhor, os céus cantam as maravilhas que fazes, e, reunidos, os anjos cantam a tua fidelidade. Feliz o povo que te adora com canções e que vive na luz da tua presença! Por causa de ti, eles se alegram o dia todo e te louvam porque és bondoso. Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém. Anunciarei aos reis as tuas ordens, ó Senhor, e não ficarei envergonhado."
+        },
+        "gradual": {
+          "referencia": "Efésios 4.8b,11,12b; 2.19a,c",
+          "texto": "Quando ele subiu aos lugares mais altos, levou consigo muitos prisioneiros e deu dons às pessoas. Ele escolheu alguns para serem apóstolos, outros para profetas, outros para evangelistas e ainda outros para pastores e mestres da Igreja; a fim de construir o corpo de Cristo. Portanto, vocês não são mais estrangeiros nem visitantes. Agora vocês são membros da família dele."
+        },
+        "verso": {
+          "referencia": "Atos 9.15b",
+          "texto": "Aleluia. Vá, pois eu escolhi esse homem para trabalhar para mim, a fim de que ele anuncie o meu nome aos não-judeus, aos reis e ao povo de Israel. Aleluia."
+        },
+        "leituras": {
+          "salmo": "Salmo 67 (antífona vers. 5)",
+          "primeira_leitura": "Atos 9.1-22",
+          "segunda_leitura": "Gálatas 1.11-24",
+          "evangelho": "Mateus 19.27-30"
+        }
+      }
+    },
+    {
+      "nome_dia": "TITO, PASTOR E CONFESSOR",
+      "data_calendario": "26 de janeiro",
+      "metadados": {
+        "cor": "Branca",
+        "prefacio": "Apóstolos e Evangelistas"
+      },
+      "liturgia": {
+        "oracao_do_dia": "Todo-poderoso Deus, que chamaste Tito para a obra de pastor e mestre, faze com que todos os pastores do teu rebanho sejam diligentes em pregar tua santa Palavra de modo que o mundo inteiro possa conhecer as riquezas sem fim de nosso Salvador Jesus Cristo, que vive e reina contigo e o Espírito Santo, um só Deus, agora e sempre.",
+        "introito": {
+          "referencia": "Salmo 89.1,5,15-16; antífona Tito 3.4-5a",
+          "texto": "Quando Deus, o nosso Salvador, mostrou a sua bondade e o seu amor por todos, Ele nos salvou porque teve compaixão de nós, e não porque nós tivéssemos feito alguma coisa boa. Ó Senhor Deus, eu sempre cantarei a respeito do teu amor E anunciarei a tua fidelidade a todas as gerações. Ó Senhor, os céus cantam as maravilhas que fazes, E, reunidos, os anjos cantam a tua fidelidade. Feliz o povo que te adora com canções E que vive na luz da tua presença! Por causa de ti, eles se alegram o dia todo E te louvam porque és bondoso. Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém. Quando Deus, o nosso Salvador, mostrou a sua bondade e o seu amor por todos, Ele nos salvou porque teve compaixão de nós, e não porque nós tivéssemos feito alguma coisa boa."
+        },
+        "gradual": {
+          "referencia": "Ezequiel 34.11,12b; Jeremias 23.4a,b",
+          "texto": "Eu, o Senhor Deus, digo que eu mesmo procurarei e buscarei as minhas ovelhas; E as trarei de volta de todos os lugares por onde foram espalhadas. Eu lhes darei líderes que cuidarão deles. Não ficarão mais com medo, nem apavorados, e nenhum deles se perderá."
+        },
+        "verso": {
+          "referencia": "Tito 2.11",
+          "texto": "Aleluia. Pois Deus revelou a sua graça para dar a salvação a todos. Aleluia."
+        },
+        "leituras": {
+          "salmo": "Salmo 71.1-14 (antífona vers. 17)",
+          "primeira_leitura": "Atos 20.28-35",
+          "segunda_leitura": "Tito 1.1-9",
+          "evangelho": "Lucas 10.1-9"
+        }
+      }
+    },
+    {
+      "nome_dia": "A PURIFICAÇÃO DE MARIA E A APRESENTAÇÃO DO SENHOR",
+      "data_calendario": "2 de fevereiro",
+      "metadados": {
+        "cor": "Branca",
+        "prefacio": "A Apresentação do Senhor"
+      },
+      "liturgia": {
+        "oracao_do_dia": "Deus todo-poderoso e sempre vivo, assim como neste dia o teu Filho unigênito foi apresentado no Templo na substância da sua carne, concede que possamos ser apresentados a ti com corações puros e limpos; através de Jesus Cristo, nosso Senhor, que vive e reina contigo e o Espírito Santo, um só Deus, agora e sempre.",
+        "introito": {
+          "referencia": "Salmo 48.1-3,8; antífona Salmo 48.9",
+          "texto": "No teu Templo, ó Deus, ficamos pensando no teu amor. O Senhor Deus é grande e merece ser louvado na sua cidade, em Sião, o seu monte santo. O monte de Deus é alto e bonito; a cidade do grande Rei é a alegria do mundo inteiro. Deus tem mostrado que ele dá segurança ao povo dentro das fortalezas da cidade. Temos ouvido falar das coisas que o Senhor Deus tem feito e agora vimos o que aconteceu na cidade do nosso Deus, o Senhor Todo-Poderoso. Ele guardará a cidade em segurança para sempre. Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém. No teu Templo, ó Deus, ficamos pensando no teu amor."
+        },
+        "gradual": {
+          "referencia": "Salmo 48.1,8a,9",
+          "texto": "O Senhor Deus é grande e merece ser louvado na sua cidade, em Sião, o seu monte santo. Temos ouvido falar das coisas que o Senhor Deus tem feito e agora vimos o que aconteceu na cidade do nosso Deus, o Senhor Todo-Poderoso. No teu Templo, ó Deus, ficamos pensando no teu amor."
+        },
+        "verso": {
+          "referencia": "Lucas 2.34b",
+          "texto": "Aleluia. Este menino foi escolhido por Deus tanto para a destruição como para a salvação de muita gente em Israel. Aleluia."
+        },
+        "leituras": {
+          "salmo": "Salmo 84 (antífona vers. 4)",
+          "primeira_leitura": "1 Samuel 1.21-28",
+          "segunda_leitura": "Hebreus 2.14-18",
+          "evangelho": "Lucas 2.22-32 (33-40)"
+        }
+      }
+    },
+    {
+      "nome_dia": "MATIAS, APÓSTOLO",
+      "data_calendario": "24 de fevereiro",
+      "metadados": {
+        "cor": "Vermelha",
+        "prefacio": "Apóstolos e Evangelistas"
+      },
+      "liturgia": {
+        "oracao_do_dia": "Todo-poderoso Deus, que escolheste teu servo Matias para ser contado entre os Doze, concede que tua Igreja, sempre preservada de falsos ensinamentos, possa ser ensinada e guiada por pastores fiéis e verdadeiros; através de Jesus Cristo, nosso Senhor, que vive e reina contigo e o Espírito Santo, um só Deus, agora e sempre.",
+        "introito": {
+          "referencia": "Salmo 89.1,5,15-16; antífona Salmo 119.46",
+          "texto": "Anunciarei aos reis as tuas ordens [, ó Senhor ,] e não ficarei envergonhado. Ó Senhor Deus, eu sempre cantarei a respeito do teu amor e anunciarei a tua fidelidade a todas as gerações. Ó Senhor, os céus cantam as maravilhas que fazes, e, reunidos, os anjos cantam a tua fidelidade. Feliz o povo que te adora com canções e que vive na luz da tua presença! Por causa de ti, eles se alegram o dia todo e te louvam porque és bondoso. Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém. Anunciarei aos reis as tuas ordens [, ó Senhor ,] e não ficarei envergonhado."
+        },
+        "gradual": {
+          "referencia": "Efésios 4.8b,11,12b; 2.19a,c",
+          "texto": "Quando ele subiu aos lugares mais altos, levou consigo muitos prisioneiros e deu dons às pessoas. Ele escolheu alguns para serem apóstolos, outros para profetas, outros para evangelistas e ainda outros para pastores e mestres da Igreja; a fim de construir o corpo de Cristo. Portanto, vocês não são mais estrangeiros nem visitantes. Agora vocês são membros da família dele."
+        },
+        "verso": {
+          "referencia": "Mateus 11.28",
+          "texto": "Aleluia. Venham a mim, todos vocês que estão cansados de carregar as suas pesadas cargas, e eu lhes darei descanso. Aleluia."
+        },
+        "leituras": {
+          "salmo": "Salmo 134 (antífona vers. Salmo 133.1)",
+          "primeira_leitura": "Isaías 66.1-2",
+          "segunda_leitura": "Atos 1.15-26",
+          "evangelho": "Mateus 11.25-30"
+        }
+      }
+    },
+    {
+      "nome_dia": "JOSÉ, TUTOR DE JESUS",
+      "data_calendario": "19 de março",
+      "metadados": {
+        "cor": "Branca",
+        "prefacio": null
+      },
+      "liturgia": {
+        "oracao_do_dia": "Todo-poderoso Deus, que da família de teu servo Davi fizeste nascer a José para ser o tutor de teu Filho encarnado e o marido de sua mãe, Maria, concede-nos a graça de seguir o exemplo deste trabalhador fiel em atender ao teu conselho e obedecer às tuas ordens; através de Jesus Cristo, nosso Senhor, que vive e reina contigo e o Espírito Santo, um só Deus, agora e sempre.",
+        "introito": {
+          "referencia": "Salmo 89.1,5,15-16; antífona Salmo 128.1",
+          "texto": "Feliz aquele que teme a Deus, o Senhor , E vive de acordo com a sua vontade! Ó Senhor Deus, eu sempre cantarei a respeito do teu amor E anunciarei a tua fidelidade a todas as gerações. Ó Senhor, os céus cantam as maravilhas que fazes, E, reunidos, os anjos cantam a tua fidelidade. Feliz o povo que te adora com canções E que vive na luz da tua presença! Por causa de ti, eles se alegram o dia todo E te louvam porque és bondoso. Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém."
+        },
+        "gradual": {
+          "referencia": "Salmo 45.6-7b",
+          "texto": "O reino que Deus lhe deu vai durar para sempre. Ó rei, o senhor governa o seu povo com justiça, Ama o bem e odeia o mal. Foi por isso que Deus, o seu Deus, o escolheu e deu mais felicidade ao senhor do que a qualquer outro rei."
+        },
+        "verso": {
+          "referencia": "Mateus 1.24a",
+          "texto": "Quando José acordou, fez o que o anjo do Senhor havia mandado e casou com Maria."
+        },
+        "leituras": {
+          "salmo": "Salmo 127  (antífona vers. 1a)",
+          "primeira_leitura": "2 Samuel 7.4-16",
+          "segunda_leitura": "Romanos 4.13-18",
+          "evangelho": "Mateus 2.13-15,19-23"
+        }
+      }
+    },
+    {
+      "nome_dia": "A ANUNCIAÇÃO DO SENHOR",
+      "data_calendario": "25 de março",
+      "metadados": {
+        "cor": "Branca",
+        "prefacio": "A Anunciação do Senhor"
+      },
+      "liturgia": {
+        "oracao_do_dia": "Ó Senhor, assim como conhecemos a encarnação de teu Filho, Jesus Cristo, pela mensagem do anjo à virgem Maria, assim também, pela mensagem de sua cruz e sofrimento, traze-nos à glória de sua ressurreição; através do mesmo Jesus Cristo, nosso Senhor, que vive e reina contigo e o Espírito Santo, um só Deus, agora e sempre.",
+        "introito": {
+          "referencia": "Salmo 34.1-3; antífona Isaías 62.11b",
+          "texto": "Digam ao povo de Jerusalém Que o seu Salvador está chegando. Eu sempre darei graças a Deus, o Senhor ; O seu louvor estará nos meus lábios o dia inteiro. Eu o louvarei por causa das coisas que ele tem feito; Os que são perseguidos ouvirão isso e se alegrarão. Anunciem comigo a sua grandeza; Louvemos juntos o Senhor . Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém. Digam ao povo de Jerusalém Que o seu Salvador está chegando."
+        },
+        "gradual": {
+          "referencia": "Salmo 45.6-7b",
+          "texto": "O reino que Deus lhe deu vai durar para sempre. Ó rei, o senhor governa o seu povo com justiça, Ama o bem e odeia o mal. Foi por isso que Deus, o seu Deus, o escolheu e deu mais felicidade ao senhor do que a qualquer outro rei."
+        },
+        "verso": {
+          "referencia": "Lucas 1.38a (Durante a Quaresma: Lucas 1.46b,47a; 2.30-31)",
+          "texto": "Aleluia. Eu sou uma serva de Deus; que aconteça comigo o que o senhor acabou de me dizer! Aleluia. Durante a Quaresma: A minha alma anuncia a grandeza do Senhor. O meu espírito está alegre por causa de Deus, o meu Salvador. Pois eu já vi com os meus próprios olhos a tua salvação, que preparaste na presença de todos os povos."
+        },
+        "leituras": {
+          "salmo": "Salmo 45.7-17 (antífona vers. 6)",
+          "primeira_leitura": "Isaías 7.10-14",
+          "segunda_leitura": "Hebreus 10.4-10",
+          "evangelho": "Lucas 1.26-38"
+        }
+      }
+    },
+    {
+      "nome_dia": "MARCOS, EVANGELISTA",
+      "data_calendario": "25 de abril",
+      "metadados": {
+        "cor": "Vermelha",
+        "prefacio": "Apóstolos e Evangelistas"
+      },
+      "liturgia": {
+        "oracao_do_dia": "Todo-poderoso Deus, que enriqueceste a tua Igreja com a proclamação do Evangelho através do evangelista Marcos, concede que possamos crer com firmeza nestas notícias agradáveis e diariamente andar de acordo com esta Palavra; através de Jesus Cristo, nosso Senhor, que vive e reina contigo e o Espírito Santo, um só Deus, agora e sempre.",
+        "introito": {
+          "referencia": "Salmo 92.1-5; antífona Marcos 16.15",
+          "texto": "Vão pelo mundo inteiro e anunciem o evangelho a todas as pessoas. Ó Senhor Deus, como é bom dar-te graças! Como é bom cantar hinos em tua honra, ó Altíssimo! Como é bom anunciar de manhã o teu amor e de noite, a tua fidelidade, com a música de uma harpa de dez cordas e ao som da lira! Ó Senhor Deus, os teus feitos poderosos me tornam feliz! Eu canto de alegria pelas coisas que fazes. Que grandes coisas tens feito, ó Senhor! Como é difícil entender os teus pensamentos! Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém. Vão pelo mundo inteiro e anunciem o evangelho a todas as pessoas."
+        },
+        "gradual": {
+          "referencia": "Salmo 119.105,103; 45.1a,c",
+          "texto": "A tua palavra é lâmpada para guiar os meus passos, é luz que ilumina o meu caminho. Como são doces as tuas palavras! São mais doces do que o mel. Lindas palavras enchem o meu coração; a minha língua é como a pena de um bom escritor."
+        },
+        "verso": {
+          "referencia": "Marcos 1.15",
+          "texto": "Aleluia. Chegou a hora, e o Reino de Deus está perto. Arrependam-se dos seus pecados e creiam no evangelho. Aleluia."
+        },
+        "leituras": {
+          "salmo": "Salmo 146 (antífona vers. 5)",
+          "primeira_leitura": "Isaías 52.7-10",
+          "segunda_leitura": "2 Timóteo 4.5-18",
+          "evangelho": "Marcos 16.14-20"
+        }
+      }
+    },
+    {
+      "nome_dia": "FILIPE E TIAGO, APÓSTOLOS",
+      "data_calendario": "1º de maio",
+      "metadados": {
+        "cor": "Vermelha",
+        "prefacio": "Apóstolos e Evangelistas"
+      },
+      "liturgia": {
+        "oracao_do_dia": "Todo-poderoso Deus, teu Filho revelou-se a Filipe e a Tiago e lhes deu o conhecimento da vida eterna. Concede-nos conhecer perfeitamente a teu Filho Jesus Cristo como o caminho, a verdade e a vida, e com firmeza andar no caminho que leva à vida eterna; através do mesmo Jesus Cristo, nosso Senhor, que vive e reina contigo e o Espírito Santo, um só Deus, agora e sempre.",
+        "introito": {
+          "referencia": "Salmo 89.1,5,15-16; antífona Salmo 119.46",
+          "texto": "Anunciarei aos reis as tuas ordens [, ó Senhor ,] E não ficarei envergonhado. Ó Senhor Deus, eu sempre cantarei a respeito do teu amor E anunciarei a tua fidelidade a todas as gerações. Ó Senhor, os céus cantam as maravilhas que fazes, E, reunidos, os anjos cantam a tua fidelidade. Feliz o povo que te adora com canções E que vive na luz da tua presença! Por causa de ti, eles se alegram o dia todo E te louvam porque és bondoso. Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém. Anunciarei aos reis as tuas ordens [, ó Senhor ,] E não ficarei envergonhado."
+        },
+        "gradual": {
+          "referencia": "Romanos 10.15b; Isaías 52.7b; Romanos 10.18b",
+          "texto": "Como é bonito ver os mensageiros trazendo boas notícias! Trazendo notícias de paz, boas notícias de salvação! A voz deles se espalhou pelo mundo inteiro; As suas palavras alcançaram a terra toda."
+        },
+        "verso": {
+          "referencia": "João 14.6",
+          "texto": "Aleluia. Eu sou o caminho, a verdade e a vida; ninguém pode chegar até o Pai a não ser por mim. Aleluia."
+        },
+        "leituras": {
+          "salmo": "Salmo 36.5-12 (antífona vers. 8)",
+          "primeira_leitura": "Isaías 30.18-21",
+          "segunda_leitura": "Efésios 2.19-22",
+          "evangelho": "João 14.1-14"
+        }
+      }
+    },
+    {
+      "nome_dia": "A VISITAÇÃO",
+      "data_calendario": "31 de maio (Lecionário Trienal); 2 de julho (Lecionário Anual)",
+      "metadados": {
+        "cor": "Branca",
+        "prefacio": "A Visitação"
+      },
+      "liturgia": {
+        "oracao_do_dia": "Todo-poderoso Deus, que escolheste a virgem Maria para ser a mãe de teu Filho e através dela tornaste conhecida a graciosa recompensa para os pobres, humildes e desprezados, concede que recebamos tua Palavra com humildade e fé, e assim sejamos feitos um com Jesus, teu Filho, nosso Senhor, que vive e reina contigo e o Espírito Santo, um só Deus, agora e sempre.",
+        "introito": {
+          "referencia": "1 Samuel 2.1-2,7-8; antífona Lucas 1.46b-47",
+          "texto": "A minha alma anuncia a grandeza do Senhor. O meu espírito está alegre por causa de Deus, o meu Salvador. O Senhor Deus encheu o meu coração de alegria; por causa do que ele fez, eu ando de cabeça erguida. Estou rindo dos meus inimigos e me sinto feliz, pois Deus me ajudou. Ninguém é santo como o Senhor; não existe outro deus além dele, E não há nenhum protetor como o nosso Deus. Ele faz com que alguns fiquem pobres e outros, ricos; Rebaixa uns e eleva outros. Deus levanta os pobres do pó e tira da miséria os necessitados. Ele faz com que os pobres sejam companheiros dos príncipes e os põe em lugares de honra. Os alicerces da terra são de Deus, o Senhor; Ele construiu o mundo sobre eles. Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém. A minha alma anuncia a grandeza do Senhor. O meu espírito está alegre por causa de Deus, o meu Salvador."
+        },
+        "gradual": {
+          "referencia": "Salmo 103.2; 105.5; 100.4",
+          "texto": "Que todo o meu ser louve o Senhor, E que eu não esqueça nenhuma das suas bênçãos! Lembrem de tudo o que Deus tem feito, Lembrem dos seus grandes e maravilhosos milagres e de como tem condenado os nossos inimigos! Entrem pelos portões do Templo com ações de graças, entrem nos seus pátios com louvor. Louvem a Deus e sejam agradecidos a ele."
+        },
+        "verso": {
+          "referencia": "Lucas 1.45",
+          "texto": "Aleluia. Você é abençoada, pois acredita que vai acontecer o que o Senhor lhe disse. Aleluia."
+        },
+        "leituras": {
+          "salmo": "Salmo 138 (antífona vers. 8a)",
+          "primeira_leitura": "Isaías 11.1-5",
+          "segunda_leitura": "Romanos 12.9-16",
+          "evangelho": "Lucas 1.39-45 (46-56)"
+        }
+      }
+    },
+    {
+      "nome_dia": "BARNABÉ, APÓSTOLO",
+      "data_calendario": "11 de junho",
+      "metadados": {
+        "cor": "Vermelha",
+        "prefacio": "Apóstolos e Evangelistas"
+      },
+      "liturgia": {
+        "oracao_do_dia": "Todo-poderoso Deus, teu servo fiel Barnabé não procurou sua própria fama, mas dedicou generosamente sua vida e propriedades para o encorajamento dos apóstolos e do ministério deles. Concede que possamos seguir seu exemplo com vidas dedicadas à caridade e à proclamação do Evangelho; através de teu Filho, Jesus Cristo, nosso Senhor, que vive e reina contigo e o Espírito Santo, um só Deus, agora e sempre.",
+        "introito": {
+          "referencia": "Salmo 135.1-3; antífona Salmo 135.13",
+          "texto": "Ó Senhor, todos sempre saberão que tu és Deus; Todas as gerações futuras lembrarão de ti. Aleluia! Louvem a Deus, o Senhor, Vocês que são seus servos, Vocês que estão na casa dele, No Templo do nosso Deus! Louvem o Senhor porque ele é bom; Cantem louvores a ele porque é bondoso. Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém. Ó Senhor, todos sempre saberão que tu és Deus; Todas as gerações futuras lembrarão de ti."
+        },
+        "gradual": {
+          "referencia": "Efésios 4.8b,11,12b; 2.19a,c",
+          "texto": "Quando ele subiu aos lugares mais altos, levou consigo muitos prisioneiros E deu dons às pessoas. Ele escolheu alguns para serem apóstolos, outros para profetas, outros para evangelistas e ainda outros para pastores e mestres da Igreja; A fim de construir o corpo de Cristo. Portanto, vocês não são mais estrangeiros nem visitantes. Agora vocês são membros da família dele."
+        },
+        "verso": {
+          "referencia": "Marcos 6.12",
+          "texto": "Aleluia. Então os discípulos foram e anunciaram que todos deviam se arrepender dos seus pecados. Aleluia."
+        },
+        "leituras": {
+          "salmo": "Salmo 112 (antífona vers. 1)",
+          "primeira_leitura": "Isaías 42.5-12",
+          "segunda_leitura": "Atos 11.19-30; 13.1-3",
+          "evangelho": "Marcos 6.7-13"
+        }
+      }
+    },
+    {
+      "nome_dia": "O NASCIMENTO DE JOÃO BATISTA",
+      "data_calendario": "24 de junho",
+      "metadados": {
+        "cor": "Branca",
+        "prefacio": "Advento"
+      },
+      "liturgia": {
+        "oracao_do_dia": "Todo-poderoso Deus, que proclamaste a salvação através de João Batista, o precursor de Cristo, concede agora que conheçamos esta salvação e te sirvamos com santidade e justiça todos os dias de nossa vida; através de nosso Senhor Jesus Cristo, teu Filho, que vive e reina contigo e o Espírito Santo, um só Deus, agora e sempre.",
+        "introito": {
+          "referencia": "Lucas 1.68,76-79; antífona Malaquias 3.1",
+          "texto": "Eu enviarei o meu mensageiro para preparar o meu caminho. E o Senhor a quem vocês estão procurando vai chegar de repente ao seu Templo. Louvemos o Senhor, o Deus de Israel, Pois ele veio ajudar o seu povo e lhe dar a liberdade. E você, menino, será chamado de profeta do Deus Altíssimo E irá adiante do Senhor a fim de preparar o caminho para ele. Você anunciará ao povo de Deus a salvação Que virá por meio do perdão dos pecados deles. Pois o nosso Deus é misericordioso e bondoso. Ele fará brilhar sobre nós a sua luz E do céu iluminará todos os que vivem na escuridão da sombra da morte, Para guiar os nossos passos no caminho da paz. Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém. Eu enviarei o meu mensageiro para preparar o meu caminho. E o Senhor a quem vocês estão procurando vai chegar de repente ao seu Templo."
+        },
+        "gradual": {
+          "referencia": "Jeremias 1.5,9b",
+          "texto": "Antes do seu nascimento, quando você ainda estava na barriga da sua mãe, Eu o escolhi E separei para que você fosse um profeta para as nações. Eu estou lhe dando a mensagem que você deve anunciar."
+        },
+        "verso": {
+          "referencia": "Lucas 1.17a,c",
+          "texto": "Aleluia. Ele será mandado por Deus como mensageiro e será forte e poderoso como o profeta Elias. E conseguirá preparar o povo de Israel para a vinda do Senhor. Aleluia."
+        },
+        "leituras": {
+          "salmo": "85. (1-6) 7-13 (antífona vers. 9)",
+          "primeira_leitura": "Isaías 40.1-5",
+          "segunda_leitura": "Atos 13.13-26",
+          "evangelho": "Lucas 1.57-80"
+        }
+      }
+    },
+    {
+      "nome_dia": "BARNABÉ, APÓSTOLO",
+      "data_calendario": "11 de junho",
+      "metadados": {
+        "cor": "Vermelha",
+        "prefacio": "Apóstolos e Evangelistas"
+      },
+      "liturgia": {
+        "oracao_do_dia": "Todo-poderoso Deus, teu servo fiel Barnabé não procurou sua própria fama, mas dedicou generosamente sua vida e propriedades para o encorajamento dos apóstolos e do ministério deles. Concede que possamos seguir seu exemplo com vidas dedicadas à caridade e à proclamação do Evangelho; através de teu Filho, Jesus Cristo, nosso Senhor, que vive e reina contigo e o Espírito Santo, um só Deus, agora e sempre.",
+        "introito": {
+          "referencia": "Salmo 135.1-3; antífona Salmo 135.13",
+          "texto": "Ó Senhor, todos sempre saberão que tu és Deus; Todas as gerações futuras lembrarão de ti. Aleluia! Louvem a Deus, o Senhor, Vocês que são seus servos, Vocês que estão na casa dele, No Templo do nosso Deus! Louvem o Senhor porque ele é bom; Cantem louvores a ele porque é bondoso. Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém. Ó Senhor, todos sempre saberão que tu és Deus; Todas as gerações futuras lembrarão de ti."
+        },
+        "gradual": {
+          "referencia": "Efésios 4.8b,11,12b; 2.19a,c",
+          "texto": "Quando ele subiu aos lugares mais altos, levou consigo muitos prisioneiros E deu dons às pessoas. Ele escolheu alguns para serem apóstolos, outros para profetas, outros para evangelistas e ainda outros para pastores e mestres da Igreja; A fim de construir o corpo de Cristo. Portanto, vocês não são mais estrangeiros nem visitantes. Agora vocês são membros da família dele."
+        },
+        "verso": {
+          "referencia": "Marcos 6.12",
+          "texto": "Aleluia. Então os discípulos foram e anunciaram que todos deviam se arrepender dos seus pecados. Aleluia."
+        },
+        "leituras": {
+          "salmo": "Salmo 112 (antífona vers. 1)",
+          "primeira_leitura": "Isaías 42.5-12",
+          "segunda_leitura": "Atos 11.19-30; 13.1-3",
+          "evangelho": "Marcos 6.7-13"
+        }
+      }
+    },
+    {
+      "nome_dia": "PEDRO E PAULO, APÓSTOLOS",
+      "data_calendario": "29 de junho",
+      "metadados": {
+        "cor": "Vermelha",
+        "prefacio": "Apóstolos e Evangelistas"
+      },
+      "liturgia": {
+        "oracao_do_dia": "Misericordioso e eterno Deus, teus santos apóstolos Pedro e Paulo receberam graça e força para sacrificar suas vidas em favor de teu Filho. Fortalece-nos pelo teu Espírito Santo para que possamos confessar tua verdade e estarmos sempre prontos a sacrificar nossas vidas por aquele que sacrificou sua vida por nós, o próprio Jesus Cristo, nosso Senhor, que vive e reina contigo e o Espírito Santo, um só Deus, agora e sempre.",
+        "introito": {
+          "referencia": "Salmo 89.1,5,15-16; antífona Salmo 119.46",
+          "texto": "Anunciarei aos reis as tuas ordens [, ó Senhor ,] E não ficarei envergonhado. Ó Senhor Deus, eu sempre cantarei a respeito do teu amor E anunciarei a tua fidelidade a todas as gerações. Ó Senhor, os céus cantam as maravilhas que fazes, E, reunidos, os anjos cantam a tua fidelidade. Feliz o povo que te adora com canções E que vive na luz da tua presença! Por causa de ti, eles se alegram o dia todo E te louvam porque és bondoso. Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém. Anunciarei aos reis as tuas ordens [, ó Senhor ,] E não ficarei envergonhado."
+        },
+        "gradual": {
+          "referencia": "Romanos 10.15b; Isaías 52.7b; Romanos 10.18b",
+          "texto": "Como é bonito ver os mensageiros trazendo boas notícias! Trazendo notícias de paz, boas notícias de salvação! A voz deles se espalhou pelo mundo inteiro; As suas palavras alcançaram a terra toda."
+        },
+        "verso": {
+          "referencia": "Mateus 16.18b",
+          "texto": "Aleluia. Sobre esta pedra construirei a minha Igreja, e nem a morte poderá vencê-la. Aleluia."
+        },
+        "leituras": {
+          "salmo": "Salmo 46 (antífona vers. 11)",
+          "primeira_leitura": "Atos 15.1-12 (13-21)",
+          "segunda_leitura": "Gálatas 2.1-10",
+          "evangelho": "Mateus 16.13-19"
+        }
+      }
+    },
+    {
+      "nome_dia": "MARIA MADALENA",
+      "data_calendario": "22 de julho",
+      "metadados": {
+        "cor": "Branca",
+        "prefacio": "Dia de todos os santos"
+      },
+      "liturgia": {
+        "oracao_do_dia": "Todo-poderoso Deus, teu Filho Jesus Cristo restaurou a saúde de Maria Madalena e a chamou para ser a primeira testemunha de sua ressurreição. Cura-nos de todas as nossas enfermidades e nos chama para conhecermos a ti no poder da vida sem fim de teu Filho; através do mesmo Jesus Cristo, nosso Senhor, que vive e reina contigo e o Espírito Santo, um só Deus, agora e sempre.",
+        "introito": {
+          "referencia": "Salmo 30.1a,2-3,12b; antífona Salmo 31.1a",
+          "texto": "Ó Senhor Deus, em ti eu busco proteção; Livra-me da vergonha de ser derrotado. Ó Senhor, meu Deus, eu te louvo Porque me socorreste. Ó Senhor, meu Deus, eu gritei pedindo ajuda, E tu me curaste, Tu me salvaste da morte. Eu estava entre aqueles que iam para o mundo dos mortos, mas tu me fizeste viver novamente. Ó Senhor, tu és o meu Deus; Eu te darei graças para sempre. Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém. Ó Senhor Deus, em ti eu busco proteção; Livra-me da vergonha de ser derrotado."
+        },
+        "gradual": {
+          "referencia": "Salmo 45.10; João 10.11b,10b,3b,16c",
+          "texto": "Ó noiva do rei, escute o meu conselho: Esqueça o seu povo e os seus parentes. O bom pastor dá a vida pelas ovelhas, Para que as ovelhas tenham vida, a vida completa. As ovelhas reconhecem a sua voz quando ele as chama pelo nome, Então elas se tornarão um só rebanho com um só pastor."
+        },
+        "verso": {
+          "referencia": "João 20.18a",
+          "texto": "Aleluia. Maria Madalena foi e disse aos discípulos de Jesus: Eu vi o Senhor! Aleluia."
+        },
+        "leituras": {
+          "salmo": "73.23-28 (antífona vers. 1)",
+          "primeira_leitura": "Provérbios 31.10-31",
+          "segunda_leitura": "Atos 13.26-31",
+          "evangelho": "João 20.1-2,10-18"
+        }
+      }
+    },
+    {
+      "nome_dia": "TIAGO, O MAIOR, APÓSTOLO",
+      "data_calendario": "25 de julho",
+      "metadados": {
+        "cor": "Vermelha",
+        "prefacio": "Apóstolos e Evangelistas"
+      },
+      "liturgia": {
+        "oracao_do_dia": "Ó gracioso Deus, teu servo e apóstolo Tiago foi o primeiro entre os Doze a sofrer o martírio em nome de Jesus Cristo. Derrama sobre os líderes da tua Igreja este espírito de serviço abnegado para que possamos esquecer todas as atrações falsas e passageiras e seguir somente a Jesus, que vive e reina contigo e o Espírito Santo, um só Deus, agora e sempre.",
+        "introito": {
+          "referencia": "Salmo 89.1,5,15-16; antífona Salmo 119.46",
+          "texto": "Anunciarei aos reis as tuas ordens [, ó Senhor ,]\nE não ficarei envergonhado.\nÓ Senhor Deus, eu sempre cantarei a respeito do teu amor\nE anunciarei a tua fidelidade a todas as gerações.\nÓ Senhor , os céus cantam as maravilhas que fazes,\nE, reunidos, os anjos cantam a tua fidelidade.\nFeliz o povo que te adora com canções\nE que vive na luz da tua presença!\nPor causa de ti, eles se alegram o dia todo\nE te louvam porque és bondoso.\nGlória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora \né, e para sempre será – de eternidade a eternidade. Amém.\nAnunciarei aos reis as tuas ordens [, ó Senhor ,]\nE não ficarei envergonhado."
+        },
+        "gradual": {
+          "referencia": "Romanos 10.15b; Isaías 52.7b; Romanos 10.18b",
+          "texto": "Como é bonito ver os mensageiros trazendo boas notícias!\nTrazendo notícias de paz, boas notícias de salvação!\nA voz deles se espalhou pelo mundo inteiro;\nAs suas palavras alcançaram a terra toda."
+        },
+        "verso": {
+          "referencia": "Marcos 10.45",
+          "texto": "Aleluia. Até o Filho do Homem não veio para ser servido, mas para servir e dar a sua vida para salvar muita gente. Aleluia."
+        },
+        "leituras": {
+          "salmo": "Salmo 56 (antífona vers. 4)",
+          "primeira_leitura": "Atos 11.27-12.5",
+          "segunda_leitura": "Romanos 8.28-39",
+          "evangelho": "Marcos 10.35-45"
+        }
+      }
+    },
+    {
+      "nome_dia": "MARIA, MÃE DO SENHOR",
+      "data_calendario": "15 de agosto",
+      "metadados": {
+        "cor": "Branca",
+        "prefacio": "Maria, mãe do Senhor"
+      },
+      "liturgia": {
+        "oracao_do_dia": "Todo-poderoso Deus, que escolheste a virgem Maria para ser a mãe de teu único Filho, concede que nós, que somos redimidos pelo sangue dele, tomemos parte com ela na glória de teu reino eterno; através de Jesus Cristo, teu Filho, nosso Senhor, que vive e reina contigo e o Espírito Santo, um só Deus, agora e sempre.",
+        "introito": {
+          "referencia": "Salmo 34.2-5; antífona Salmo 34.1",
+          "texto": "Eu sempre darei graças a Deus, o Senhor ; O seu louvor estará nos meus lábios o dia inteiro. Eu o louvarei por causa das coisas que ele tem feito; Os que são perseguidos ouvirão isso e se alegrarão. Anunciem comigo a sua grandeza; Louvemos juntos o Senhor . Eu pedi a ajuda do Senhor , e ele me respondeu; Ele me livrou de todos os meus medos. Os que são perseguidos olham para ele e se alegram; Eles nunca ficarão desapontados. Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém. Eu sempre darei graças a Deus, o Senhor ; O seu louvor estará nos meus lábios o dia inteiro."
+        },
+        "gradual": {
+          "referencia": "Salmo 45.13-14",
+          "texto": "A princesa está no palácio – e como é linda! O seu vestido é feito de fios de ouro. Vestida de roupas coloridas e acompanhada pelas suas damas de honra, Ela é levada até o rei."
+        },
+        "verso": {
+          "referencia": "Lucas 1.47",
+          "texto": "Aleluia. A minha alma anuncia a grandeza do Senhor. O meu espírito está alegre por causa de Deus, o meu Salvador. Aleluia."
+        },
+        "leituras": {
+          "salmo": "Salmo 45.10-17 (antífona vers. 6)",
+          "primeira_leitura": "Isaías 61.7-11",
+          "segunda_leitura": "Gálatas 4.4-7",
+          "evangelho": "Lucas 1. (39-45) 46-55"
+        }
+      }
+    },
+    {
+      "nome_dia": "BARTOLOMEU, APÓSTOLO",
+      "data_calendario": "24 de agosto",
+      "metadados": {
+        "cor": "Vermelha",
+        "prefacio": "Apóstolos e Evangelistas"
+      },
+      "liturgia": {
+        "oracao_do_dia": "Todo-poderoso Deus, teu Filho Jesus Cristo escolheu Bartolomeu para ser um apóstolo para pregar o abençoado Evangelho. Concede que tua Igreja possa amar o que ele creu e pregar o que ele ensinou; através de Jesus Cristo, nosso Senhor, que vive e reina contigo e o Espírito Santo, um só Deus, agora e sempre.",
+        "introito": {
+          "referencia": "Salmo 89.1,5,15-16; antífona Salmo 119.46",
+          "texto": "Anunciarei aos reis as tuas ordens [, ó Senhor ,] E não ficarei envergonhado. Ó Senhor Deus, eu sempre cantarei a respeito do teu amor E anunciarei a tua fidelidade a todas as gerações. Ó Senhor , os céus cantam as maravilhas que fazes, E, reunidos, os anjos cantam a tua fidelidade. Feliz o povo que te adora com canções E que vive na luz da tua presença! Por causa de ti, eles se alegram o dia todo E te louvam porque és bondoso. Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém. Anunciarei aos reis as tuas ordens [, ó Senhor ,] E não ficarei envergonhado."
+        },
+        "gradual": {
+          "referencia": "Romanos 10.15b; Isaías 52.7b; Romanos 10.18b",
+          "texto": "Como é bonito ver os mensageiros trazendo boas notícias! Trazendo notícias de paz, boas notícias de salvação! A voz deles se espalhou pelo mundo inteiro; As suas palavras alcançaram a terra toda."
+        },
+        "verso": {
+          "referencia": "Lucas 22.26b,27d",
+          "texto": "Aleluia. O mais importante deve ser como o menos importante; e o que manda deve ser como o que é mandado. Entre vocês eu sou como aquele que serve. Aleluia."
+        },
+        "leituras": {
+          "salmo": "Salmo 121 (antífona vers. 8)",
+          "primeira_leitura": "Provérbios 3.1-8",
+          "segunda_leitura": "2 Coríntios 4.7-10",
+          "evangelho": "Lucas 22.24-30 ou João 1.43-51"
+        }
+      }
+    },
+    {
+      "nome_dia": "O MARTÍRIO DE JOÃO BATISTA",
+      "data_calendario": "29 de agosto",
+      "metadados": {
+        "cor": "Vermelha",
+        "prefacio": "Advento"
+      },
+      "liturgia": {
+        "oracao_do_dia": "Todo-poderoso Deus, que enviaste teu servo João Batista para ser o precursor de teu Filho Jesus Cristo, tanto em sua pregação de arrependimento como em sua inocente morte, concede que nós, que morremos e ressuscitamos com Cristo no santo Batismo, possamos diariamente nos arrepender de nossos pecados, pacientemente sofrer por causa da verdade e sem medo sermos testemunhas de sua vitória sobre a morte; através do mesmo Jesus Cristo, nosso Senhor, que vive e reina contigo e o Espírito Santo, um só Deus, agora e sempre.",
+        "introito": {
+          "referencia": "Salmo 31.1,3,5; antífona Apocalipse 7.14b",
+          "texto": "Estes são os que atravessaram sãos e salvos a grande perseguição. São as pessoas que lavaram as suas roupas no sangue do Cordeiro, e elas ficaram brancas. Ó Senhor Deus, em ti eu busco proteção; livra-me da vergonha de ser derrotado. Tu és justo; eu te peço que me ajudes. Tu és a minha rocha e a minha fortaleza; Guia-me e orienta-me como prometeste. Nas tuas mãos entrego a minha vida. Tu me salvarás, ó Senhor , porque tu és Deus fiel. Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém. Estes são os que atravessaram sãos e salvos a grande perseguição. São as pessoas que lavaram as suas roupas no sangue do Cordeiro, e elas ficaram brancas."
+        },
+        "gradual": {
+          "referencia": "Salmo 34.9,19",
+          "texto": "Que todos os que se dedicam a Deus o temam, Pois aqueles que o temem não têm falta de nada! Os bons passam por muitas aflições, Mas o Senhor os livra de todas elas."
+        },
+        "verso": {
+          "referencia": "Salmo 116.15",
+          "texto": "Aleluia. O Senhor Deus sente pesar quando vê morrerem os que são fiéis a ele. Aleluia."
+        },
+        "leituras": {
+          "salmo": "Salmo 71.1-8 (antífona vers. 23)",
+          "primeira_leitura": "Apocalipse 6.9-11",
+          "segunda_leitura": "Romanos 6.1-5",
+          "evangelho": "Marcos 6.14-29"
+        }
+      }
+    },
+    {
+      "nome_dia": "DIA DA SANTA CRUZ",
+      "data_calendario": "14 de setembro",
+      "metadados": {
+        "cor": "Vermelha",
+        "prefacio": "Semana Santa"
+      },
+      "liturgia": {
+        "oracao_do_dia": "Misericordioso Deus, teu Filho Jesus Cristo foi crucificado para levar sobre si os pecados do mundo e atrair a si todas as pessoas. Faze com que nós, que nos gloriamos na sua morte pela nossa redenção, possamos com fidelidade atender ao seu chamado para tomar a cruz e seguir aquele que vive e reina contigo e o Espírito Santo, um só Deus, agora e sempre.",
+        "introito": {
+          "referencia": "Salmo 98.1,4,6; antífona Salmo 98.2",
+          "texto": "O Senhor anunciou a sua vitória; Ele fez com que as nações conhecessem o seu poder salvador. Cantem uma nova canção a Deus, o Senhor, pois ele tem feito coisas maravilhosas. Com a sua força e com o seu santo poder, ele se tornou vitorioso. Cantem ao Senhor com alegria, povos de toda a terra! Louvem o Senhor com canções e gritos de alegria. Ao som de trombetas e cornetas, Cantem com alegria diante do Senhor, o Rei. Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém. O Senhor anunciou a sua vitória; Ele fez com que as nações conhecessem o seu poder salvador."
+        },
+        "gradual": {
+          "referencia": "Isaías 49.22a; João 3.14b-15",
+          "texto": "Levantarei a mão, diz o Senhor Deus, E darei um sinal de comando aos povos. Assim também o Filho do Homem tem de ser levantado, Para que todos os que crerem nele tenham a vida eterna."
+        },
+        "verso": {
+          "referencia": "Gálatas 6.14",
+          "texto": "Aleluia. Eu me orgulharei somente da cruz do nosso Senhor Jesus Cristo. Pois, por meio da cruz, o mundo está morto para mim, e eu estou morto para o mundo. Aleluia."
+        },
+        "leituras": {
+          "salmo": "Salmo 40.1-11 (antífona vers. 13)",
+          "primeira_leitura": "Números 21.4-9",
+          "segunda_leitura": "1 Coríntios 1.18-25",
+          "evangelho": "João 12.20-33"
+        }
+      }
+    },
+    {
+      "nome_dia": "MATEUS, APÓSTOLO E EVANGELISTA",
+      "data_calendario": "21 de setembro",
+      "metadados": {
+        "cor": "Vermelha",
+        "prefacio": "Apóstolos e Evangelistas"
+      },
+      "liturgia": {
+        "oracao_do_dia": "Ó Filho de Deus, nosso bendito Salvador Jesus Cristo, que chamaste o cobrador de impostos Mateus para ser um apóstolo e evangelista, concede que, através de seu testemunho fiel e inspirado, possamos também te seguir, deixando para trás todos os desejos cobiçosos e o amor à riqueza; pois tu vives e reinas com o Pai e o Espírito Santo, um só Deus, agora e sempre.",
+        "introito": {
+          "referencia": "Salmo 92.1-5; antífona Mateus 9.13b,c",
+          "texto": "Eu quero que as pessoas sejam bondosas e não que me ofereçam sacrifícios de animais. Porque eu vim para chamar os pecadores e não os bons. Ó Senhor Deus, como é bom dar-te graças! Como é bom cantar hinos em tua honra, ó Altíssimo! Como é bom anunciar de manhã o teu amor E de noite, a tua fidelidade, Com a música de uma harpa de dez cordas E ao som da lira! Ó Senhor Deus, os teus feitos poderosos me tornam feliz! Eu canto de alegria pelas coisas que fazes. Que grandes coisas tens feito, ó Senhor! Como é difícil entender os teus pensamentos! Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém. Eu quero que as pessoas sejam bondosas e não que me ofereçam sacrifícios de animais. Porque eu vim para chamar os pecadores e não os bons."
+        },
+        "gradual": {
+          "referencia": "Salmo 119.105,103; 45.1a,c",
+          "texto": "A tua palavra é lâmpada para guiar os meus passos, É luz que ilumina o meu caminho. Como são doces as tuas palavras! São mais doces do que o mel. Lindas palavras enchem o meu coração. A minha língua é como a pena de um bom escritor."
+        },
+        "verso": {
+          "referencia": "Mateus 28.19a,20b",
+          "texto": "Aleluia. Vão a todos os povos do mundo e façam com que sejam meus seguidores. E lembrem disto: eu estou com vocês todos os dias, até o fim dos tempos. Aleluia."
+        },
+        "leituras": {
+          "salmo": "Salmo 119.33-40 (antífona vers. 35)",
+          "primeira_leitura": "Ezequiel 2.8-3.11",
+          "segunda_leitura": "Efésios 4.7-16",
+          "evangelho": "Mateus 9.9-13"
+        }
+      }
+    },
+    {
+      "nome_dia": "SÃO MIGUEL E TODOS OS ANJOS",
+      "data_calendario": "29 de setembro",
+      "metadados": {
+        "cor": "Branca",
+        "prefacio": "São Miguel e todos os anjos"
+      },
+      "liturgia": {
+        "oracao_do_dia": "Deus eterno, que ordenaste e constituíste o serviço dos anjos e dos homens de modo maravilhoso, concede misericordiosamente que, assim como teus santos anjos sempre te servem e adoram nos céus, da mesma maneira eles possam nos ajudar e defender aqui na terra, de acordo com a tua orientação; através de teu Filho Jesus Cristo, nosso Senhor, que vive e reina contigo e o Espírito Santo, um só Deus, agora e sempre.",
+        "introito": {
+          "referencia": "Salmo 103.20-22; antífona Salmo 103.1",
+          "texto": "Ó Senhor Deus, que todo o meu ser te louve! Que eu louve o Santo Deus com todas as minhas forças! Louvem o Senhor, fortes e poderosos anjos, Que ouvem o que ele diz, que obedecem aos seus mandamentos! Louvem o Senhor, todos os anjos do céu, Todos os seus servos, que fazem a sua vontade! Louvem o Senhor, todas as suas criaturas, em todo lugar onde ele reina! Que todo o meu ser te louve, ó Senhor! Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém. Ó Senhor Deus, que todo o meu ser te louve! Que eu louve o Santo Deus com todas as minhas forças!"
+        },
+        "gradual": {
+          "referencia": "Salmo 91.11; 103.1",
+          "texto": "Deus mandará que os anjos dele cuidem de você Para protegê-lo aonde quer que você for. Ó Senhor Deus, que todo o meu ser te louve! Que eu louve o Santo Deus com todas as minhas forças!"
+        },
+        "verso": {
+          "referencia": "Apocalipse 12.11",
+          "texto": "Aleluia. Os nossos irmãos o derrotaram por meio do sangue do Cordeiro e da mensagem que anunciaram. Eles estavam prontos para dar a sua vida e morrer. Aleluia."
+        },
+        "leituras": {
+          "salmo": "Salmo 91 (antífona vers. 11)",
+          "primeira_leitura": "Daniel 10.10-14; 12.1-3",
+          "segunda_leitura": "Apocalipse 12.7-12",
+          "evangelho": "Mateus 18.1-11 ou Lucas 10.17-20"
+        }
+      }
+    },
+    {
+      "nome_dia": "LUCAS, EVANGELISTA",
+      "data_calendario": "18 de outubro",
+      "metadados": {
+        "cor": "Vermelha",
+        "prefacio": "Apóstolos e Evangelistas"
+      },
+      "liturgia": {
+        "oracao_do_dia": "Todo-poderoso Deus, nosso Pai, teu bendito Filho chamou o médico Lucas para ser um evangelista e médico das almas. Concede que a medicina curativa do Evangelho e dos sacramentos possa afastar as doenças de nossas almas a fim de que possamos sempre te amar e servir com corações voluntários; através de Jesus Cristo, teu Filho, nosso Senhor, que vive e reina contigo e o Espírito Santo, um só Deus, agora e sempre.",
+        "introito": {
+          "referencia": "Salmo 92.1-5; antífona Lucas 24.46-47",
+          "texto": "O que está escrito é que o Messias tinha de sofrer e no terceiro dia ressuscitar. E que, em nome dele, a mensagem sobre o arrependimento e o perdão dos pecados seria anunciada a todas as nações, começando em Jerusalém. Ó Senhor Deus, como é bom dar-te graças! Como é bom cantar hinos em tua honra, ó Altíssimo! Como é bom anunciar de manhã o teu amor E de noite, a tua fidelidade, Com a música de uma harpa de dez cordas E ao som da lira! Ó Senhor Deus, os teus feitos poderosos me tornam feliz! Eu canto de alegria pelas coisas que fazes. Que grandes coisas tens feito, ó Senhor ! Como é difícil entender os teus pensamentos! Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém. O que está escrito é que o Messias tinha de sofrer e no terceiro dia ressuscitar. E que, em nome dele, a mensagem sobre o arrependimento e o perdão dos pecados seria anunciada a todas as nações, começando em Jerusalém."
+        },
+        "gradual": {
+          "referencia": "Salmo 119.105,103; 45.1a,c",
+          "texto": "A tua palavra é lâmpada para guiar os meus passos, É luz que ilumina o meu caminho. Como são doces as tuas palavras! São mais doces do que o mel. Lindas palavras enchem o meu coração. A minha língua é como a pena de um bom escritor."
+        },
+        "verso": {
+          "referencia": "Lucas 19.9b,10",
+          "texto": "Aleluia. Hoje a salvação entrou nesta casa, pois este homem também é descendente de Abraão. Porque o Filho do Homem veio buscar e salvar quem está perdido. Aleluia."
+        },
+        "leituras": {
+          "salmo": "Salmo 147.1-11 (antífona vers. 12)",
+          "primeira_leitura": "Isaías 35.5-8",
+          "segunda_leitura": "2 Timóteo 4.5-18",
+          "evangelho": "Lucas 10.1-9"
+        }
+      }
+    },
+    {
+      "nome_dia": "TIAGO DE JERUSALÉM, IRMÃO DE JESUS E MÁRTIR",
+      "data_calendario": "23 de outubro",
+      "metadados": {
+        "cor": "Vermelha",
+        "prefacio": "Dia de todos os santos"
+      },
+      "liturgia": {
+        "oracao_do_dia": "Pai celestial, pastor do teu povo, que fortaleceste Tiago, o Justo, irmão de nosso Senhor, para dirigir e guiar a tua Igreja, concede que possamos seguir o seu exemplo de oração e reconciliação e sejamos fortalecidos pelo testemunho de sua morte; através de Jesus Cristo, teu Filho, nosso Senhor, que vive e reina contigo e o Espírito Santo, um só Deus, agora e sempre.",
+        "introito": {
+          "referencia": "Salmo 31.1,3,5; antífona Apocalipse 7.14b",
+          "texto": "Estes são os que atravessaram sãos e salvos a grande perseguição. São as pessoas que lavaram as suas roupas no sangue do Cordeiro, e elas ficaram brancas. Ó Senhor Deus, em ti eu busco proteção; livra-me da vergonha de ser derrotado. Tu és justo; eu te peço que me ajudes. Tu és a minha rocha e a minha fortaleza; Guia-me e orienta-me como prometeste. Nas tuas mãos entrego a minha vida. Tu me salvarás, ó Senhor , porque tu és Deus fiel. Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém. Estes são os que atravessaram sãos e salvos a grande perseguição. São as pessoas que lavaram as suas roupas no sangue do Cordeiro, e elas ficaram brancas."
+        },
+        "gradual": {
+          "referencia": "Salmo 48.10-11",
+          "texto": "Tu és louvado por todos os povos, e a tua fama se espalha pelo mundo inteiro, Pois tu governas com justiça. Alegre-se, povo de Jerusalém! Ó Deus, os teus julgamentos são justos! Alegrem-se com isso, moradores das cidades de Judá!"
+        },
+        "verso": {
+          "referencia": "Salmo 116.15",
+          "texto": "Aleluia. O Senhor Deus sente pesar quando vê morrerem os que são fiéis a ele. Aleluia."
+        },
+        "leituras": {
+          "salmo": "Salmo 133 (antífona vers. 1)",
+          "primeira_leitura": "Atos 15.12-22a",
+          "segunda_leitura": "Tiago 1.1-12",
+          "evangelho": "Mateus 13.54-58"
+        }
+      }
+    },
+    {
+      "nome_dia": "SIMÃO E JUDAS, APÓSTOLOS",
+      "data_calendario": "28 de outubro",
+      "metadados": {
+        "cor": "Vermelha",
+        "prefacio": "Apóstolos e Evangelistas"
+      },
+      "liturgia": {
+        "oracao_do_dia": "Todo-poderoso Deus, tu escolheste teus servos Simão e Judas para serem contados entre a gloriosa companhia dos apóstolos. Da mesma maneira que eles foram fiéis e zelosos em sua missão, que assim nós possamos, com ardente devoção, tornar conhecidos o amor e a misericórdia de nosso Senhor e Salvador Jesus Cristo, que vive e reina contigo e o Espírito Santo, um só Deus, agora e sempre.",
+        "introito": {
+          "referencia": "Salmo 89.1,5,15-16; antífona Salmo 119.46",
+          "texto": "Anunciarei aos reis as tuas ordens [, ó Senhor ,] E não ficarei envergonhado. Ó Senhor Deus, eu sempre cantarei a respeito do teu amor E anunciarei a tua fidelidade a todas as gerações. Ó Senhor, os céus cantam as maravilhas que fazes, E, reunidos, os anjos cantam a tua fidelidade. Feliz o povo que te adora com canções E que vive na luz da tua presença! Por causa de ti, eles se alegram o dia todo E te louvam porque és bondoso. Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém. Anunciarei aos reis as tuas ordens [, ó Senhor ,] E não ficarei envergonhado."
+        },
+        "gradual": {
+          "referencia": "Romanos 10.15b; Isaías 52.7b; Romanos 10.18b",
+          "texto": "Como é bonito ver os mensageiros trazendo boas notícias! Trazendo notícias de paz, boas notícias de salvação! A voz deles se espalhou pelo mundo inteiro; As suas palavras alcançaram a terra toda."
+        },
+        "verso": {
+          "referencia": "João 15.16a",
+          "texto": "Aleluia. Não foram vocês que me escolheram; pelo contrário, fui eu que os escolhi. Aleluia."
+        },
+        "leituras": {
+          "salmo": "Salmo 43 (antífona vers. 5b)",
+          "primeira_leitura": "Jeremias 26.1-16",
+          "segunda_leitura": "1 Pedro 1.3-9",
+          "evangelho": "João 15. (12-16) 17-21"
+        }
+      }
+    },
+    {
+      "nome_dia": "DIA DA REFORMA",
+      "data_calendario": "31 de outubro",
+      "metadados": {
+        "cor": "Vermelha",
+        "prefacio": null
+      },
+      "liturgia": {
+        "oracao_do_dia": "Todo-poderoso e gracioso Deus, derrama o teu Espírito Santo sobre o teu povo fiel. Mantém-nos firmes em tua graça e verdade, protege e salva-nos nas horas de tentação, defende-nos contra todos os inimigos e concede à tua Igreja a tua paz salvadora; através de Jesus Cristo, teu Filho, nosso Senhor, que vive e reina contigo e o Espírito Santo, um só Deus, agora e sempre.",
+        "introito": {
+          "referencia": "Salmo 34.1-2,11,22; antífona Salmo 119.46",
+          "texto": "Anunciarei aos reis as tuas ordens [, ó Senhor ,] E não ficarei envergonhado. Eu sempre darei graças a Deus, o Senhor ; O seu louvor estará nos meus lábios o dia inteiro. Eu o louvarei por causa das coisas que ele tem feito; Os que são perseguidos ouvirão isso e se alegrarão. Venham, meus jovens amigos, e escutem, Que eu os ensinarei a temer a Deus, o Senhor . O Senhor Deus salva a vida dos seus servos; Aqueles que procuram a sua proteção não serão condenados. Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém. Anunciarei aos reis as tuas ordens [, ó Senhor ,] E não ficarei envergonhado."
+        },
+        "gradual": {
+          "referencia": "Salmo 48.1a,12-14a",
+          "texto": "O Senhor Deus é grande E merece ser louvado na sua cidade, Povo de Deus, ande em volta de Jerusalém e conte as suas torres! Olhem todos com atenção as suas muralhas e examinem as suas fortalezas. Assim vocês poderão dizer aos seus descendentes: Este Deus é o nosso Deus para sempre."
+        },
+        "verso": {
+          "referencia": "Lucas 12.32",
+          "texto": "Aleluia. Meu pequeno rebanho, não tenha medo! Pois o Pai tem prazer em dar o Reino a vocês. Aleluia."
+        },
+        "leituras": {
+          "salmo": "Salmo 46 (antífona vers. 7)",
+          "primeira_leitura": "Apocalipse 14.6-7",
+          "segunda_leitura": "Romanos 3.19-28",
+          "evangelho": "João 8.31-36 ou Mateus 11.12-19"
+        }
+      }
+    },
+    {
+      "nome_dia": "DIA DE TODOS OS SANTOS",
+      "data_calendario": "1º de novembro",
+      "metadados": {
+        "cor": "Branca",
+        "prefacio": "Dia de todos os santos"
+      },
+      "liturgia": {
+        "oracao_do_dia": "Todo-poderoso e eterno Deus, que uniste o teu povo fiel de todos os tempos e lugares em uma santa comunhão, o corpo místico de teu Filho Jesus Cristo, concede que possamos seguir teus santos abençoados em sua maneira virtuosa e cristã de viver, a fim de que, junto com eles, possamos alcançar as incontáveis alegrias que preparaste para aqueles que te amam; através de Jesus Cristo, nosso Senhor, que vive e reina contigo e o Espírito Santo, um só Deus, agora e sempre.",
+        "introito": {
+          "referencia": "Salmo 31.1,3,5; antífona Apocalipse 7.14b",
+          "texto": "Estes são os que atravessaram sãos e salvos a grande perseguição. São as pessoas que lavaram as suas roupas no sangue do Cordeiro, e elas ficaram brancas. Ó Senhor Deus, em ti eu busco proteção; livra-me da vergonha de ser derrotado. Tu és justo; eu te peço que me ajudes. Tu és a minha rocha e a minha fortaleza; Guia-me e orienta-me como prometeste. Nas tuas mãos entrego a minha vida. Tu me salvarás, ó Senhor , porque tu és Deus fiel. Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém. Estes são os que atravessaram sãos e salvos a grande perseguição. São as pessoas que lavaram as suas roupas no sangue do Cordeiro, e elas ficaram brancas."
+        },
+        "gradual": {
+          "referencia": "Apocalipse 7.14b; Salmo 84.5",
+          "texto": "Estes são os que atravessaram sãos e salvos a grande perseguição. São as pessoas que lavaram as suas roupas no sangue do Cordeiro, e elas ficaram brancas. Felizes são aqueles que de ti recebem forças E que desejam andar pelas estradas que levam ao monte Sião!"
+        },
+        "verso": {
+          "referencia": "Hebreus 12.1a,2a",
+          "texto": "Aleluia. Assim nós temos essa grande multidão de testemunhas ao nosso redor. Conservemos os nossos olhos fixos em Jesus, pois é por meio dele que a nossa fé começa, e é ele quem a aperfeiçoa. Aleluia."
+        },
+        "leituras": {
+          "salmo": "Salmo 149 (antífona vers. 4)",
+          "primeira_leitura": "Apocalipse 7. (2-8) 9-17",
+          "segunda_leitura": "1 João 3.1-3",
+          "evangelho": "Mateus 5.1-12"
+        }
+      }
+    },
+    {
+      "nome_dia": "DIA DE FINADOS",
+      "data_calendario": "2 de novembro",
+      "metadados": {
+        "cor": "Branca",
+        "prefacio": "Dia de todos os santos"
+      },
+      "liturgia": {
+        "oracao_do_dia": "Todo-poderoso Deus, contigo estão todos os que adormeceram confiando em ti e nas tuas promessas em Cristo, pois agora descansam aliviados da carga do pecado. Agradecemos-te pela tua presença amorosa na vida de todos aqueles que perseveraram na fé até o fim e pedimos que permitas que os nossos caminhos e os daqueles que já partiram se encontrem na mansão que preparaste para os que confiam em teu Filho Jesus Cristo, nosso Senhor, que vive e reina contigo e o Espírito Santo, um só Deus, agora e sempre.",
+        "introito": {
+          "referencia": "Salmo 116.1-2; 111.4; 39.4a; antífona Salmo 116.15",
+          "texto": "O Senhor  Deus sente pesar Quando vê morrerem os que são fiéis a ele. Eu amo a Deus, o Senhor , porque ele me ouve; Ele escuta as minhas orações. Ele me ouve Sempre que eu clamo pedindo socorro. O Senhor  não nos deixa esquecer dos seus feitos maravilhosos; Ele é bom e tem muita misericórdia. Ó Senhor  Deus, quanto tempo ainda vou viver? Mostra-me como é passageira a minha vida. Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém. O Senhor  Deus sente pesar Quando vê morrerem os que são fiéis a ele."
+        },
+        "gradual": {
+          "referencia": "João 8.12b; Apocalipse 22.17a,20",
+          "texto": "Eu sou a luz do mundo; Quem me segue nunca andará na escuridão, mas terá a luz da vida. O Espírito e a Noiva dizem: Venha! Aquele que ouve isso diga também: Venha! Aquele que dá testemunho de tudo isso diz: Certamente venho logo! Amém! Vem, Senhor Jesus!"
+        },
+        "verso": {
+          "referencia": "Apocalipse 14.13b,4a,c",
+          "texto": "Aleluia. Felizes as pessoas que desde agora morrem no serviço do Senhor! Eram os que se conservaram puros, são virgens, e seguem o Cordeiro aonde ele vai. Aleluia."
+        },
+        "leituras": {
+          "salmo": "Salmo 34.1-9 (antífona vers. 1)",
+          "primeira_leitura": "Isaías 35.3-10",
+          "segunda_leitura": "2 Pedro 3.8-14,18",
+          "evangelho": "João 5.24-29"
+        }
+      }
+    }
+  ]
+}
