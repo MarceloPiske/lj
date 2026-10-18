@@ -1,0 +1,1101 @@
+{
+  "plano_biblico_65_semanas": [
+    {
+      "semana": 1,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Mateus",
+          "capitulos": "28"
+        }
+      ],
+      "salmos": "1-6",
+      "proverbios": "1.1-19"
+    },
+    {
+      "semana": 2,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Gênesis (1-25)",
+          "capitulos": "25"
+        }
+      ],
+      "salmos": "7-12",
+      "proverbios": "1.20-33"
+    },
+    {
+      "semana": 3,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Marcos",
+          "capitulos": "16"
+        },
+        {
+          "livro": "Gálatas",
+          "capitulos": "6"
+        },
+        {
+          "livro": "Filemom",
+          "capitulos": "1"
+        }
+      ],
+      "salmos": "13-18",
+      "proverbios": "2.1-15"
+    },
+    {
+      "semana": 4,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Gênesis (26-50)",
+          "capitulos": "25"
+        }
+      ],
+      "salmos": "19-24",
+      "proverbios": "2.16-22"
+    },
+    {
+      "semana": 5,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Lucas",
+          "capitulos": "24"
+        }
+      ],
+      "salmos": "25-30",
+      "proverbios": "3.1-18"
+    },
+    {
+      "semana": 6,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Êxodo (1-25)",
+          "capitulos": "25"
+        }
+      ],
+      "salmos": "31-36",
+      "proverbios": "3.19-35"
+    },
+    {
+      "semana": 7,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "João",
+          "capitulos": "21"
+        },
+        {
+          "livro": "2 e 3 João",
+          "capitulos": "2"
+        }
+      ],
+      "salmos": "37-42",
+      "proverbios": "4.1-9"
+    },
+    {
+      "semana": 8,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Êxodo (26-40)",
+          "capitulos": "15"
+        },
+        {
+          "livro": "Cantares",
+          "capitulos": "8"
+        }
+      ],
+      "salmos": "43-48",
+      "proverbios": "4.10-27"
+    },
+    {
+      "semana": 9,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Atos",
+          "capitulos": "28"
+        }
+      ],
+      "salmos": "49-54",
+      "proverbios": "5.1-14"
+    },
+    {
+      "semana": 10,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Levítico",
+          "capitulos": "27"
+        }
+      ],
+      "salmos": "55-60",
+      "proverbios": "5.15-23"
+    },
+    {
+      "semana": 11,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Apocalipse",
+          "capitulos": "22"
+        }
+      ],
+      "salmos": "61-66",
+      "proverbios": "6.1-19"
+    },
+    {
+      "semana": 12,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Números (1-25)",
+          "capitulos": "25"
+        }
+      ],
+      "salmos": "67-72",
+      "proverbios": "6.20-35"
+    },
+    {
+      "semana": 13,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Romanos",
+          "capitulos": "16"
+        },
+        {
+          "livro": "Efésios",
+          "capitulos": "6"
+        }
+      ],
+      "salmos": "73-78",
+      "proverbios": "7.1-5"
+    },
+    {
+      "semana": 14,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Números (26-36)",
+          "capitulos": "11"
+        },
+        {
+          "livro": "Neemias",
+          "capitulos": "13"
+        }
+      ],
+      "salmos": "79-84",
+      "proverbios": "7.6-27"
+    },
+    {
+      "semana": 15,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "1 Coríntios",
+          "capitulos": "16"
+        },
+        {
+          "livro": "Colossenses",
+          "capitulos": "4"
+        },
+        {
+          "livro": "Tito",
+          "capitulos": "3"
+        }
+      ],
+      "salmos": "85-90",
+      "proverbios": "8.1-21"
+    },
+    {
+      "semana": 16,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Deuteronômio (1-25)",
+          "capitulos": "25"
+        }
+      ],
+      "salmos": "91-96",
+      "proverbios": "8.22-36"
+    },
+    {
+      "semana": 17,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "2 Coríntios",
+          "capitulos": "13"
+        },
+        {
+          "livro": "1 e 2 Timóteo",
+          "capitulos": "9"
+        }
+      ],
+      "salmos": "97-102",
+      "proverbios": "9.1-6"
+    },
+    {
+      "semana": 18,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Deuteronômio (26-34)",
+          "capitulos": "9"
+        },
+        {
+          "livro": "Eclesiastes",
+          "capitulos": "12"
+        },
+        {
+          "livro": "Habacuque",
+          "capitulos": "3"
+        }
+      ],
+      "salmos": "103-108",
+      "proverbios": "9.7-18"
+    },
+    {
+      "semana": 19,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Hebreus",
+          "capitulos": "13"
+        },
+        {
+          "livro": "1 e 2 Pedro",
+          "capitulos": "8"
+        },
+        {
+          "livro": "Judas",
+          "capitulos": "1"
+        }
+      ],
+      "salmos": "109-114",
+      "proverbios": "10.1-15"
+    },
+    {
+      "semana": 20,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "1 Samuel",
+          "capitulos": "31"
+        }
+      ],
+      "salmos": "115-119.16",
+      "proverbios": "10.16-32"
+    },
+    {
+      "semana": 21,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Tiago",
+          "capitulos": "5"
+        },
+        {
+          "livro": "1 João",
+          "capitulos": "5"
+        },
+        {
+          "livro": "Filipenses",
+          "capitulos": "4"
+        },
+        {
+          "livro": "1 e 2 Tessalonicenses",
+          "capitulos": "8"
+        }
+      ],
+      "salmos": "119.17-64",
+      "proverbios": "11.1-15"
+    },
+    {
+      "semana": 22,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Josué",
+          "capitulos": "24"
+        }
+      ],
+      "salmos": "119.65-112",
+      "proverbios": "11.16-31"
+    },
+    {
+      "semana": 23,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Mateus",
+          "capitulos": "28"
+        }
+      ],
+      "salmos": "119.113-160",
+      "proverbios": "12.1-14"
+    },
+    {
+      "semana": 24,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Juízes",
+          "capitulos": "21"
+        },
+        {
+          "livro": "Sofonias",
+          "capitulos": "3"
+        }
+      ],
+      "salmos": "119.161-123",
+      "proverbios": "12.15-28"
+    },
+    {
+      "semana": 25,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Marcos",
+          "capitulos": "16"
+        },
+        {
+          "livro": "Gálatas",
+          "capitulos": "6"
+        },
+        {
+          "livro": "Filemom",
+          "capitulos": "1"
+        }
+      ],
+      "salmos": "124-129",
+      "proverbios": "13.1-12"
+    },
+    {
+      "semana": 26,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "2 Samuel",
+          "capitulos": "24"
+        }
+      ],
+      "salmos": "130-135",
+      "proverbios": "13.13-25"
+    },
+    {
+      "semana": 27,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Lucas",
+          "capitulos": "24"
+        }
+      ],
+      "salmos": "136-141",
+      "proverbios": "14.1-18"
+    },
+    {
+      "semana": 28,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "1 Reis",
+          "capitulos": "22"
+        },
+        {
+          "livro": "Rute",
+          "capitulos": "4"
+        }
+      ],
+      "salmos": "142-147",
+      "proverbios": "14.19-35"
+    },
+    {
+      "semana": 29,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "João",
+          "capitulos": "21"
+        },
+        {
+          "livro": "2 e 3 João",
+          "capitulos": "2"
+        }
+      ],
+      "salmos": "148-3",
+      "proverbios": "15.1-17"
+    },
+    {
+      "semana": 30,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "2 Reis",
+          "capitulos": "25"
+        }
+      ],
+      "salmos": "4-9",
+      "proverbios": "15.18-33"
+    },
+    {
+      "semana": 31,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Atos",
+          "capitulos": "28"
+        }
+      ],
+      "salmos": "10-15",
+      "proverbios": "16.1-16"
+    },
+    {
+      "semana": 32,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "1 Crônicas",
+          "capitulos": "29"
+        }
+      ],
+      "salmos": "16-21",
+      "proverbios": "16.17-33"
+    },
+    {
+      "semana": 33,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Apocalipse",
+          "capitulos": "22"
+        }
+      ],
+      "salmos": "22-27",
+      "proverbios": "17.1-14"
+    },
+    {
+      "semana": 34,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "2 Crônicas (1-25)",
+          "capitulos": "25"
+        }
+      ],
+      "salmos": "28-33",
+      "proverbios": "17.15-27"
+    },
+    {
+      "semana": 35,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Romanos",
+          "capitulos": "16"
+        },
+        {
+          "livro": "Efésios",
+          "capitulos": "6"
+        }
+      ],
+      "salmos": "34-39",
+      "proverbios": "18.1-12"
+    },
+    {
+      "semana": 36,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "2 Crônicas (26-36)",
+          "capitulos": "11"
+        },
+        {
+          "livro": "Esdras",
+          "capitulos": "10"
+        },
+        {
+          "livro": "Joel",
+          "capitulos": "3"
+        }
+      ],
+      "salmos": "40-45",
+      "proverbios": "18.13-24"
+    },
+    {
+      "semana": 37,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "1 Coríntios",
+          "capitulos": "16"
+        },
+        {
+          "livro": "Colossenses",
+          "capitulos": "4"
+        },
+        {
+          "livro": "Tito",
+          "capitulos": "3"
+        }
+      ],
+      "salmos": "46-51",
+      "proverbios": "19.1-15"
+    },
+    {
+      "semana": 38,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Jó (1-25)",
+          "capitulos": "25"
+        }
+      ],
+      "salmos": "52-57",
+      "proverbios": "19.16-29"
+    },
+    {
+      "semana": 39,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "2 Coríntios",
+          "capitulos": "13"
+        },
+        {
+          "livro": "1 e 2 Timóteo",
+          "capitulos": "9"
+        }
+      ],
+      "salmos": "58-63",
+      "proverbios": "20.1-15"
+    },
+    {
+      "semana": 40,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Jó (26-42)",
+          "capitulos": "17"
+        },
+        {
+          "livro": "Miquéias",
+          "capitulos": "7"
+        }
+      ],
+      "salmos": "64-69",
+      "proverbios": "20.16-30"
+    },
+    {
+      "semana": 41,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Hebreus",
+          "capitulos": "13"
+        },
+        {
+          "livro": "1 e 2 Pedro",
+          "capitulos": "8"
+        },
+        {
+          "livro": "Judas",
+          "capitulos": "1"
+        }
+      ],
+      "salmos": "70-75",
+      "proverbios": "21.1-15"
+    },
+    {
+      "semana": 42,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Isaías (1-25)",
+          "capitulos": "25"
+        }
+      ],
+      "salmos": "76-81",
+      "proverbios": "21.16-29"
+    },
+    {
+      "semana": 43,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Tiago",
+          "capitulos": "5"
+        },
+        {
+          "livro": "1 João",
+          "capitulos": "5"
+        },
+        {
+          "livro": "Filipenses",
+          "capitulos": "4"
+        },
+        {
+          "livro": "1 e 2 Tessalonicenses",
+          "capitulos": "8"
+        }
+      ],
+      "salmos": "82-87",
+      "proverbios": "22.1-16"
+    },
+    {
+      "semana": 44,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Isaías (26-50)",
+          "capitulos": "25"
+        }
+      ],
+      "salmos": "88-93",
+      "proverbios": "22.17-29"
+    },
+    {
+      "semana": 45,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Mateus",
+          "capitulos": "28"
+        }
+      ],
+      "salmos": "94-99",
+      "proverbios": "23.1-18"
+    },
+    {
+      "semana": 46,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Isaías (51-66)",
+          "capitulos": "16"
+        },
+        {
+          "livro": "Naum",
+          "capitulos": "3"
+        },
+        {
+          "livro": "Malaquias",
+          "capitulos": "4"
+        }
+      ],
+      "salmos": "100-105",
+      "proverbios": "23.19-35"
+    },
+    {
+      "semana": 47,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Marcos",
+          "capitulos": "16"
+        },
+        {
+          "livro": "Gálatas",
+          "capitulos": "6"
+        },
+        {
+          "livro": "Filemom",
+          "capitulos": "1"
+        }
+      ],
+      "salmos": "106-111",
+      "proverbios": "24.1-22"
+    },
+    {
+      "semana": 48,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Jeremias (1-26)",
+          "capitulos": "26"
+        }
+      ],
+      "salmos": "112-117",
+      "proverbios": "24.23-34"
+    },
+    {
+      "semana": 49,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Lucas",
+          "capitulos": "24"
+        }
+      ],
+      "salmos": "118-119.40",
+      "proverbios": "25.1-18"
+    },
+    {
+      "semana": 50,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Jeremias (27-52)",
+          "capitulos": "26"
+        }
+      ],
+      "salmos": "119.41-88",
+      "proverbios": "25.19-28"
+    },
+    {
+      "semana": 51,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "João",
+          "capitulos": "21"
+        },
+        {
+          "livro": "2 e 3 João",
+          "capitulos": "2"
+        }
+      ],
+      "salmos": "119.89-136",
+      "proverbios": "26.1-14"
+    },
+    {
+      "semana": 52,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Ezequiel (1-25)",
+          "capitulos": "25"
+        }
+      ],
+      "salmos": "119.137-120",
+      "proverbios": "26.15-28"
+    },
+    {
+      "semana": 53,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Atos",
+          "capitulos": "28"
+        }
+      ],
+      "salmos": "121-126",
+      "proverbios": "27.1-13"
+    },
+    {
+      "semana": 54,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Ezequiel (26-48)",
+          "capitulos": "23"
+        },
+        {
+          "livro": "Obadias",
+          "capitulos": "1"
+        }
+      ],
+      "salmos": "127-132",
+      "proverbios": "27.14-27"
+    },
+    {
+      "semana": 55,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Apocalipse",
+          "capitulos": "22"
+        }
+      ],
+      "salmos": "133-138",
+      "proverbios": "28.1-14"
+    },
+    {
+      "semana": 56,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Zacarias",
+          "capitulos": "14"
+        },
+        {
+          "livro": "Lamentações",
+          "capitulos": "5"
+        },
+        {
+          "livro": "Jonas",
+          "capitulos": "4"
+        }
+      ],
+      "salmos": "139-144",
+      "proverbios": "28.15-28"
+    },
+    {
+      "semana": 57,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Romanos",
+          "capitulos": "16"
+        },
+        {
+          "livro": "Efésios",
+          "capitulos": "6"
+        }
+      ],
+      "salmos": "145-150",
+      "proverbios": "29.1-14"
+    },
+    {
+      "semana": 58,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Daniel",
+          "capitulos": "12"
+        },
+        {
+          "livro": "Amós",
+          "capitulos": "9"
+        },
+        {
+          "livro": "Ageu",
+          "capitulos": "2"
+        }
+      ],
+      "salmos": "3-7; 13 (Oração)",
+      "proverbios": "29.15-27"
+    },
+    {
+      "semana": 59,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "1 Coríntios",
+          "capitulos": "16"
+        },
+        {
+          "livro": "Colossenses",
+          "capitulos": "4"
+        },
+        {
+          "livro": "Tito",
+          "capitulos": "3"
+        }
+      ],
+      "salmos": "27; 33; 71; 91; 121; 125 (Confiança)",
+      "proverbios": "30.1-14"
+    },
+    {
+      "semana": 60,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Oséias",
+          "capitulos": "14"
+        },
+        {
+          "livro": "Ester",
+          "capitulos": "10"
+        }
+      ],
+      "salmos": "32; 36; 51; 102; 130; 143 (Arrependimento)",
+      "proverbios": "30.15-33"
+    },
+    {
+      "semana": 61,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "2 Coríntios",
+          "capitulos": "13"
+        },
+        {
+          "livro": "1 e 2 Timóteo",
+          "capitulos": "9"
+        }
+      ],
+      "salmos": "2; 8; 58; 67; 76; 110 (Testemunho)",
+      "proverbios": "31.1-9"
+    },
+    {
+      "semana": 62,
+      "tipo": "grandes_capitulos",
+      "leituras_especiais": [
+        {
+          "livro": "Gênesis",
+          "capitulos": "1; 2; 3",
+          "tema": "Origens"
+        },
+        {
+          "livro": "Gênesis",
+          "capitulos": "22",
+          "tema": "Provação"
+        },
+        {
+          "livro": "Êxodo",
+          "capitulos": "19; 20",
+          "tema": "Mandamentos"
+        },
+        {
+          "livro": "Mateus",
+          "capitulos": "1; 2",
+          "tema": "Encarnação"
+        },
+        {
+          "livro": "1 Coríntios",
+          "capitulos": "13; 14; 15",
+          "tema": "Novidade"
+        },
+        {
+          "livro": "Mateus",
+          "capitulos": "5; 6; 7",
+          "tema": "Bem-aventuranças"
+        },
+        {
+          "livro": "João",
+          "capitulos": "14",
+          "tema": "Conforto"
+        },
+        {
+          "livro": "Lucas",
+          "capitulos": "23; 24",
+          "tema": "Crucificação/Ressurreição"
+        },
+        {
+          "livro": "Marcos",
+          "capitulos": "15; 16",
+          "tema": "Crucificação/Ressurreição"
+        },
+        {
+          "livro": "Atos",
+          "capitulos": "7",
+          "tema": "Defesa de Estêvão"
+        }
+      ],
+      "salmos": "84; 85; 93; 122; 132; 136 (Adoração)",
+      "proverbios": "31.10-31"
+    },
+    {
+      "semana": 63,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Hebreus",
+          "capitulos": "13"
+        },
+        {
+          "livro": "1 e 2 Pedro",
+          "capitulos": "8"
+        },
+        {
+          "livro": "Judas",
+          "capitulos": "1"
+        },
+        {
+          "livro": "Isaías",
+          "capitulos": "12 (Oração de Ezequias)"
+        }
+      ],
+      "salmos": "1; 15; 103; 112; 128; 133 (Santificação)",
+      "proverbios": null
+    },
+    {
+      "semana": 64,
+      "tipo": "grandes_capitulos",
+      "leituras_especiais": [
+        {
+          "livro": "2 Crônicas",
+          "capitulos": "6",
+          "tema": "Oração de Salomão"
+        },
+        {
+          "livro": "Ester",
+          "capitulos": "4",
+          "tema": "Coragem"
+        },
+        {
+          "livro": "Atos",
+          "capitulos": "1; 2",
+          "tema": "Ascensão/Pentecostes"
+        },
+        {
+          "livro": "João",
+          "capitulos": "19; 20",
+          "tema": "Crucificação/Ressurreição"
+        },
+        {
+          "livro": "Apocalipse",
+          "capitulos": "20; 21; 22",
+          "tema": "Vitória Final"
+        },
+        {
+          "livro": "Isaías",
+          "capitulos": "52; 53",
+          "tema": "Messias"
+        },
+        {
+          "livro": "João",
+          "capitulos": "17",
+          "tema": "Oração sacerdotal"
+        },
+        {
+          "livro": "Mateus",
+          "capitulos": "27; 28",
+          "tema": "Crucificação/Ressurreição"
+        },
+        {
+          "livro": "Hebreus",
+          "capitulos": "11; 12",
+          "tema": "Fidelidade"
+        },
+        {
+          "livro": "Romanos",
+          "capitulos": "3-6; 8",
+          "tema": "Justificação"
+        },
+        {
+          "livro": "Êxodo",
+          "capitulos": "15.1-18",
+          "tema": "Cântico de Moisés"
+        }
+      ],
+      "salmos": "95; 100; 111; 113; 117; 149 (Louvor)",
+      "proverbios": null
+    },
+    {
+      "semana": 65,
+      "tipo": "padrao",
+      "leituras_principais": [
+        {
+          "livro": "Tiago",
+          "capitulos": "5"
+        },
+        {
+          "livro": "1 João",
+          "capitulos": "5"
+        },
+        {
+          "livro": "Filipenses",
+          "capitulos": "4"
+        },
+        {
+          "livro": "1 e 2 Tessalonicenses",
+          "capitulos": "8"
+        },
+        {
+          "livro": "Habacuque",
+          "capitulos": "3 (Oração de Habacuque)"
+        }
+      ],
+      "salmos": "11; 23; 46; 77; 125; 126 (Conforto)",
+      "proverbios": null
+    }
+  ]
+}

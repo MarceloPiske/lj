@@ -1,0 +1,118 @@
+{
+  "oracoes_festas_maiores": {
+    "natal": [
+      {
+        "numero": 1,
+        "texto": "Ó Senhor, Pai Celestial, que através dos teus anjos disseste aos pastores nos campos que não temessem, mas se regozijassem porque Cristo, o Salvador, havia nascido, afasta, te suplicamos, todo medo e temor de nossos corações. Desperta em nós a verdadeira e perfeita alegria para que, mesmo sendo desprezados, miseráveis, pobres e abandonados aqui na Terra, possamos ser confortados e rejubilar por termos teu Filho, Cristo, nosso Senhor, como nosso Salvador, que por nós se tornou homem para nos defender da morte e do mal e nos salvar para sempre. Amém.",
+        "autor": "VEIT DIETRICH"
+      },
+      {
+        "numero": 2,
+        "texto": "Concede, nós te suplicamos, Todo-Poderoso Deus, que o nascimento de teu unigênito Filho nos liberte do antigo cativeiro do pecado. Pelo mesmo Jesus Cristo, teu Filho, nosso Senhor, que vive e reina contigo e com o Espírito Santo, um só Deus, pelos séculos sem fim. Amém.",
+        "autor": null
+      }
+    ],
+    "epifania": [
+      {
+        "numero": 1,
+        "texto": "Ó Senhor, pela luz da estrela guiaste os gentios até teu Filho Jesus Cristo, a luz do mundo. Deste-o e o revelaste como Salvador de todas as nações. Concede que nós, que conhecemos o nosso Salvador, compartilhemos sua gloriosa paz com todo o mundo. Por Jesus Cristo, teu Filho, nosso Senhor. Amém.",
+        "autor": null
+      },
+      {
+        "numero": 2,
+        "texto": "Ó Senhor, que guiaste os sábios à manjedoura pela luz de uma estrela, e permitiste que eles vissem o teu unigênito Filho, concede também a nós a graça de ver a tua glória e apresentar os nossos corações como sacrifício vivo. Por Jesus Cristo, nosso Senhor. Amém.",
+        "autor": "OTTO SCHLIESKE"
+      }
+    ],
+    "quinta_feira_santa": [
+      {
+        "numero": 1,
+        "texto": "Através do bendito Sacramento do Altar, ó Cristo, aprofunda em mim a alegria de tua salvação, aumenta minha comunhão com o teu Evangelho, fortifica o testemunho de tua Igreja e conforta-me com o regozijo do teu perdão. Amém.",
+        "autor": null
+      },
+      {
+        "numero": 2,
+        "texto": "Ó Senhor Deus, que no maravilhoso Sacramento deixaste para nós um memorial de tua paixão e morte, suplicamos-te que usemos este Sacramento de teu corpo e sangue de tal maneira que os frutos de tua redenção sejam manifestos continuamente em nós; tu, que vives e reinas com o Pai e o Espírito Santo, um só Deus, pelos séculos sem fim. Amém.",
+        "autor": null
+      }
+    ],
+    "sexta_feira_santa": [
+      {
+        "numero": 1,
+        "texto": "Senhor Deus, Pai Celestial, que por tua misericórdia paternal não poupaste o teu unigênito Filho, mas o deste para a morte na cruz, suplicamos-te que envies o teu Espírito Santo aos nossos corações para que sejamos verdadeiramente confortados por esta graça, estejamos vigilantes contra o pecado e suportemos pacientemente o que quer que tu nos imponhas de sofrimento, para que, através de Cristo, possamos viver para sempre contigo. Amém.",
+        "autor": null
+      },
+      {
+        "numero": 2,
+        "texto": "Senhor Deus, enviaste o teu Filho para morrer. A cruz era o seu objetivo; os pregos, a sede, os espinhos, a lança, falam do teu amor por toda a criação. Neste dia tão solene, faze com que eu me arrependa de tal forma dos meus pecados que a minha vida reflita aos outros a grandeza do amor de Jesus Cristo, meu Salvador, em cujo santo nome eu oro. Amém.",
+        "autor": null
+      }
+    ],
+    "pascoa": [
+      {
+        "numero": 1,
+        "texto": "Cristo ressuscitou. Aleluia! Ele verdadeiramente ressuscitou! Amém! Todo louvor e honra e glória e poder e domínio sejam teus agora e para sempre, ó Príncipe da Paz, Senhor da Vida. Ouve a jubilosa gratidão dos teus remidos neste dia, pois tu arrancaste a vida da morte para todos aqueles que amam o teu nome. Ouve, ó Cristo, nossas orações de louvor. Amém.",
+        "autor": null
+      },
+      {
+        "numero": 2,
+        "texto": "Concede, suplicamos-te, Todo-Poderoso Deus, que nós, que celebramos tua festa pascal inflamados com desejo celestial, tenhamos sede pela Fonte da Vida, Jesus Cristo, teu Filho, nosso Senhor, que vive e reina contigo e com o Espírito Santo, um só Deus, pelos séculos sem fim. Amém.",
+        "autor": null
+      }
+    ],
+    "ascensao": [
+      {
+        "numero": 1,
+        "texto": "Senhor Jesus, és minha Vida e minha Salvação. Tomaste cativo o cativeiro e libertaste os cativos. Subiste ao alto para governar o universo, a Igreja e os mais altos céus. Guarda-nos eternamente fiéis e mantém-nos vigilantes para estarmos preparados para a tua vinda no final dos tempos. Vem, Senhor Jesus! Amém.",
+        "autor": null
+      },
+      {
+        "numero": 2,
+        "texto": "Ó Rei da Glória, Senhor dos Exércitos, que neste dia subiste em triunfo para os céus, suplicamos-te que não nos deixes sem amparo, mas envia-nos o teu Espírito da Verdade prometido pelo Pai, ó tu, que vives com o Pai e o Espírito Santo e reinas eternamente. Amém.",
+        "autor": null
+      }
+    ],
+    "pentecostes": [
+      {
+        "numero": 1,
+        "texto": "Ó Deus, instruíste os corações do teu povo fiel, enviando-lhes a luz do teu Espírito Santo. Concede-nos agora, pelo teu Espírito, um discernimento correto de todas as coisas, e que sempre nos regozijemos em seu conforto. Por Jesus Cristo, teu Filho, nosso Senhor, que vive e reina contigo e com o Espírito Santo, um só Deus eternamente. Amém.",
+        "autor": null
+      },
+      {
+        "numero": 2,
+        "texto": "Santo Espírito, enche os nossos corações neste dia para que nos regozijemos com a dádiva da tua Igreja. Faze com que sejamos membros fiéis de tua família em Cristo. Habilita nossas congregações a testemunhar, construir, defender, compartilhar e servir em teu Reino. Oramos em nome de Jesus Cristo, nosso Senhor e Salvador. Amém.",
+        "autor": null
+      },
+      {
+        "numero": 3,
+        "texto": "Santo, santo, santo é o Senhor dos Exércitos; nele e por meio dele e para ele são todas as coisas! Glorifico teu santo nome, ó Divina Trindade. Dobro os meus joelhos diante de ti, o único Deus, o único Senhor dos Céus e da Terra e do mar e do firmamento, do tempo e da eternidade, deste mundo e do mundo que há de vir. Aceita minha oração de louvor, ó bendita Trindade. Amém.",
+        "autor": null
+      },
+      {
+        "numero": 4,
+        "texto": "Bendita seja a Santíssima Trindade e a indivisível Unidade. Glorifico o teu nome, ó Senhor, pois tem sido muito misericordioso para comigo. Louvo o Pai e o Filho e o Espírito Santo. Ouve, ó Israel, o Senhor, nosso Deus, é o único Senhor! Louvor seja a ele nas maiores alturas. Amém.",
+        "autor": "GEORGE KRAUS"
+      }
+    ]
+  },
+  "afirmacoes": [
+    {
+      "id": "afirmacao_ministerio",
+      "titulo": "AFIRMAÇÃO DO MINISTÉRIO",
+      "autor": "GEORGE KRAUS",
+      "texto": "Afirmo meu ministério em Cristo,\nchamado para ser seu filho,\nseu servo,\num portador da Palavra.\n\nAfirmo meu ministério nele.\nO ministério é servir, é compartilhar;\nnão é para ser servido,\npara ser honrado,\npara agradar aos outros.\nNão procura suas próprias prioridades,\nmas a premente necessidade dos outros.\n\nO ministério afirma a vitória da Ressurreição.\nÉ a consciência da morte derrotada.\nÉ a proclamação do triunfo de Cristo.\nEle espalha a semente da Vida Eterna\nnum mundo que está morrendo, em decadência.\n\nO ministério traz cura para feridas inflamadas.\nNão foge do quebrantado.\nO ministério une e afaga.\nNão abandona o abandonado.\nO ministério abraça com compaixão.\nNão deixa de lado os desprezados.\nO ministério enriquece com aceitação.\nO ministério constrói onde outros destroem.\nO ministério levanta onde outros derrubam.\nO ministério encontra valor onde outros só veem prejuízo.\nO ministério conhece esperança onde outros sentem desespero.\n\nO ministério é Cristo, o Senhor,\nnão homem, mas o Filho;\nnão exigência, mas a graça;\nnão poder, mas o Espírito;\nnão intelecto, mas a Palavra.\n\nSirvo no seu ministério, não por causa do talento,\nmas por graça do alto.\nRejubilo no sofrimento, não como mártir,\nmas como digno de sua confiança.\nDou graças com todo meu ser e afirmo meus dias\ne minhas horas no seu Reino.\n\nAfirmo o Senhor que reina,\no Senhor que vem,\no Senhor que julga,\no Senhor que renova,\no Senhor de toda a história\ne de todo o tempo,\npor toda a eternidade."
+    },
+    {
+      "id": "afirmacao_significado",
+      "titulo": "AFIRMAÇÃO DE SIGNIFICADO",
+      "autor": "GEORGE KRAUS",
+      "texto": "Afirmamos o significado da vida!\nConfirmamos seus objetivos, sua origem, seu propósito:\npela mão do Criador, ela veio a existir;\npelas feridas do Cristo foi sarada sua enfermidade;\npelo sopro do Espírito foi renascida.\n\nViver significa ser!\nViver significa ter fé.\nViver significa ter esperança.\nViver significa amar e ser amado.\nViver significa ser aberto e confiante.\n\nO viver muitas vezes é negado.\nViver não ajunta para si, mas compartilha.\nViver é morrer para si mesmo.\nViver é renascer em Jesus, o Senhor.\n\nViver procura unidade, integridade no homem.\nViver se recusa a ser várias pessoas, mas uma só,\ncomo Deus é um só.\n\nCristo é o início e o fim de toda a vida.\nTodo o universo será reunido nele.\n\nVida significa que, agora, não é o melhor; o melhor ainda há de vir.\nE somente aquele que conhece a vida que há de vir vive agora.\n\nViver é ver a mão de Deus em cada hora, cada acontecimento –\ntrabalho, indústria, lazer;\nmúsica, carros, escola –\nviver é servir, dar, amar a ele e a sua criação.\n\nViver, então, é ser Cristo para o outro,\nViver é estar diante dele no final dos tempos,\ne saber que é então que a vida apenas começa."
+    },
+    {
+      "id": "afirmacao_comunhao",
+      "titulo": "AFIRMAÇÃO DE COMUNHÃO",
+      "autor": "GEORGE KRAUS",
+      "texto": "Afirmamos nossa comunhão em Jesus Cristo,\nmembros da família do Pai,\naceitos os que eram inaceitáveis,\ntrocando morte por vida.\n\nNós, o novo povo de Deus, afirmamos nossa comunhão em união;\nnão em oposição ao nosso semelhante,\nmas em afinidade com ele;\nnão com medo de suas atitudes,\nmas com sincera preocupação por ele;\nnão em solidão e isolamento,\nmas envolvidos com o outro.\n\nAfirmamos nossa necessidade, nossa vontade de compartilhar\nesta comunhão, aqui e agora,\ncom aquele que confessa Cristo como Senhor;\ncom o fraco, que só pode pedir por nossa força;\ncom o desesperado, que não tem esperança;\ncom o pobre, que precisa compartilhar nossas riquezas;\ncom o rico, que precisa compartilhar nossa pobreza;\ncom o que odeia, que precisa sentir nosso amor que cura;\nsim, com o idealista, o revolucionário, o liberal, o conservador;\ncom o católico, judeu, protestante, budista, muçulmano, ateu,\ncomunista;\ncom você, meu irmão, minha irmã, que está ao meu lado.\n\nAfirmamos nosso desejo de compartilhar nossa comunhão.\nPor Jesus Cristo:\nSomos a luz do mundo,\neles conseguem ver o Caminho?\nSomos o sal da terra,\ntemperamos suas vidas?\nSomos a gloriosa comunhão,\nestarão os solitários conosco?\nTemos a Vida Eterna,\nainda há homens que morrem?\n\nAfirmamos, vivemos a comunhão; esta é a vontade de Deus!\nÉ\na sementeira do amor,\no tesouro do perdão,\no banquete da renovação,\no concerto da esperança.\n\nEm Cristo, somos um!"
+    }
+  ]
+}

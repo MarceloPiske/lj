@@ -1,0 +1,849 @@
+{
+  "plano_concordia_65_semanas": [
+    {
+      "semana": 1,
+      "livro_atual": "A Confissão de Augsburgo",
+      "titulo_semana": "Prefácio - XX",
+      "dias": {
+        "segunda": "Prefácio, 1 - 24",
+        "terca": "I, 1 - IV, 3",
+        "quarta": "V, 1 - XII, 10",
+        "quinta": "XIII, 1 - XVII, 5",
+        "sexta": "XVIII, 1 - XX, 11",
+        "sabado": "XX, 12 - 39(40)"
+      }
+    },
+    {
+      "semana": 2,
+      "livro_atual": "A Confissão de Augsburgo",
+      "titulo_semana": "XXI - XXVI",
+      "dias": {
+        "segunda": "XXI, 1 - XXII, 12",
+        "terca": "XXIII, 1 - 26",
+        "quarta": "XXIV, 1 - 41",
+        "quinta": "XXV, 1 - 13",
+        "sexta": "XXVI, 1 - 20",
+        "sabado": "XXVI, 21 - 45"
+      }
+    },
+    {
+      "semana": 3,
+      "livro_atual": "A Confissão de Augsburgo",
+      "titulo_semana": "XXVII - Conclusão",
+      "dias": {
+        "segunda": "XXVII, 1 - 26",
+        "terca": "XXVII, 27 - 48",
+        "quarta": "XXVII, 49 - XXVIII, 11",
+        "quinta": "XXVIII, 12 - 38",
+        "sexta": "XXVIII, 39 - 60",
+        "sabado": "XXVIII, 61 - Conclusão, 7"
+      }
+    },
+    {
+      "semana": 4,
+      "livro_atual": "Apologia da Confissão de Augsburgo",
+      "titulo_semana": "Prefácio - IV, 18",
+      "dias": {
+        "segunda": "Prefácio, 1 - 19",
+        "terca": "I, 1 - II, 8",
+        "quarta": "II, 9 - 26",
+        "quinta": "II, 27 - 41",
+        "sexta": "II, 42 - III, 1",
+        "sabado": "IV, 1 - 18"
+      }
+    },
+    {
+      "semana": 5,
+      "livro_atual": "Apologia da Confissão de Augsburgo",
+      "titulo_semana": "IV, 19 - 121",
+      "dias": {
+        "segunda": "IV, 19 - 35",
+        "terca": "IV, 36 - 47",
+        "quarta": "IV, 48 - 68",
+        "quinta": "IV, 69 - 83",
+        "sexta": "IV, 84 - 102",
+        "sabado": "IV, 103 - 121"
+      }
+    },
+    {
+      "semana": 6,
+      "livro_atual": "Apologia da Confissão de Augsburgo",
+      "titulo_semana": "IV, 122 - 208",
+      "dias": {
+        "segunda": "IV, 122 - 135",
+        "terca": "IV, 136 - 151",
+        "quarta": "IV, 152 - 165",
+        "quinta": "IV, 166 - 179",
+        "sexta": "IV, 180 - 194",
+        "sabado": "IV, 195 - 208"
+      }
+    },
+    {
+      "semana": 7,
+      "livro_atual": "Apologia da Confissão de Augsburgo",
+      "titulo_semana": "IV, 209 - 269",
+      "dias": {
+        "segunda": "IV, 209 - 221",
+        "terca": "IV, 222 - 232",
+        "quarta": "IV, 233 - 243",
+        "quinta": "IV, 244 - 255",
+        "sexta": "IV, 256 - 262",
+        "sabado": "IV, 263 - 269"
+      }
+    },
+    {
+      "semana": 8,
+      "livro_atual": "Apologia da Confissão de Augsburgo",
+      "titulo_semana": "IV, 270 - 343",
+      "dias": {
+        "segunda": "IV, 270 - 280",
+        "terca": "IV, 281 - 290",
+        "quarta": "IV, 291 - 302",
+        "quinta": "IV, 303 - 315",
+        "sexta": "IV, 316 - 328",
+        "sabado": "IV, 329 - 343"
+      }
+    },
+    {
+      "semana": 9,
+      "livro_atual": "Apologia da Confissão de Augsburgo",
+      "titulo_semana": "IV, 344 - VII/VIII, 24",
+      "dias": {
+        "segunda": "IV, 344 - 358",
+        "terca": "IV, 359 - 374",
+        "quarta": "IV, 375 - 389",
+        "quinta": "IV, 390 - 400",
+        "sexta": "VII/VIII, 1 - 15",
+        "sabado": "VII/VIII, 16 - 24"
+      }
+    },
+    {
+      "semana": 10,
+      "livro_atual": "Apologia da Confissão de Augsburgo",
+      "titulo_semana": "VII/VIII, 25 - XII, 27",
+      "dias": {
+        "segunda": "VII/VIII, 25 - 32",
+        "terca": "VII/VIII, 33 - 42",
+        "quarta": "VII/VIII, 43 - IX, 3",
+        "quinta": "X, 1 - XI, 5",
+        "sexta": "XI, 6 - XII, 7",
+        "sabado": "XII, 8 - 27"
+      }
+    },
+    {
+      "semana": 11,
+      "livro_atual": "Apologia da Confissão de Augsburgo",
+      "titulo_semana": "XII, 28 - 106",
+      "dias": {
+        "segunda": "XII, 28 - 45",
+        "terca": "XII, 46 - 58",
+        "quarta": "XII, 59 - 67",
+        "quinta": "XII, 68 - 78",
+        "sexta": "XII, 79 - 90",
+        "sabado": "XII, 91 - 106"
+      }
+    },
+    {
+      "semana": 12,
+      "livro_atual": "Apologia da Confissão de Augsburgo",
+      "titulo_semana": "XII, 107 - 178",
+      "dias": {
+        "segunda": "XII, 107 - 121",
+        "terca": "XII, 122 - 132",
+        "quarta": "XII, 133 - 142",
+        "quinta": "XII, 143 - 154",
+        "sexta": "XII, 155 - 168",
+        "sabado": "XII, 169 - 178"
+      }
+    },
+    {
+      "semana": 13,
+      "livro_atual": "Apologia da Confissão de Augsburgo",
+      "titulo_semana": "XIII - XVI, 8",
+      "dias": {
+        "segunda": "XIII, 1 - 15",
+        "terca": "XIII, 16 - XIV, 5",
+        "quarta": "XV, 1 - 17",
+        "quinta": "XV, 18 - 28",
+        "sexta": "XV, 29 - 48",
+        "sabado": "XV, 49 - XVI, 8"
+      }
+    },
+    {
+      "semana": 14,
+      "livro_atual": "Apologia da Confissão de Augsburgo",
+      "titulo_semana": "XVI, 9 - XXII, 8",
+      "dias": {
+        "segunda": "XVI, 9 - XVIII, 10",
+        "terca": "XIX, 1 - XX, 15",
+        "quarta": "XXI, 1 - 16",
+        "quinta": "XXI, 17 - 30",
+        "sexta": "XXI, 31 - 39",
+        "sabado": "XXI, 40 - XXII, 8"
+      }
+    },
+    {
+      "semana": 15,
+      "livro_atual": "Apologia da Confissão de Augsburgo",
+      "titulo_semana": "XXII, 9 - XXIII, 71",
+      "dias": {
+        "segunda": "XXII, 9 - XXIII, 4",
+        "terca": "XXIII, 5 - 13",
+        "quarta": "XXIII, 14 - 27",
+        "quinta": "XXIII, 28 - 42",
+        "sexta": "XXIII, 43 - 58",
+        "sabado": "XXIII, 59 - 71"
+      }
+    },
+    {
+      "semana": 16,
+      "livro_atual": "Apologia da Confissão de Augsburgo",
+      "titulo_semana": "XXIV, 1 - 70",
+      "dias": {
+        "segunda": "XXIV, 1 - 12",
+        "terca": "XXIV, 13 - 24",
+        "quarta": "XXIV, 25 - 32",
+        "quinta": "XXIV, 33 - 43",
+        "sexta": "XXIV, 44 - 57",
+        "sabado": "XXIV, 58 - 70"
+      }
+    },
+    {
+      "semana": 17,
+      "livro_atual": "Apologia da Confissão de Augsburgo",
+      "titulo_semana": "XXIV, 71 - XXVII, 33",
+      "dias": {
+        "segunda": "XXIV, 71 - 83",
+        "terca": "XXIV, 84 - 92",
+        "quarta": "XXIV, 93 - 99",
+        "quinta": "XXVII, 1 - 12",
+        "sexta": "XXVII, 13 - 23",
+        "sabado": "XXVII, 24 - 33"
+      }
+    },
+    {
+      "semana": 18,
+      "livro_atual": "Apologia da Confissão de Augsburgo / Artigos de Esmalcalde",
+      "titulo_semana": "XXVII, 34 - Artigos de Esmalcalde, Prefácio",
+      "dias": {
+        "segunda": "XXVII, 34 - 44",
+        "terca": "XXVII, 45 - 57",
+        "quarta": "XXVII, 58 - 70",
+        "quinta": "XXVIII, 1 - 11",
+        "sexta": "XXVIII, 12 - 27",
+        "sabado": "Os Artigos de Esmalcalde: Prefácio, 1 - 15"
+      }
+    },
+    {
+      "semana": 19,
+      "livro_atual": "Os Artigos de Esmalcalde",
+      "titulo_semana": "Primeira Parte - Terceira Parte, III, 14",
+      "dias": {
+        "segunda": "Primeira Parte - Segunda Parte, Primeiro Artigo, 5",
+        "terca": "Segundo Artigo, 1 - 15",
+        "quarta": "Segundo Artigo, 16 - Terceiro Artigo, 2",
+        "quinta": "Quarto Artigo, 1 - 16",
+        "sexta": "Terceira Parte, I - II, 5",
+        "sabado": "Terceira Parte, III, 1 - 14"
+      }
+    },
+    {
+      "semana": 20,
+      "livro_atual": "Os Artigos de Esmalcalde / Tratado",
+      "titulo_semana": "III, 15 - Tratado sobre o poder e o primado do Papa, 12",
+      "dias": {
+        "segunda": "III, 15 - 26",
+        "terca": "III, 27 - 40",
+        "quarta": "III, 41 - VI, 5",
+        "quinta": "VII, 1 - VIII, 13",
+        "sexta": "IX - XV, 5",
+        "sabado": "Tratado sobre o poder e o primado do Papa, 1 - 12"
+      }
+    },
+    {
+      "semana": 21,
+      "livro_atual": "Tratado sobre o poder e o primado do Papa / Catecismo Menor",
+      "titulo_semana": "Tratado, 13 - Catecismo Menor, Prefácio",
+      "dias": {
+        "segunda": "Tratado, 13 - 24",
+        "terca": "Tratado, 25 - 38",
+        "quarta": "Tratado, 39 - 53",
+        "quinta": "Tratado, 54 - 71",
+        "sexta": "Tratado, 72 - 82",
+        "sabado": "Catecismo Menor: Prefácio, 1 - 27"
+      }
+    },
+    {
+      "semana": 22,
+      "livro_atual": "Catecismo Menor / Catecismo Maior",
+      "titulo_semana": "I - Catecismo Maior, Terceiro, 28",
+      "dias": {
+        "segunda": "Catecismo Menor: I, 1 - II, 6",
+        "terca": "Catecismo Menor: III, 1 - V, 29",
+        "quarta": "Catecismo Menor: VI, 1 - VII, 15",
+        "quinta": "Catecismo Maior: Prefácio de Lutero, 1 - 10",
+        "sexta": "Catecismo Maior: Prefácio de Lutero, 11 - Prefácio, 6",
+        "sabado": "Catecismo Maior: Primeiro, 1 - Terceiro, 28"
+      }
+    },
+    {
+      "semana": 23,
+      "livro_atual": "Catecismo Maior",
+      "titulo_semana": "Primeira Parte, Dos Mandamentos, 1 - 87",
+      "dias": {
+        "segunda": "Dos Mandamentos, 1 - 15",
+        "terca": "Dos Mandamentos, 16 - 29",
+        "quarta": "Dos Mandamentos, 30 - 48",
+        "quinta": "Dos Mandamentos, 49 - 60",
+        "sexta": "Dos Mandamentos, 61 - 74",
+        "sabado": "Dos Mandamentos, 75 - 87"
+      }
+    },
+    {
+      "semana": 24,
+      "livro_atual": "Catecismo Maior",
+      "titulo_semana": "Dos Mandamentos, 88 - 182",
+      "dias": {
+        "segunda": "Dos Mandamentos, 88 - 102",
+        "terca": "Dos Mandamentos, 103 - 116",
+        "quarta": "Dos Mandamentos, 117 - 133",
+        "quinta": "Dos Mandamentos, 134 - 148",
+        "sexta": "Dos Mandamentos, 149 - 165",
+        "sabado": "Dos Mandamentos, 166 - 182"
+      }
+    },
+    {
+      "semana": 25,
+      "livro_atual": "Catecismo Maior",
+      "titulo_semana": "Dos Mandamentos, 183 - 278",
+      "dias": {
+        "segunda": "Dos Mandamentos, 183 - 198",
+        "terca": "Dos Mandamentos, 199 - 216",
+        "quarta": "Dos Mandamentos, 217 - 231",
+        "quinta": "Dos Mandamentos, 232 - 247",
+        "sexta": "Dos Mandamentos, 248 - 264",
+        "sabado": "Dos Mandamentos, 265 - 278"
+      }
+    },
+    {
+      "semana": 26,
+      "livro_atual": "Catecismo Maior",
+      "titulo_semana": "Dos Mandamentos, 279 - Segunda Parte, Do Credo, 37",
+      "dias": {
+        "segunda": "Dos Mandamentos, 279 - 296",
+        "terca": "Dos Mandamentos, 297 - 310",
+        "quarta": "Dos Mandamentos, 311 - 323",
+        "quinta": "Dos Mandamentos, 324 - Do Credo, 8",
+        "sexta": "Do Credo, 9 - 24",
+        "sabado": "Do Credo, 25 - 37"
+      }
+    },
+    {
+      "semana": 27,
+      "livro_atual": "Catecismo Maior",
+      "titulo_semana": "Do Credo, 38 - Terceira Parte, O Pai-Nosso, 67",
+      "dias": {
+        "segunda": "Do Credo, 38 - 54",
+        "terca": "Do Credo, 55 - 70",
+        "quarta": "O Pai-Nosso, 1 - 16",
+        "quinta": "O Pai-Nosso, 17 - 34",
+        "sexta": "O Pai-Nosso, 35 - 52",
+        "sabado": "O Pai-Nosso, 53 - 67"
+      }
+    },
+    {
+      "semana": 28,
+      "livro_atual": "Catecismo Maior",
+      "titulo_semana": "O Pai-Nosso, 68 - Quarta Parte, Do Batismo, 51",
+      "dias": {
+        "segunda": "O Pai-Nosso, 68 - 81",
+        "terca": "O Pai-Nosso, 82 - 98",
+        "quarta": "O Pai-Nosso, 99 - 124",
+        "quinta": "Do Batismo, 1 - 18",
+        "sexta": "Do Batismo, 19 - 34",
+        "sabado": "Do Batismo, 35 - 51"
+      }
+    },
+    {
+      "semana": 29,
+      "livro_atual": "Catecismo Maior",
+      "titulo_semana": "Do Batismo, 52 - Do Sacramento do Altar, 86",
+      "dias": {
+        "segunda": "Do Batismo, 52 - 70",
+        "terca": "Do Batismo, 71 - Do Sacramento do Altar, 7",
+        "quarta": "Do Sacramento do Altar, 8 - 30",
+        "quinta": "Do Sacramento do Altar, 31 - 48",
+        "sexta": "Do Sacramento do Altar, 49 - 74",
+        "sabado": "Do Sacramento do Altar, 75 - 86"
+      }
+    },
+    {
+      "semana": 30,
+      "livro_atual": "Catecismo Maior / Fórmula de Concórdia (Epítome)",
+      "titulo_semana": "Uma breve exortação para confessar - Fórmula de Concórdia, Epítome, III, 11",
+      "dias": {
+        "segunda": "Uma breve exortação para confessar, 1 - 17",
+        "terca": "Uma breve exortação para confessar, 18 - 35",
+        "quarta": "Fórmula de Concórdia, Epítome: Da Suma, 1 - I, 10",
+        "quinta": "Epítome: I, 11 - 25",
+        "sexta": "Epítome: II, 1 - 15",
+        "sabado": "Epítome: II, 16 - III, 11"
+      }
+    },
+    {
+      "semana": 31,
+      "livro_atual": "Fórmula de Concórdia (Epítome)",
+      "titulo_semana": "III, 12 - VIII, 15",
+      "dias": {
+        "segunda": "III, 12 - IV, 15",
+        "terca": "IV, 16 - V, 11",
+        "quarta": "VI, 1 - VII, 5",
+        "quinta": "VII, 6 - 20",
+        "sexta": "VII, 21 - 42",
+        "sabado": "VIII, 1 - 15"
+      }
+    },
+    {
+      "semana": 32,
+      "livro_atual": "Fórmula de Concórdia (Epítome)",
+      "titulo_semana": "VIII, 16 - XII, 31",
+      "dias": {
+        "segunda": "VIII, 16 - 32",
+        "terca": "VIII, 33 - X, 2",
+        "quarta": "X, 3 - XI, 3",
+        "quinta": "XI, 4 - 15",
+        "sexta": "XI, 16 - XII, 11",
+        "sabado": "XII, 12 - 31"
+      }
+    },
+    {
+      "semana": 33,
+      "livro_atual": "Fórmula de Concórdia (Declaração Sólida)",
+      "titulo_semana": "Declaração Sólida - I, 29",
+      "dias": {
+        "segunda": "Declaração Sólida, 1 - 10",
+        "terca": "Da Suma, 1 - 7",
+        "quarta": "Da Suma, 8 - 16",
+        "quinta": "Da Suma, 17 - I, 4",
+        "sexta": "I, 5 - 14",
+        "sabado": "I, 15 - 29"
+      }
+    },
+    {
+      "semana": 34,
+      "livro_atual": "Fórmula de Concórdia (Declaração Sólida)",
+      "titulo_semana": "I, 30 - II, 28",
+      "dias": {
+        "segunda": "I, 30 - 42",
+        "terca": "I, 43 - 54",
+        "quarta": "I, 55 - II, 2",
+        "quinta": "II, 3 - 11",
+        "sexta": "II, 12 - 19",
+        "sabado": "II, 20 - 28"
+      }
+    },
+    {
+      "semana": 35,
+      "livro_atual": "Fórmula de Concórdia (Declaração Sólida)",
+      "titulo_semana": "II, 29 - 90",
+      "dias": {
+        "segunda": "II, 29 - 42",
+        "terca": "II, 43 - 51",
+        "quarta": "II, 52 - 60",
+        "quinta": "II, 61 - 70",
+        "sexta": "II, 71 - 81",
+        "sabado": "II, 82 - 90"
+      }
+    },
+    {
+      "semana": 36,
+      "livro_atual": "Fórmula de Concórdia (Declaração Sólida)",
+      "titulo_semana": "III - IV, 12",
+      "dias": {
+        "segunda": "III, 1 - 16",
+        "terca": "III, 17 - 29",
+        "quarta": "III, 30 - 41",
+        "quinta": "III, 42 - 54",
+        "sexta": "III, 55 - 65",
+        "sabado": "IV, 1 - 12"
+      }
+    },
+    {
+      "semana": 37,
+      "livro_atual": "Fórmula de Concórdia (Declaração Sólida)",
+      "titulo_semana": "IV, 13 - VI, 14",
+      "dias": {
+        "segunda": "IV, 13 - 28",
+        "terca": "IV, 29 - 40",
+        "quarta": "V, 1 - 10",
+        "quinta": "V, 11 - 21",
+        "sexta": "V, 22 - 27",
+        "sabado": "VI, 1 - 14"
+      }
+    },
+    {
+      "semana": 38,
+      "livro_atual": "Fórmula de Concórdia (Declaração Sólida)",
+      "titulo_semana": "VI, 15 - VII, 58",
+      "dias": {
+        "segunda": "VI, 15 - 25",
+        "terca": "VII, 1 - 8",
+        "quarta": "VII, 9 - 19",
+        "quinta": "VII, 20 - 32",
+        "sexta": "VII, 33 - 44",
+        "sabado": "VII, 45 - 58"
+      }
+    },
+    {
+      "semana": 39,
+      "livro_atual": "Fórmula de Concórdia (Declaração Sólida)",
+      "titulo_semana": "VII, 59 - VIII, 6",
+      "dias": {
+        "segunda": "VII, 59 - 67",
+        "terca": "VII, 68 - 78",
+        "quarta": "VII, 79 - 91",
+        "quinta": "VII, 92 - 105",
+        "sexta": "VII, 106 - 119",
+        "sabado": "VII, 120 - VIII, 6"
+      }
+    },
+    {
+      "semana": 40,
+      "livro_atual": "Fórmula de Concórdia (Declaração Sólida)",
+      "titulo_semana": "VIII, 7 - 75",
+      "dias": {
+        "segunda": "VIII, 7 - 19",
+        "terca": "VIII, 20 - 29",
+        "quarta": "VIII, 30 - 43",
+        "quinta": "VIII, 44 - 53",
+        "sexta": "VIII, 54 - 63",
+        "sabado": "VIII, 64 - 75"
+      }
+    },
+    {
+      "semana": 41,
+      "livro_atual": "Fórmula de Concórdia (Declaração Sólida)",
+      "titulo_semana": "VIII, 76 - XI, 23",
+      "dias": {
+        "segunda": "VIII, 76 - 86",
+        "terca": "VIII, 87 - IX, 3",
+        "quarta": "X, 1 - 13",
+        "quinta": "X, 14 - 25",
+        "sexta": "X, 26 - XI, 8",
+        "sabado": "XI, 9 - 23"
+      }
+    },
+    {
+      "semana": 42,
+      "livro_atual": "Fórmula de Concórdia (Declaração Sólida)",
+      "titulo_semana": "XI, 24 - XII, 4",
+      "dias": {
+        "segunda": "XI, 24 - 33",
+        "terca": "XI, 34 - 47",
+        "quarta": "XI, 48 - 64",
+        "quinta": "XI, 65 - 77",
+        "sexta": "XI, 78 - 86",
+        "sabado": "XI, 87 - XII, 4"
+      }
+    },
+    {
+      "semana": 43,
+      "livro_atual": "Fórmula de Concórdia / A Confissão de Augsburgo",
+      "titulo_semana": "XII, 5 - A Confissão de Augsburgo XVII, 5",
+      "dias": {
+        "segunda": "XII, 5 - 27",
+        "terca": "XII, 28 - 40",
+        "quarta": "A Confissão de Augsburgo: Prefácio, 1 - 24",
+        "quinta": "I, 1 - IV, 3",
+        "sexta": "V, 1 - XII, 10",
+        "sabado": "XIII, 1 - XVII, 5"
+      }
+    },
+    {
+      "semana": 44,
+      "livro_atual": "A Confissão de Augsburgo",
+      "titulo_semana": "XVIII - XXVI, 20",
+      "dias": {
+        "segunda": "XVIII, 1 - XX, 11",
+        "terca": "XX, 12 - 39",
+        "quarta": "XXI, 1 - XXII, 12",
+        "quinta": "XXIII, 1 - 26",
+        "sexta": "XXIV, 1 - 41",
+        "sabado": "XXV, 1 - XXVI, 20"
+      }
+    },
+    {
+      "semana": 45,
+      "livro_atual": "A Confissão de Augsburgo",
+      "titulo_semana": "XXVI, 21 - XXVIII, 60",
+      "dias": {
+        "segunda": "XXVI, 21 - 45",
+        "terca": "XXVII, 1 - 26",
+        "quarta": "XXVII, 27 - 48",
+        "quinta": "XXVII, 49 - XXVIII, 11",
+        "sexta": "XXVIII, 12 - 38",
+        "sabado": "XXVIII, 39 - 60"
+      }
+    },
+    {
+      "semana": 46,
+      "livro_atual": "A Confissão de Augsburgo / Apologia",
+      "titulo_semana": "XXVIII, 61 - Apologia IV, 83",
+      "dias": {
+        "segunda": "XXVIII, 61 - Conclusão, 7",
+        "terca": "Apologia: IV, 1 - 18",
+        "quarta": "IV, 19 - 35",
+        "quinta": "IV, 36 - 47",
+        "sexta": "IV, 48 - 68",
+        "sabado": "IV, 69 - 83"
+      }
+    },
+    {
+      "semana": 47,
+      "livro_atual": "Apologia da Confissão de Augsburgo",
+      "titulo_semana": "IV, 84 - 179",
+      "dias": {
+        "segunda": "IV, 84 - 102",
+        "terca": "IV, 103 - 121",
+        "quarta": "IV, 122 - 135",
+        "quinta": "IV, 136 - 151",
+        "sexta": "IV, 152 - 165",
+        "sabado": "IV, 166 - 179"
+      }
+    },
+    {
+      "semana": 48,
+      "livro_atual": "Apologia da Confissão de Augsburgo",
+      "titulo_semana": "IV, 180 - 255",
+      "dias": {
+        "segunda": "IV, 180 - 194",
+        "terca": "IV, 195 - 208",
+        "quarta": "IV, 209 - 221",
+        "quinta": "IV, 222 - 232",
+        "sexta": "IV, 233 - 243",
+        "sabado": "IV, 244 - 255"
+      }
+    },
+    {
+      "semana": 49,
+      "livro_atual": "Apologia da Confissão de Augsburgo",
+      "titulo_semana": "IV, 256 - 315",
+      "dias": {
+        "segunda": "IV, 256 - 262",
+        "terca": "IV, 263 - 269",
+        "quarta": "IV, 270 - 280",
+        "quinta": "IV, 281 - 290",
+        "sexta": "IV, 291 - 302",
+        "sabado": "IV, 303 - 315"
+      }
+    },
+    {
+      "semana": 50,
+      "livro_atual": "Apologia da Confissão de Augsburgo",
+      "titulo_semana": "IV, 316 - 400",
+      "dias": {
+        "segunda": "IV, 316 - 328",
+        "terca": "IV, 329 - 343",
+        "quarta": "IV, 344 - 358",
+        "quinta": "IV, 359 - 374",
+        "sexta": "IV, 375 - 389",
+        "sabado": "IV, 390 - 400"
+      }
+    },
+    {
+      "semana": 51,
+      "livro_atual": "Os Artigos de Esmalcalde",
+      "titulo_semana": "Prefácio - Terceira Parte, I, 11",
+      "dias": {
+        "segunda": "Prefácio, 1 - 15",
+        "terca": "Primeira Parte - Segunda Parte, Segundo Artigo, 5",
+        "quarta": "Segundo Artigo, 7 - 20",
+        "quinta": "Segundo Artigo, 21 - Terceiro Artigo, 2",
+        "sexta": "Quarto Artigo, 1 - 11",
+        "sabado": "Quarto Artigo, 12 - Terceira Parte, I, 11"
+      }
+    },
+    {
+      "semana": 52,
+      "livro_atual": "Os Artigos de Esmalcalde",
+      "titulo_semana": "II - XV, 5",
+      "dias": {
+        "segunda": "II, 1 - III, 14",
+        "terca": "III, 15 - 26",
+        "quarta": "III, 27 - 40",
+        "quinta": "III, 41 - VI, 5",
+        "sexta": "VII, 1 - VIII, 13",
+        "sabado": "IX - XV, 5"
+      }
+    },
+    {
+      "semana": 53,
+      "livro_atual": "Fórmula de Concórdia (Epítome)",
+      "titulo_semana": "Epítome, Da Suma - V, 11",
+      "dias": {
+        "segunda": "Da Suma, 1 - I, 10",
+        "terca": "I, 11 - 25",
+        "quarta": "II, 1 - 15",
+        "quinta": "II, 16 - III, 11",
+        "sexta": "III, 12 - IV, 15",
+        "sabado": "IV, 16 - V, 11"
+      }
+    },
+    {
+      "semana": 54,
+      "livro_atual": "Fórmula de Concórdia (Epítome)",
+      "titulo_semana": "VI, 1 - X, 2",
+      "dias": {
+        "segunda": "VI, 1 - VII, 5",
+        "terca": "VII, 6 - 20",
+        "quarta": "VII, 21 - 42",
+        "quinta": "VIII, 1 - 15",
+        "sexta": "VIII, 16 - 32",
+        "sabado": "VIII, 33 - X, 2"
+      }
+    },
+    {
+      "semana": 55,
+      "livro_atual": "Fórmula de Concórdia (Epítome / Declaração Sólida)",
+      "titulo_semana": "X, 3 - Declaração Sólida, Da Suma, 7",
+      "dias": {
+        "segunda": "X, 3 - XI, 3",
+        "terca": "XI, 4 - 15",
+        "quarta": "XI, 16 - XII, 11",
+        "quinta": "XII, 12 - 31",
+        "sexta": "Declaração Sólida, 1 - 10",
+        "sabado": "Da Suma, 1 - 7"
+      }
+    },
+    {
+      "semana": 56,
+      "livro_atual": "Fórmula de Concórdia (Declaração Sólida)",
+      "titulo_semana": "Da Suma, 8 - I, 54",
+      "dias": {
+        "segunda": "Da Suma, 8 - 16",
+        "terca": "Da Suma, 17 - I, 4",
+        "quarta": "I, 5 - 14",
+        "quinta": "I, 15 - 29",
+        "sexta": "I, 30 - 42",
+        "sabado": "I, 43 - 54"
+      }
+    },
+    {
+      "semana": 57,
+      "livro_atual": "Fórmula de Concórdia (Declaração Sólida)",
+      "titulo_semana": "I, 55 - II, 51",
+      "dias": {
+        "segunda": "I, 55 - II, 2",
+        "terca": "II, 3 - 11",
+        "quarta": "II, 12 - 19",
+        "quinta": "II, 20 - 28",
+        "sexta": "II, 29 - 42",
+        "sabado": "II, 43 - 51"
+      }
+    },
+    {
+      "semana": 58,
+      "livro_atual": "Fórmula de Concórdia (Declaração Sólida)",
+      "titulo_semana": "II, 52 - III, 29",
+      "dias": {
+        "segunda": "II, 52 - 60",
+        "terca": "II, 61 - 70",
+        "quarta": "II, 71 - 81",
+        "quinta": "II, 82 - 90",
+        "sexta": "III, 1 - 16",
+        "sabado": "III, 17 - 29"
+      }
+    },
+    {
+      "semana": 59,
+      "livro_atual": "Fórmula de Concórdia (Declaração Sólida)",
+      "titulo_semana": "III, 30 - IV, 40",
+      "dias": {
+        "segunda": "III, 30 - 41",
+        "terca": "III, 42 - 54",
+        "quarta": "III, 55 - 65",
+        "quinta": "IV, 1 - 12",
+        "sexta": "IV, 13 - 28",
+        "sabado": "IV, 29 - 40"
+      }
+    },
+    {
+      "semana": 60,
+      "livro_atual": "Fórmula de Concórdia (Declaração Sólida)",
+      "titulo_semana": "V, 1 - VII, 8",
+      "dias": {
+        "segunda": "V, 1 - 10",
+        "terca": "V, 11 - 21",
+        "quarta": "V, 22 - 27",
+        "quinta": "VI, 1 - 14",
+        "sexta": "VI, 15 - 25",
+        "sabado": "VII, 1 - 8"
+      }
+    },
+    {
+      "semana": 61,
+      "livro_atual": "Fórmula de Concórdia (Declaração Sólida)",
+      "titulo_semana": "VII, 9 - 78",
+      "dias": {
+        "segunda": "VII, 9 - 19",
+        "terca": "VII, 20 - 32",
+        "quarta": "VII, 33 - 44",
+        "quinta": "VII, 45 - 58",
+        "sexta": "VII, 59 - 67",
+        "sabado": "VII, 68 - 78"
+      }
+    },
+    {
+      "semana": 62,
+      "livro_atual": "Fórmula de Concórdia (Declaração Sólida)",
+      "titulo_semana": "VII, 79 - VIII, 29",
+      "dias": {
+        "segunda": "VII, 79 - 91",
+        "terca": "VII, 92 - 105",
+        "quarta": "VII, 106 - 119",
+        "quinta": "VII, 120 - VIII, 6",
+        "sexta": "VIII, 7 - 19",
+        "sabado": "VIII, 20 - 29"
+      }
+    },
+    {
+      "semana": 63,
+      "livro_atual": "Fórmula de Concórdia (Declaração Sólida)",
+      "titulo_semana": "VIII, 30 - IX, 3",
+      "dias": {
+        "segunda": "VIII, 30 - 43",
+        "terca": "VIII, 44 - 53",
+        "quarta": "VIII, 54 - 63",
+        "quinta": "VIII, 64 - 75",
+        "sexta": "VIII, 76 - 86",
+        "sabado": "VIII, 87 - IX, 3"
+      }
+    },
+    {
+      "semana": 64,
+      "livro_atual": "Fórmula de Concórdia (Declaração Sólida)",
+      "titulo_semana": "X, 1 - XI, 47",
+      "dias": {
+        "segunda": "X, 1 - 13",
+        "terca": "X, 14 - 25",
+        "quarta": "X, 26 - XI, 8",
+        "quinta": "XI, 9 - 23",
+        "sexta": "XI, 24 - 33",
+        "sabado": "XI, 34 - 47"
+      }
+    },
+    {
+      "semana": 65,
+      "livro_atual": "Fórmula de Concórdia (Declaração Sólida)",
+      "titulo_semana": "XI, 48 - XII, 40",
+      "dias": {
+        "segunda": "XI, 48 - 64",
+        "terca": "XI, 65 - 77",
+        "quarta": "XI, 78 - 86",
+        "quinta": "XI, 87 - XII, 4",
+        "sexta": "XII, 5 - 27",
+        "sabado": "XII, 28 - 40"
+      }
+    }
+  ]
+}
