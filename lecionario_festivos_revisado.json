@@ -1043,6 +1043,239 @@
           "evangelho": "João 5.24-29"
         }
       }
+    },
+    ,
+    {
+      "nome_dia": "ANIVERSÁRIO DE CONGREGAÇÃO",
+      "data_calendario": null,
+      "metadados": {
+        "cor": "Vermelha",
+        "prefacio": null
+      },
+      "liturgia": {
+        "oracao_do_dia": "Todo-poderoso Deus, que prometeste estar com a tua Igreja para sempre, oramos pela tua presença neste lugar de adoração e pedimos tua bênção contínua sobre aqueles que aqui se reúnem. Habita continuamente entre nós com a tua santa Palavra e sacramentos, fortalece nossa comunhão nos laços do amor e da paz e aumenta nosso testemunho fiel da tua salvação; através de Jesus Cristo, teu Filho, nosso Senhor, que vive e reina contigo e o Espírito Santo, um só Deus, agora e sempre.",
+        "introito": {
+          "referencia": "1 Crônicas 29.10b,11,13; antífona Salmo 26.8",
+          "texto": "Ó Senhor Deus, eu amo a casa onde vives, O lugar onde está presente a tua glória. Senhor, Deus do nosso antepassado Jacó, Bendito sejas para sempre! Tu és grande e poderoso, glorioso, esplêndido e majestoso. Tudo o que existe no céu e na terra pertence a ti; Tu és o Rei, O supremo governador de tudo. Agora, nosso Deus, nós te agradecemos E louvamos o teu nome glorioso. Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém. Ó Senhor Deus, eu amo a casa onde vives, O lugar onde está presente a tua glória."
+        },
+        "gradual": {
+          "referencia": "Salmo 26.8; 84.3-4",
+          "texto": "Ó Senhor Deus, eu amo a casa onde vives, O lugar onde está presente a tua glória. Ó Senhor Todo-Poderoso, meu Rei e meu Deus, perto dos teus altares Os pardais constroem o seu ninho, e as andorinhas fazem a sua casa, onde cuidam dos seus filhotes. Felizes são os que moram na tua casa, Sempre cantando louvores a ti!"
+        },
+        "verso": {
+          "referencia": "Salmo 115.1",
+          "texto": "Aleluia. Somente a ti, ó Senhor Deus, a ti somente, e não a nós, seja dada a glória por causa do teu amor e da tua fidelidade. Aleluia."
+        },
+        "leituras": {
+          "salmo": "Salmo 84 (antífona vers. 4)",
+          "primeira_leitura": "1 Reis 8.22-30",
+          "segunda_leitura": "Apocalipse 21.1-5",
+          "evangelho": "Lucas 19.1-10"
+        }
+      }
+    },
+    {
+      "nome_dia": "FESTIVAL MISSIONÁRIO",
+      "data_calendario": null,
+      "metadados": {
+        "cor": "Branca",
+        "prefacio": null
+      },
+      "liturgia": {
+        "oracao_do_dia": "Todo-poderoso Deus, em tua bondade fizeste a luz do Evangelho brilhar entre nós. Pela ação de teu Espírito Santo, ajuda-nos a compartilhar as boas novas da tua salvação para que todos que as ouvem possam se alegrar com o dom do teu amor sem fim; através de Jesus Cristo, teu Filho, que vive e reina contigo e o Espírito Santo, um só Deus, agora e sempre.",
+        "introito": {
+          "referencia": "Salmo 108.3-5; antífona Salmo 105.1",
+          "texto": "Agradeçam a Deus, o Senhor, anunciem a sua grandeza E contem às nações as coisas que ele fez. Ó Senhor Deus, eu te darei graças no meio das nações; Eu te louvarei entre os povos. O teu amor está acima dos céus, E a tua fidelidade chega até as nuvens. Ó Deus, mostra a tua grandeza nos céus E que a tua glória brilhe no mundo inteiro! Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém. Agradeçam a Deus, o Senhor, anunciem a sua grandeza E contem às nações as coisas que ele fez."
+        },
+        "gradual": {
+          "referencia": "Salmo 67.1-2",
+          "texto": "Ó Deus, tem misericórdia de nós e abençoa-nos! Trata-nos com bondade. Assim o mundo inteiro conhecerá a tua vontade, E a tua salvação será conhecida por todos os povos."
+        },
+        "verso": {
+          "referencia": "Atos 1.8",
+          "texto": "Aleluia. Quando o Espírito Santo descer sobre vocês, vocês receberão poder e serão minhas testemunhas em Jerusalém, em toda a Judéia e Samaria e até nos lugares mais distantes da terra. Aleluia."
+        },
+        "leituras": {
+          "salmo": "Salmo 96 (antífona vers. 2)",
+          "primeira_leitura": "Isaías 62.1-7",
+          "segunda_leitura": "Romanos 10.11-17",
+          "evangelho": "Lucas 24.44-53"
+        }
+      }
+    },
+    {
+      "nome_dia": "EDUCAÇÃO CRISTÃ",
+      "data_calendario": null,
+      "metadados": {
+        "cor": "Do período",
+        "prefacio": "Do período"
+      },
+      "liturgia": {
+        "oracao_do_dia": "Senhor Jesus Cristo, que encarregaste teu povo da tarefa de ensinar a todas as nações, ilumina com a sabedoria de teu Espírito Santo aqueles que ensinam e aqueles que estudam, para que a alegre verdade do Evangelho possa ser conhecida a cada geração; pois tu vives e reinas com o Pai e o Espírito Santo, um só Deus, agora e sempre.",
+        "introito": {
+          "referencia": "Salmo 34.8-10; antífona Salmo 34.11",
+          "texto": "Venham, meus jovens amigos, e escutem, Que eu os ensinarei a temer a Deus, o Senhor. Procure descobrir, por você mesmo, como o Senhor Deus é bom. Feliz aquele que encontra segurança nele! Que todos os que se dedicam a Deus o temam, Pois aqueles que o temem não têm falta de nada! Até os leões não têm comida e passam fome, Porém não falta nada aos que procuram a ajuda do Senhor. Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém. Venham, meus jovens amigos, e escutem, Que eu os ensinarei a temer a Deus, o Senhor."
+        },
+        "gradual": {
+          "referencia": "Provérbios 9.10; 1.5,8",
+          "texto": "Para ser sábio, é preciso primeiro temer a Deus, o Senhor. Se você conhece o Deus Santo, então você tem compreensão das coisas. Estes provérbios aumentam a sabedoria dos sábios E orientam os instruídos. Meu filho, escute o que o seu pai ensina E preste atenção no que a sua mãe diz."
+        },
+        "verso": {
+          "referencia": "Provérbios 2.6",
+          "texto": "Aleluia. É o Senhor quem dá sabedoria; a sabedoria e o entendimento vêm dele. Aleluia."
+        },
+        "leituras": {
+          "salmo": "Salmo 119.129-136 (antífona vers. 105)",
+          "primeira_leitura": "Deuteronômio 6.4-15",
+          "segunda_leitura": "Atos 2.37-41",
+          "evangelho": "Lucas 18.15-17"
+        }
+      }
+    },
+    {
+      "nome_dia": "FESTIVAL DA MÚSICA ou CULTO CANTATE",
+      "data_calendario": null,
+      "metadados": {
+        "cor": "Do período",
+        "prefacio": "Do período"
+      },
+      "liturgia": {
+        "oracao_do_dia": "Senhor Deus, que em tua boa bondade concedes dons a todas as pessoas, usa-nos conforme os dons que nos concedeste a fim de proclamarmos o teu nome com arte e com júbilo e te louvarmos por todas as bênçãos que constantemente de ti recebemos; através de Jesus Cristo, teu Filho, nosso Senhor, que vive e reina contigo e o Espírito Santo, um só Deus, agora e sempre.",
+        "introito": {
+          "referencia": "Salmo 149.1-4; antífona Salmo 149.5",
+          "texto": "Que os seus servos fiéis se alegrem com a vitória E cantem alegremente nas suas festas! Aleluia! Cantem a Deus, o Senhor, uma nova canção. Louvem a Deus na reunião dos seus servos fiéis. Alegre-se, ó povo de Israel, por causa do seu Criador! Fique contente, ó povo de Jerusalém, por causa do seu Rei! Louvem a Deus, o Senhor, com danças E, em seu louvor, toquem pandeiros e liras. Pois o Senhor está contente com o seu povo; Ele dá aos humildes a honra da vitória. Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém. Que os seus servos fiéis se alegrem com a vitória E cantem alegremente nas suas festas!"
+        },
+        "gradual": {
+          "referencia": "Salmo 147.1; 146.1-2",
+          "texto": "Aleluia! É bom cantar louvores ao nosso Deus; É agradável e certo louvá-lo. Aleluia! Que todo o meu ser te louve, ó Senhor! A vida inteira eu louvarei o meu Deus, cantarei louvores a ele enquanto eu viver."
+        },
+        "verso": {
+          "referencia": "Colossenses 3.16c",
+          "texto": "Aleluia. Cantem salmos, hinos e canções espirituais; louvem a Deus, com gratidão no coração. Aleluia."
+        },
+        "leituras": {
+          "salmo": "Salmo 150 (antífona vers. 2)",
+          "primeira_leitura": "Isaías 12",
+          "segunda_leitura": "Apocalipse 15.2-4 ou Colossenses 3.12-17",
+          "evangelho": "Mateus 21.14-17 ou Lucas 1.39-55"
+        }
+      }
+    },
+    {
+      "nome_dia": "FESTA DA COLHEITA",
+      "data_calendario": null,
+      "metadados": {
+        "cor": "Do período",
+        "prefacio": "Do período"
+      },
+      "liturgia": {
+        "oracao_do_dia": "Todo-poderoso Deus, tu coroas os campos com a tua bênção e nos permites recolher os frutos da terra. Como administradores da tua criação, que possamos receber teus dons com humilde gratidão e compartilhar tua generosidade com aqueles que estão em necessidade; através de Jesus Cristo, nosso Senhor, que vive e reina contigo e o Espírito Santo, um só Deus, agora e sempre.",
+        "introito": {
+          "referencia": "Salmo 104.24,14-15; antífona Salmo 104.31",
+          "texto": "Que a glória de Deus, o Senhor, dure para sempre! Que ele se alegre com aquilo que fez! Ó Senhor, tu tens feito tantas coisas e foi com sabedoria que as fizeste. A terra está cheia das tuas criaturas. Fazes crescer capim para o gado e verduras e cereais para as pessoas, Que assim tiram da terra o seu alimento. Fazes a terra produzir o vinho, que deixa a gente feliz; O azeite, que alegra; e o pão, que dá forças. Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém. Que a glória de Deus, o Senhor, dure para sempre! Que ele se alegre com aquilo que fez!"
+        },
+        "gradual": {
+          "referencia": "Salmo 34.8; 147.9,10a,11",
+          "texto": "Procure descobrir, por você mesmo, como o Senhor Deus é bom. Feliz aquele que encontra segurança nele! Ele dá de comer aos animais E alimenta os filhotes dos corvos quando eles pedem. O que agrada a Deus [são] as pessoas que o temem E põem a sua esperança no seu amor."
+        },
+        "verso": {
+          "referencia": "1 Tessalonicenses 5.18",
+          "texto": "Aleluia. Sejam agradecidos a Deus em todas as ocasiões. Isso é o que Deus quer de vocês por estarem unidos com Cristo Jesus. Aleluia."
+        },
+        "leituras": {
+          "salmo": "Salmo 65 (antífona vers. 1)",
+          "primeira_leitura": "Deuteronômio 26.1-11",
+          "segunda_leitura": "2 Coríntios 9.6-15",
+          "evangelho": "Lucas 12.13-21"
+        }
+      }
+    },
+    {
+      "nome_dia": "DIA NACIONAL DE AÇÃO DE GRAÇAS",
+      "data_calendario": "Quarta quinta-feira de novembro",
+      "metadados": {
+        "cor": "Branca",
+        "prefacio": null
+      },
+      "liturgia": {
+        "oracao_do_dia": "Todo-poderoso Deus, tuas misericórdias são novas a cada manhã e tu provês graciosamente por todas as nossas necessidades do corpo e da alma. Concede-nos o teu Espírito Santo para que possamos reconhecer tua bondade, dar graças pelos teus benefícios e te servir com obediência voluntária todos os nossos dias; através de Jesus Cristo, nosso Senhor, que vive e reina contigo e o Espírito Santo, um só Deus, agora e sempre.",
+        "introito": {
+          "referencia": "Salmo 104.24,27-28,30; antífona Salmo 104.33",
+          "texto": "Cantarei louvores ao Senhor enquanto eu viver; Cantarei ao meu Deus a vida inteira. Ó Senhor, tu tens feito tantas coisas e foi com sabedoria que as fizeste. A terra está cheia das tuas criaturas. Todos os animais dependem de ti, Esperando que lhes dês alimento no tempo certo. Tu dás a comida, E eles comem e ficam satisfeitos. Quando lhes dás o sopro de vida, eles nascem; E assim dás vida nova à terra. Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém. Cantarei louvores ao Senhor enquanto eu viver; Cantarei ao meu Deus a vida inteira."
+        },
+        "gradual": {
+          "referencia": "Salmo 145.15-16; 118.1",
+          "texto": "Todos os seres vivos olham para ele com esperança, E ele dá alimento a todos no tempo certo. Quando os alimenta, o Senhor Deus é generoso; Ele satisfaz a todos os seres vivos. Dêem graças a Deus, o Senhor, porque ele é bom E porque o seu amor dura para sempre."
+        },
+        "verso": {
+          "referencia": "Salmo 136.1",
+          "texto": "Aleluia. Dêem graças a Deus, o Senhor, porque ele é bom; o seu amor dura para sempre. Aleluia."
+        },
+        "leituras": {
+          "salmo": "Salmo 67 (antífona vers. 7)",
+          "primeira_leitura": "Deuteronômio 8.1-10",
+          "segunda_leitura": "Filipenses 4.6-20 ou 1 Timóteo 2.1-4",
+          "evangelho": "Lucas 17.11-19"
+        }
+      }
+    },
+    {
+      "nome_dia": "DIA DE SÚPLICA E DE ORAÇÃO",
+      "data_calendario": null,
+      "metadados": {
+        "cor": "Roxa",
+        "prefacio": null
+      },
+      "liturgia": {
+        "oracao_do_dia": "Todo-poderoso Deus, cuja compaixão nunca falha e que nos convidas a te chamar em oração, escuta a sincera confissão de nossos pecados e recebe nossa humilde súplica por tua misericórdia. Poupa-nos do justo castigo do pecado, que nosso Senhor Jesus Cristo sofreu por nós, e capacita-nos a te servir em santidade e pureza de vida; através de Jesus Cristo, nosso Senhor, que vive e reina contigo e o Espírito Santo, um só Deus, agora e sempre.",
+        "introito": {
+          "referencia": "Salmo 30.1,4-5; antífona Salmo 30.10",
+          "texto": "Ó Deus, escuta-me e tem compaixão de mim! Ajuda-me, ó Senhor Deus! Ó Senhor Deus, eu te louvo porque me socorreste E não deixaste que os meus inimigos zombassem de mim. Cantem louvor a Deus, o Senhor, vocês, o seu povo fiel! Lembrem do que o Santo Deus tem feito e lhe dêem graças. A sua ira dura só um momento, mas a sua bondade é para a vida toda. O choro pode durar a noite inteira, mas de manhã vem a alegria. Ó Deus, escuta-me e tem compaixão de mim! Ajuda-me, ó Senhor Deus!"
+        },
+        "gradual": {
+          "referencia": "Isaías 55.6-7",
+          "texto": "Procurem a ajuda de Deus enquanto podem achá-lo; Orem ao Senhor enquanto ele está perto. Que as pessoas perversas mudem a sua maneira de viver E abandonem os seus maus pensamentos! Voltem para o Senhor, nosso Deus, Pois ele tem compaixão e perdoa completamente."
+        },
+        "verso": {
+          "referencia": "Salmo 38.21-22",
+          "texto": "Ó Senhor Deus, não me abandones! Não te afastes de mim, meu Deus! Ajuda-me agora, ó Senhor, meu Salvador!"
+        },
+        "leituras": {
+          "salmo": "Salmo 6 (antífona vers. 4)",
+          "primeira_leitura": "Joel 2.12-19",
+          "segunda_leitura": "1 João 1.5-2.2",
+          "evangelho": "Mateus 6.16-21"
+        }
+      }
+    },
+    {
+      "nome_dia": "DIA DE CALAMIDADE",
+      "data_calendario": null,
+      "metadados": {
+        "cor": "Roxa",
+        "prefacio": null
+      },
+      "liturgia": {
+        "oracao_do_dia": "Pai de toda a misericórdia, que com compaixão ouves os gritos do teu povo que está em grande angústia, esteja com todos que passam por aflições e calamidade, abençoa a obra daqueles que trazem resgate e socorro e capacita-nos a ajudar e confortar aqueles que estão sofrendo, para que possam encontrar esperança e determinação renovadas; através de Jesus Cristo, nosso Senhor, que vive e reina contigo e o Espírito Santo, um só Deus, agora e sempre.",
+        "introito": {
+          "referencia": "Salmo 102.1-3,11; antífona Salmo 102.12",
+          "texto": "Tu, ó Senhor Deus, és Rei para sempre; Todas as gerações futuras lembrarão de ti. Ó Senhor, ouve a minha oração E escuta o meu grito pedindo socorro! Não te escondas de mim quando estou aflito. Ouve-me quando eu te chamar e responde depressa. A minha vida está desaparecendo como fumaça, E o meu corpo queima como se estivesse no fogo. A minha vida é como as sombras do anoitecer; Vou secando como o capim. Glória ao Pai e ao Filho e ao Espírito Santo, como era no princípio, agora é, e para sempre será – de eternidade a eternidade. Amém. Tu, ó Senhor Deus, és Rei para sempre; Todas as gerações futuras lembrarão de ti."
+        },
+        "gradual": {
+          "referencia": "Isaías 55.6-7",
+          "texto": "Procurem a ajuda de Deus enquanto podem achá-lo; Orem ao Senhor enquanto ele está perto. Que as pessoas perversas mudem a sua maneira de viver E abandonem os seus maus pensamentos! Voltem para o Senhor, nosso Deus, Pois ele tem compaixão e perdoa completamente."
+        },
+        "verso": {
+          "referencia": "Salmo 38.21-22",
+          "texto": "Aleluia. Ó Senhor Deus, não me abandones! Não te afastes de mim, meu Deus! Ajuda-me agora, ó Senhor, meu Salvador! Aleluia."
+        },
+        "leituras": {
+          "salmo": "Salmo 130 (antífona vers. 5)",
+          "primeira_leitura": "Jó 30.16-24 ou Apocalipse 7.13-17",
+          "segunda_leitura": "Romanos 8.31-39 ou Hebreus 12.4-13",
+          "evangelho": "Lucas 13.1-9 ou Mateus 24.32-35"
+        }
+      }
     }
   ]
 }
